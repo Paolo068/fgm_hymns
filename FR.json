@@ -10,7 +10,7 @@
       "enLyrics": [
         "À Dieu soit la gloire, \nPar Son grand amour, \nDans mon âme noire, \nS’est levé le jour. \nJésus, à ma place, \nMourut sur la croix, \nIl m’offre Sa grâce et je la reçois!",
         "Parfaite rédemption, \nChrist a racheté \nPour Dieu par Son sang \nLes gens de toute’ tribu; \nCelui qui de sa bouche’ \nConfesse Jésus, \nEt qui croit dans son cœur, \nsera pardonné.",
-        "De Jésus la joie \nremplit notre cœur; \nQu’importe qu’on voie \ntout notre bonheur, \nSelon Sa promesse \nJésus changera \nDeuil en allégresse, \nquand Il reviendra."
+        "De Jésus la joie \nremplit notre cœur; \nQu’importe qu’on voie tout notre bonheur, \nSelon Sa promesse Jésus changera \nDeuil en allégresse, quand Il reviendra."
       ]
     },
     {
@@ -31,77 +31,82 @@
       "songTitle": "CHRIST EST RESSUSCITE",
       "id": 3,
       "songId": 4,
-      "chorus": "À toi la gloire et l’honneur, Ô Sauveur, O puissant Rédempteur! Du sépulcre, Tu sortis vainqueur, Prince de vie Et Prince de paix. Gloire à toi! Gloire à toi! Gloire à toi! Gloire à jamais!",
+      "chorus": "À toi la gloire et l’honneur, \nÔ Sauveur, \nO puissant Rédempteur! \nDu sépulcre, \nTu sortis vainqueur, \nPrince de vie \nEt Prince de paix. \nGloire à toi! Gloire à toi! \nGloire à toi! Gloire à jamais!",
       "key": "Si ♭ majeur",
       "author": "",
       "enLyrics": [
-        "Christ est ressuscité! Qu’en des chants joyeux, Son triomphe en tous lieux Soit exalté.",
-        "Christ est ressuscités! Cherche en lui toujours, Ô peuple racheté, Force et secours!",
-        "Christ est ressuscité! Par lui, nous vivrons Et dans l’éternité, Nous règnerons."
+        "Christ est ressuscité! \nQu’en des chants joyeux, \nSon triomphe en tous lieux \nSoit exalté.",
+        "Christ est ressuscités! \nCherche en lui toujours, \nÔ peuple racheté, \nForce et secours!",
+        "Christ est ressuscité! \nPar lui, nous vivrons \nEt dans l’éternité, \nNous règnerons."
       ]
     },
     {
       "songTitle": "Ô VOUS QUI N’AVEZ PAS LA PAIX",
+      "id": 4,
       "songId": 5,
-      "chorus": "Quand Jésus remplit un cœur, Il déborde de bonheur, Et l’effroi ne l’atteint plus, Gloire, gloire à Jésus!",
+      "chorus": "Quand Jésus remplit un cœur, \nIl déborde de bonheur, \nEt l’effroi ne l’atteint plus, \nGloire, gloire à Jésus!",
       "key": "Ré majeur",
       "author": "William Howard Doane, Mlle N. Coulin (1911)",
       "enLyrics": [
-        "Ô vous qui n’avez pas la paix, Venez, Jésus la donne. Pure, profonde et pour jamais: Venez, Jésus pardonne.",
-        "Vous qui tombez à chaque pas, Venez, Jésus délivre; Celui qui se jette en Ses bras, Peut à toujours Le suivre. Quand Jésus remplit un cœur, Il déborde de bonheur, Car il ne chancelle plus, Gloire, gloire à Jésus!",
-        "Vous qui craignez le lendemain, Venez : Jésus rassure ; Pas à pas, la main dans sa main, La route devient sûre. Quand Jésus remplit un cœur, Il Déborde de bonheur, Et l’effroi ne l’atteint plus, Gloire, gloire à Jésus !",
-        "Vous qui tremblez sous la terreur Que la mort vous inspire, Venez, votre Libérateur, a détruit son empire! Avec Lui nous revivrons, Avec Lui nous régnerons, Et la mort ne sera plus: Gloire, gloire à Jésus!"
+        "Ô vous qui n’avez pas la paix, \nVenez, Jésus la donne. \nPure, profonde et pour jamais: \nVenez, Jésus pardonne.",
+        "Vous qui tombez à chaque pas, \nVenez, Jésus délivre; \nCelui qui se jette en Ses bras, \nPeut à toujours Le suivre. \nQuand Jésus remplit un cœur, \nIl déborde de bonheur, \nCar il ne chancelle plus, \nGloire, gloire à Jésus!",
+        "Vous qui craignez le lendemain, \nVenez : Jésus rassure ; \nPas à pas, la main dans sa main, \nLa route devient sûre. \nQuand Jésus remplit un cœur, Il \nDéborde de bonheur, \nEt l’effroi ne l’atteint plus, \nGloire, gloire à Jésus !",
+        "Vous qui tremblez sous la terreur \nQue la mort vous inspire, \nVenez, votre Libérateur, \na détruit son empire! \nAvec Lui nous revivrons, \nAvec Lui nous régnerons, \nEt la mort ne sera plus: \nGloire, gloire à Jésus!"
       ]
     },
     {
       "songTitle": "VIENS A JESUS",
+      "id": 5,
       "songId": 6,
       "chorus": "",
       "key": "Sol majeur",
       "author": "Th. Rivier, Edward Payson Hammond (1901)",
       "enLyrics": [
-        "Viens à Jésus, il t’appelle ; Il t’appelle aujourd’hui. Trop longtemps tu fus rebelle : Aujourd’hui viens à lui.",
-        "Jésus t’aime, Jésus t’aime, Jésus t’aime aujourd’hui. Malgré ta misère extrême, Aujourd’hui viens à lui.",
-        "Il pardonne, il pardonne, Il pardonne aujourd’hui. Reçois le salut qu’il donne : Aujourd’hui viens à lui.",
-        "Il efface, il efface, Il efface aujourd’hui. Ce jour est un jour de grâce ; Aujourd’hui viens à lui."
+        "Viens à Jésus, il t’appelle ; \nIl t’appelle aujourd’hui. \nTrop longtemps tu fus rebelle : \nAujourd’hui viens à lui.",
+        "Jésus t’aime, Jésus t’aime, \nJésus t’aime aujourd’hui. \nMalgré ta misère extrême, \nAujourd’hui viens à lui.",
+        "Il pardonne, il pardonne, \nIl pardonne aujourd’hui. \nReçois le salut qu’il donne : \nAujourd’hui viens à lui.",
+        "Il efface, il efface, \nIl efface aujourd’hui. \nCe jour est un jour de grâce ; \nAujourd’hui viens à lui."
       ]
     },
     {
       "songTitle": "VENEZ AU SAUVEUR",
+      "id": 6,
       "songId": 7,
-      "chorus": "Oh ! quel beau jour, Sauveur fidèle, Quand, nous appuyant sur ton bras, Dans la demeure paternelle Nous porterons nos pas !",
+      "chorus": "Oh ! quel beau jour, Sauveur fidèle, \nQuand, nous appuyant sur ton bras, \nDans la demeure paternelle \nNous porterons nos pas !",
       "key": "Si ♭ majeur",
       "author": "A.Glardon, George F. Root (1878)",
       "enLyrics": [
-        "Venez au Sauveur qui vous aime, Venez, Il a brisé vos fers ; Il veut vous recevoir Lui-même, Ses bras vous sont ouverts.",
-        "Venez, pécheurs, Il vous appelle, Le bonheur est dans son amour. Ah ! donnez-lui ce cœur rebelle, Donnez-le sans retour.",
-        "Le temps s'enfuit, l'heure s'écoule, Qui sait si nous vivrons demain ? Jésus est ici dans la foule ; Ah! saisissez sa main !"
+        "Venez au Sauveur qui vous aime, \nVenez, Il a brisé vos fers ; \nIl veut vous recevoir Lui-même, \nSes bras vous sont ouverts.",
+        "Venez, pécheurs, Il vous appelle, \nLe bonheur est dans son amour. \nAh ! donnez-lui ce cœur rebelle, \nDonnez-le sans retour.",
+        "Le temps s'enfuit, l'heure s'écoule, \nQui sait si nous vivrons demain ? \nJésus est ici dans la foule ; \nAh! saisissez sa main !"
       ]
     },
     {
       "songTitle": "A LA CROIX OU MOURUT",
+      "id": 7,
       "songId": 8,
       "chorus": "",
       "key": "Sol majeur",
       "author": "Elisha A. Hoffman in (1878)",
       "enLyrics": [
-        "À la croix où mourut mon Sauveur, Je suis venu, brisé de douleur ; Là son sang purifia mon cœur. À son nom la gloire ! À son nom la gloire ! Là son sang purifia mon cœur. À son nom la gloire !",
-        "Quelle merveille ! Il vint me sauver ; Quand de sa croix je me fus chargé, En moi Jésus vint pour demeurer. À son nom la gloire ! À son nom la gloire ! En moi Jésus vint pour demeurer.À son nom la gloire !",
-        "Ô fontaine effaçant le péché, Donnant la vie au cœur desséché ! Là, Jésus me retient attaché. À son nom la gloire ! À son nom la gloire ! À son nom la gloire ! Là, Jésus me retient attaché. À son nom la gloire !",
-        "Pauvre âme, viens aux pieds du Sauveur, À la source ouverte à tout pécheur ; Viens t’y plonger, trouver le bonheur. À son nom la gloire ! À son nom la gloire ! Viens t’y plonger, trouver le bonheur. À son nom la gloire !"
+        "À la croix où mourut mon Sauveur, \nJe suis venu, brisé de douleur ; \nLà son sang purifia mon cœur. \nÀ son nom la gloire ! \nÀ son nom la gloire ! \nLà son sang purifia mon cœur. \nÀ son nom la gloire !",
+        "Quelle merveille ! Il vint me sauver ; \nQuand de sa croix je me fus chargé, \nEn moi Jésus vint pour demeurer. \nÀ son nom la gloire ! \nÀ son nom la gloire ! \nEn moi Jésus vint pour demeurer. \nÀ son nom la gloire !",
+        "Ô fontaine effaçant le péché, \nDonnant la vie au cœur desséché ! \nLà, Jésus me retient attaché. \nÀ son nom la gloire ! \nÀ son nom la gloire ! \nÀ son nom la gloire ! \nLà, Jésus me retient attaché. \nÀ son nom la gloire !",
+        "Pauvre âme, viens aux pieds du Sauveur, \nÀ la source ouverte à tout pécheur ; \nViens t’y plonger, trouver le bonheur. \nÀ son nom la gloire ! \nÀ son nom la gloire ! \nViens t’y plonger, trouver le bonheur. \nÀ son nom la gloire !"
       ]
     },
     {
       "songTitle": "ES-TU LASSE REMPLI DE TRISTESSE",
+      "id": 8,
       "songId": 9,
-      "chorus": "Dis tout à Jésus! Oh! Dis-lui tout! Combien son accueil est doux! Il peut comprendre, Il aime à t’entendre : Dis-lui simplement tout!",
+      "chorus": "Dis tout à Jésus! \nOh! Dis-lui tout! \nCombien son accueil est doux! \nIl peut comprendre, \nIl aime à t’entendre : \nDis-lui simplement tout!",
       "key": "Sol majeur",
       "author": "Jeremiah Eames Rankin (1855)",
       "enLyrics": [
-        "Es-tu lassé, Rempli de tristesse? Dis tout à Jésus! Dis tout à Jésus! Son cœur est ouvert À ta voix sans cesse. Oh! Dis tout à Jésus!",
-        "Il voit tes yeux, Rougis par les larmes : Dis tout à Jésus! Dis tout à Jésus! Il connaît ton cœur, Il sait tes alarmes. Oh! Dis tout à Jésus!",
-        "Si ton passé surgit, Comme une ombre : Dis tout à Jésus! Dis tout à Jésus! Il peut effacer Tes péchés sans nombre. Oh ! Dis tout à Jésus!",
-        "Et pour demain, Ce que tu redoutes : Dis tout à Jésus! Dis tout à Jésus! Il est près de toi Le long de la route. Oh ! Dis tout à Jésus!"
+        "Es-tu lassé, Rempli de tristesse? \nDis tout à Jésus! Dis tout à Jésus! \nSon cœur est ouvert \nÀ ta voix sans cesse. \nOh! Dis tout à Jésus!",
+        "Il voit tes yeux, Rougis par les larmes : \nDis tout à Jésus! Dis tout à Jésus! \nIl connaît ton cœur, \nIl sait tes alarmes. \nOh! Dis tout à Jésus!",
+        "Si ton passé surgit, Comme une ombre : \nDis tout à Jésus! Dis tout à Jésus! \nIl peut effacer \nTes péchés sans nombre. \nOh ! Dis tout à Jésus!",
+        "Et pour demain, Ce que tu redoutes : \nDis tout à Jésus! Dis tout à Jésus! \nIl est près de toi \nLe long de la route. \nOh ! Dis tout à Jésus!"
       ]
     },
     {
