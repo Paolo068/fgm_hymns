@@ -111,463 +111,499 @@
     },
     {
       "songTitle": "RIEN QUE LE SANG DE JESUS",
+      "id": 9,
       "songId": 10,
-      "chorus": "Précieux sang de l'Agneau, Qui me donne un cœur nouveau; Rien d'autre, je ne veux plus; Rien que le sang de Jésus!",
+      "chorus": "Précieux sang de l'Agneau, \nQui me donne un cœur nouveau; \nRien d'autre, je ne veux plus; \nRien que le sang de Jésus!",
       "key": "",
       "author": "Robert Lowry (1877)",
       "enLyrics": [
-        "Rien ne peut sauver mon âme, Rien que le sang de Jésus! Pour elle je ne réclame, Rien que le sang de Jésus!",
-        "Pour mon pardon je ne vois Rien que le sang de Jésus! Pour mon salut je ne crois Rien que le sang de Jésus!",
-        "Je ne veux pour ma justice, Rien que le sang de Jésus! Qui me rendra Dieu propice? Rien que le sang de Jésus!",
-        "Mon Dieu, je ne Te présente Rien que le sang de Jésus! Rien ici ne me contente, Rien que le sang de Jésus!",
-        "Je n'ai pour toute espérance, Rien que le sang de Jésus! Pour appui, pour confiance, Rien que le sang de Jésus!"
+        "Rien ne peut sauver mon âme, \nRien que le sang de Jésus! \nPour elle je ne réclame, \nRien que le sang de Jésus!",
+        "Pour mon pardon je ne vois \nRien que le sang de Jésus! \nPour mon salut je ne crois \nRien que le sang de Jésus!",
+        "Je ne veux pour ma justice, \nRien que le sang de Jésus! \nQui me rendra Dieu propice? \nRien que le sang de Jésus!",
+        "Mon Dieu, je ne Te présente \nRien que le sang de Jésus! \nRien ici ne me contente, \nRien que le sang de Jésus!",
+        "Je n'ai pour toute espérance, \nRien que le sang de Jésus! \nPour appui, pour confiance, \nRien que le sang de Jésus!"
       ]
     },
     {
       "songTitle": "JESUS PAR TON SANG PRECIEUX",
+      "id": 10,
       "songId": 11,
       "chorus": "",
       "key": "Ré majeur",
       "author": "A.Humbert, Eden Reeder Latta, (1881)",
       "enLyrics": [
-        "Jésus, par Ton sang précieux, Enlève mon iniquité, Regarde-moi du haut des cieux, Dis-moi que Tu m’as pardonné... J’ai longtemps erré, cœur rebelle, Mais j’entends Ta voix qui m’appelle, Au pied de Ta croix maintenant, Tout confus, brisé, je me rends. Blanc, plus blanc que neige, (x2) Lavé dans le sang de l’Agneau, Je serai plus blanc que la neige!",
-        "Oh! Le fardeau de mon péché, Dieu très Saint, est trop grand pour moi. Je veux en être délivré, À cette heure, oh! Révèle-Toi! Jésus viens! Sois ma délivrance, Seul Tu peux calmer ma souffrance. Au pied de Ta croix maintenant, Tout confus, brisé, je me rends.",
-        "Oh! Jésus Ton sang précieux, A lavé mon iniquité, Oui, Tu m’as répondu des cieux, Ton amour m’a tout pardonné. Je Te contemple et je puis croire, Qu’en Toi j’ai complète victoire… Au pied de Ta croix maintenant, Je me relève triomphant! Blanc, plus blanc que neige, (x2) Lavé dans le sang de l’Agneau, Mon cœur est plus blanc que la neige!"
+        "Jésus, par Ton sang précieux, \nEnlève mon iniquité, \nRegarde-moi du haut des cieux, \nDis-moi que Tu m’as pardonné... \nJ’ai longtemps erré, cœur rebelle, \nMais j’entends Ta voix qui m’appelle, \nAu pied de Ta croix maintenant, \nTout confus, brisé, je me rends. \nBlanc, plus blanc que neige, (x2) \nLavé dans le sang de l’Agneau, \nJe serai plus blanc que la neige!",
+        "Oh! Le fardeau de mon péché, \nDieu très Saint, est trop grand pour moi. \nJe veux en être délivré, \nÀ cette heure, oh! Révèle-Toi! \nJésus viens! Sois ma délivrance, \nSeul Tu peux calmer ma souffrance. \nAu pied de Ta croix maintenant, \nTout confus, brisé, je me rends.",
+        "Oh! Jésus Ton sang précieux, \nA lavé mon iniquité, \nOui, Tu m’as répondu des cieux, \nTon amour m’a tout pardonné. \nJe Te contemple et je puis croire, \nQu’en Toi j’ai complète victoire… \nAu pied de Ta croix maintenant, \nJe me relève triomphant! \nBlanc, plus blanc que neige, (x2) \nLavé dans le sang de l’Agneau, \nMon cœur est plus blanc que la neige!"
       ]
     },
     {
       "songTitle": "TEL QUE JE SUIS",
+      "id": 11,
       "songId": 12,
       "chorus": "",
       "key": "Mi ♭ majeur",
       "author": "Charlotte Elliott (1835)",
       "enLyrics": [
-        "Tel que je suis, sans rien à moi, Sinon Ton sang versé pour moi; Et Ta voix qui m’appelle à Toi, Agneau de Dieu, je viens, je viens!",
-        "Tel que je suis, bien vacillant, En proie au doute à chaque instant, Lutte au dehors, crainte au dedans, Agneau de Dieu, je viens, je viens!",
-        "Tel que je suis, Ton cœur est prêt À prendre le mien tel qu’il est. Pour tout changer, Sauveur parfait! Agneau de Dieu, je viens, je viens!",
-        "Tel que je suis, Ton grand amour A tout pardonné sans retour. Je veux être à Toi dès ce jour; Agneau de Dieu, je viens, je viens!"
+        "Tel que je suis, sans rien à moi, \nSinon Ton sang versé pour moi; \nEt Ta voix qui m’appelle à Toi, \nAgneau de Dieu, je viens, je viens!",
+        "Tel que je suis, bien vacillant, \nEn proie au doute à chaque instant, \nLutte au dehors, crainte au dedans, \nAgneau de Dieu, je viens, je viens!",
+        "Tel que je suis, Ton cœur est prêt \nÀ prendre le mien tel qu’il est. \nPour tout changer, Sauveur parfait! \nAgneau de Dieu, je viens, je viens!",
+        "Tel que je suis, Ton grand amour \nA tout pardonné sans retour. \nJe veux être à Toi dès ce jour; \nAgneau de Dieu, je viens, je viens!"
       ]
     },
     {
       "songTitle": "ROC SECULAIRE",
+      "id": 12,
       "songId": 13,
-      "chorus": "Roc séculaire, frappé pour moi Sur le Calvaire, je viens à Toi. (bis)",
+      "chorus": "Roc séculaire, frappé pour moi \nSur le Calvaire, je viens à Toi. (bis)",
       "key": "Ré ♭ majeur",
       "author": "Augustus M. Toplady, (1891)",
       "enLyrics": [
-        "Roc séculaire, frappé pour moi Sur le Calvaire, je viens à Toi. Tu sais mes chutes, ô mon Sauveur! Tu vois mes luttes et ma douleur.",
-        "Oh! Purifie, lave, Seigneur, Et sanctifie mon pauvre cœur.  Ma main tremblante ne T’offre rien; Ta croix sanglante est mon seul bien.",
-        "Dans la détresse sois mon Berger, Ma forteresse, dans le danger, Et qu’à toute heure, que chaque jour Mon cœur demeure en Ton amour."
+        "Roc séculaire, frappé pour moi \nSur le Calvaire, je viens à Toi. \nTu sais mes chutes, ô mon Sauveur! \nTu vois mes luttes et ma douleur.",
+        "Oh! Purifie, lave, Seigneur, \nEt sanctifie mon pauvre cœur. \nMa main tremblante ne T’offre rien; \nTa croix sanglante est mon seul bien.",
+        "Dans la détresse sois mon Berger, \nMa forteresse, dans le danger, \nEt qu’à toute heure, que chaque jour \nMon cœur demeure en Ton amour."
       ]
     },
     {
       "songTitle": "VEUX-TU BRISER",
+      "id": 13,
       "songId": 14,
-      "chorus": "Je suis fort, fort! Oui, plus que vainqueur, Par le sang de Jésus! Je suis fort, fort! Oui, plus que vainqueur, Par le sang de Jésus mon Sauveur!",
+      "chorus": "Je suis fort, fort! Oui, \nplus que vainqueur, \nPar le sang de Jésus! \nJe suis fort, fort! \nOui, plus que vainqueur, \nPar le sang de Jésus mon Sauveur!",
       "key": "Mi majeur",
       "author": "G. Guillod, Lewis E. Jones (1899)",
       "enLyrics": [
-        "Veux-tu briser du péché le pouvoir? La force est en Christ! La force est en Christ! Si dans ton cœur tu veux Le recevoir: La force est dans le sang de Christ!",
-        "Veux-tu braver et la mort et l’enfer? La force est en Christ! La force est en Christ! Jésus, d’un mot Fait tomber tous tes fers: La force est dans le sang de Christ.",
-        "Veux-tu marcher Toujours pur, triomphant? La force est en Christ! La force est en Christ! Pour te garder, Jésus est tout-puissant: La force est dans le sang de Christ!",
-        "Veux-tu du ciel T’approcher chaque jour? La force est en Christ! La force est en Christ! Avec Jésus demeurer pour toujours: La force est dans le sang de Christ!"
+        "Veux-tu briser du péché le pouvoir? \nLa force est en Christ! \nLa force est en Christ! \nSi dans ton cœur tu veux Le recevoir: \nLa force est dans le sang de Christ!",
+        "Veux-tu braver et la mort et l’enfer? \nLa force est en Christ! \nLa force est en Christ! \nJésus, d’un mot \nFait tomber tous tes fers: \nLa force est dans le sang de Christ.",
+        "Veux-tu marcher \nToujours pur, triomphant? \nLa force est en Christ! \nLa force est en Christ! \nPour te garder, \nJésus est tout-puissant: \nLa force est dans le sang de Christ!",
+        "Veux-tu du ciel \nT’approcher chaque jour? \nLa force est en Christ! \nLa force est en Christ! \nAvec Jésus demeurer pour toujours: \nLa force est dans le sang de Christ!"
       ]
     },
     {
       "songTitle": "FRAÎCHES ROSÉES",
+      "id": 14,
       "songId": 15,
-      "chorus": "Fraîches rosées, Descendez sur nous tous! Ô divines ondées, Venez, arrosez-nous!",
+      "chorus": "Fraîches rosées, \nDescendez sur nous tous! \nÔ divines ondées, \nVenez, arrosez-nous!",
       "key": "Si ♭ majeur",
       "author": "James McGranahan – Edmond Louis Budry (1907)",
       "enLyrics": [
-        "Comme une terre altérée Soupire après l’eau du ciel, Nous appelons la rosée De Ta grâce, Emmanuel!",
-        "Descends, ô pluie abondante, Coule à flots dans notre cœur, Donne à l’âme languissante Une nouvelle fraîcheur.",
-        "Ne laisse en nous rien d’aride Qui ne soit fertilisé, Que le cœur le plus avide Soit pleinement arrosé.",
-        "Oui, que les déserts fleurissent Sous Tes bienfaisantes eaux, Que les lieux secs reverdissent Et portent des fruits nouveaux."
+        "Comme une terre altérée \nSoupire après l’eau du ciel, \nNous appelons la rosée \nDe Ta grâce, Emmanuel!",
+        "Descends, ô pluie abondante, \nCoule à flots dans notre cœur, \nDonne à l’âme languissante \nUne nouvelle fraîcheur.",
+        "Ne laisse en nous rien d’aride \nQui ne soit fertilisé, \nQue le cœur le plus avide \nSoit pleinement arrosé.",
+        "Oui, que les déserts fleurissent \nSous Tes bienfaisantes eaux, \nQue les lieux secs reverdissent \nEt portent des fruits nouveaux."
       ]
     },
     {
       "songTitle": "JÉSUS, TA SAINTE PRÉSENCE",
+      "id": 15,
       "songId": 16,
-      "chorus": "Fais briller sur moi ta face, Ô Jésus, Agneau de Dieu! À tes pieds, c'est là ma place, Près de Toi mon ciel est bleu.",
+      "chorus": "Fais briller sur moi ta face, \nÔ Jésus, Agneau de Dieu! \nÀ tes pieds, c'est là ma place, \nPrès de Toi mon ciel est bleu.",
       "key": "Fa majeur",
       "author": "Adèle Pélaz, Mlle Annie Harrison (1850-1940)",
       "enLyrics": [
-        "Jésus, Ta sainte présence Est la source du bonheur. Dans la joie et la souffrance, Elle est le repos du cœur.",
-        "Sur celui qui Te contemple, Descend un rayon divin. Tu fais de son cœur Ton temple, Ton doigt pointe son chemin.",
-        "Il faut aussi Ta présence, Pour Ton service, ô Jésus! Car elle est une puissance Pour relever les perdus!",
-        "Quand dans l'étendue immense, Ô Jésus, Tu paraîtras, C'est encore par Ta présence Que Tu nous attireras!"
+        "Jésus, Ta sainte présence \nEst la source du bonheur. \nDans la joie et la souffrance, \nElle est le repos du cœur.",
+        "Sur celui qui Te contemple, \nDescend un rayon divin. \nTu fais de son cœur Ton temple, \nTon doigt pointe son chemin.",
+        "Il faut aussi Ta présence, \nPour Ton service, ô Jésus! \nCar elle est une puissance \nPour relever les perdus!",
+        "Quand dans l'étendue immense, \nÔ Jésus, Tu paraîtras, \nC'est encore par Ta présence \nQue Tu nous attireras!"
       ]
     },
     {
       "songTitle": "PRENDS MA VIE",
+      "id": 16,
       "songId": 17,
       "chorus": "",
       "key": "Fa majeur",
       "author": "",
       "enLyrics": [
-        "Prends ma vie, elle doit être À Toi seul, ô divin Maître. Que sur le flot de mes jours, Ton regard brille toujours! (x2)",
-        "Que mes mains à Ton service S’offrent pour le sacrifice, Qu'à Te suivre pas à pas Mes pieds ne faiblissent pas! (x2)",
-        "Prends ma voix et qu’elle chante Ta grâce auguste et touchante; Par mes lèvres que Ton nom Parle au pécheur de pardon! (x2)",
-        "Que mon esprit s’illumine De Ta sagesse divine; Prends mon argent et mon or, Et Toi seul, sois mon trésor. (x2)",
-        "Que ma volonté devienne La servante de la Tienne; Fais Ton trône de mon cœur: Il T'appartient, bon Sauveur. (x2)",
-        "Qu'ainsi mon amour répande À Tes pieds son humble offrande: Prends-moi, dès mes premiers jours! Tout à Toi seul, pour toujours! (x2)"
+        "Prends ma vie, elle doit être \nÀ Toi seul, ô divin Maître. \nQue sur le flot de mes jours, \nTon regard brille toujours! (x2)",
+        "Que mes mains à Ton service \nS’offrent pour le sacrifice, \nQu'à Te suivre pas à pas \nMes pieds ne faiblissent pas! (x2)",
+        "Prends ma voix et qu’elle chante \nTa grâce auguste et touchante; \nPar mes lèvres que Ton nom \nParle au pécheur de pardon! (x2)",
+        "Que mon esprit s’illumine \nDe Ta sagesse divine; \nPrends mon argent et mon or, \nEt Toi seul, sois mon trésor. (x2)",
+        "Que ma volonté devienne \nLa servante de la Tienne; \nFais Ton trône de mon cœur: \nIl T'appartient, bon Sauveur. (x2)",
+        "Qu'ainsi mon amour répande \nÀ Tes pieds son humble offrande: \nPrends-moi, dès mes premiers jours! \nTout à Toi seul, pour toujours! (x2)"
       ]
     },
     {
       "songTitle": "PRÉCIEUX JÉSUS JE T'AIME",
+      "id": 17,
       "songId": 18,
       "chorus": "",
       "key": "Si ♭ majeur",
       "author": "Ruben Saillens (1977)",
       "enLyrics": [
-        "Précieux Jésus je T’aime, Remplis-moi de ton amour. Je Te donne mon cœur même, Accepte-le sans retour. Seigneur Jésus, ô mon Sauveur, Sois le trésor de mon cœur! (x2)",
-        "Prends pour Toi, Sauveur aimable, Tout mon cœur, mes volontés. Que Ton Esprit adorable Remplisse mes facultés.",
-        "J’avance ma main sans crainte, Pour saisir Ton vêtement. De Toi sort la vertu sainte, Qui guérit entièrement.",
-        "L’amour qui remplit mon âme M’est si doux, ô mon Sauveur! Viens en moi, je Te réclame, Accomplis tout dans mon cœur.",
-        "Ta sainte et nouvelle aurore, Oui, déjà vient luire en moi; Joyeux, je répète encore: Mon Sauveur! Je suis à Toi.",
-        "Je ne veux plus autre chose Qu’accomplir Tes volontés; Que le Saint-Esprit dispose, De toutes mes facultés."
+        "Précieux Jésus je T’aime, \nRemplis-moi de ton amour. \nJe Te donne mon cœur même, \nAccepte-le sans retour. \nSeigneur Jésus, ô mon Sauveur, \nSois le trésor de mon cœur! (x2)",
+        "Prends pour Toi, Sauveur aimable, \nTout mon cœur, mes volontés. \nQue Ton Esprit adorable \nRemplisse mes facultés.",
+        "J’avance ma main sans crainte, \nPour saisir Ton vêtement. \nDe Toi sort la vertu sainte, \nQui guérit entièrement.",
+        "L’amour qui remplit mon âme \nM’est si doux, ô mon Sauveur! \nViens en moi, je Te réclame, \nAccomplis tout dans mon cœur.",
+        "Ta sainte et nouvelle aurore, \nOui, déjà vient luire en moi; \nJoyeux, je répète encore: \nMon Sauveur! Je suis à Toi.",
+        "Je ne veux plus autre chose \nQu’accomplir Tes volontés; \nQue le Saint-Esprit dispose, \nDe toutes mes facultés."
       ]
     },
     {
       "songTitle": "ÉCOUTEZ L’APPEL DU BERGER",
+      "id": 18,
       "songId": 19,
-      "chorus": "Cherchons-les! Cherchons-les! Savons-nous le prix d’une âme? Cherchons-les! Cherchons-les! Le bon Berger les réclame.",
+      "chorus": "Cherchons-les! Cherchons-les! \nSavons-nous le prix d’une âme? \nCherchons-les! Cherchons-les! \nLe bon Berger les réclame.",
       "key": "La ♭ majeur",
       "author": "W.N.Ogden, Alexcenah Thomas, (1885)",
       "enLyrics": [
-        "Écoutez l’appel du Berger! Il sait Ses brebis en danger; Il les appelle avec amour, Espérant toujours leur retour.",
-        "Mourant de froid, de soif, de faim, Les brebis appellent en vain. Jésus nous veut pour les sauver. Qui va L’aider à les trouver?",
-        "Ne peut-Il pas compter sur nous? Ne voulons-nous pas aller tous Dire à tous ceux qui sont perdus Que nous les voulons pour Jésus!"
+        "Écoutez l’appel du Berger! \nIl sait Ses brebis en danger; \nIl les appelle avec amour, \nEspérant toujours leur retour.",
+        "Mourant de froid, de soif, de faim, \nLes brebis appellent en vain. \nJésus nous veut pour les sauver. \nQui va L’aider à les trouver?",
+        "Ne peut-Il pas compter sur nous? \nNe voulons-nous pas aller tous \nDire à tous ceux qui sont perdus \nQue nous les voulons pour Jésus!"
       ]
     },
     {
       "songTitle": "QU'IL FAIT BON A TON SERVICE",
+      "id": 19,
       "songId": 20,
-      "chorus": "Prends, ô Jésus, prends ma vie, Elle est toute à toi ! Et dans ta grâce infinie, Du mal garde-moi !",
+      "chorus": "Prends, ô Jésus, prends ma vie, \nElle est toute à toi ! \nEt dans ta grâce infinie, \nDu mal garde-moi !",
       "key": "Sol majeur",
       "author": "Mlle Amélie Humbert, RUSSEL, James Rowe (1911)",
       "enLyrics": [
-        "Qu’il fait bon à ton service, Jésus, mon Sauveur ! Qu'il est doux le sacrifice Que t'offre mon cœur !",
-        "Mon désir, mon vœu suprême, C'est la sainteté ! Rien je ne veux et je n'aime Que ta volonté !",
-        "Comme l'ange au vol rapide, Je veux te servir. Les yeux fixés sur mon guide, Toujours obéir !",
-        "Travail, douleur et souffrance, Non, je ne crains rien ! Toi, Jésus, mon espérance, Tu es mon seul bien !"
+        "Qu’il fait bon à ton service, \nJésus, mon Sauveur ! \nQu'il est doux le sacrifice \nQue t'offre mon cœur !",
+        "Mon désir, mon vœu suprême, \nC'est la sainteté ! \nRien je ne veux et je n'aime \nQue ta volonté !",
+        "Comme l'ange au vol rapide, \nJe veux te servir. \nLes yeux fixés sur mon guide, \nToujours obéir !",
+        "Travail, douleur et souffrance, \nNon, je ne crains rien ! \nToi, Jésus, mon espérance, \nTu es mon seul bien !"
       ]
     },
     {
       "songTitle": "C’EST MON JOYEUX SERVICE",
+      "id": 20,
       "songId": 21,
-      "chorus": "Accepte mon offrande, Bien-aimé Fils de Dieu! Et que sur moi descende, La flamme du saint lieu!",
+      "chorus": "Accepte mon offrande, \nBien-aimé Fils de Dieu! \nEt que sur moi descende, \nLa flamme du saint lieu!",
       "key": "Ré majeur",
       "author": "Thé Monod, Aline-J.-F. Knapp, M.D.James (1869)",
       "enLyrics": [
-        "C’est mon joyeux service D’offrir à Jésus-Christ, En vivant sacrifice, Mon corps et mon esprit.",
-        "J’abandonne ma vie, Sans regret, ni frayeur, À Ta grâce infinie, Ô mon Libérateur!",
-        "Qu’un feu nouveau s’allume Par Ton amour en moi, Et dans mon cœur consume, Ce qui n’est pas à Toi!",
-        "Viens, Jésus! Sois mon Maître, Par Ton sang racheté, À Toi seul je veux être, Et pour l’éternité."
+        "C’est mon joyeux service \nD’offrir à Jésus-Christ, \nEn vivant sacrifice, \nMon corps et mon esprit.",
+        "J’abandonne ma vie, \nSans regret, ni frayeur, \nÀ Ta grâce infinie, \nÔ mon Libérateur!",
+        "Qu’un feu nouveau s’allume \nPar Ton amour en moi, \nEt dans mon cœur consume, \nCe qui n’est pas à Toi!",
+        "Viens, Jésus! Sois mon Maître, \nPar Ton sang racheté, \nÀ Toi seul je veux être, \nEt pour l’éternité."
       ]
     },
     {
       "songTitle": "ENTRE TES MAINS ",
+      "id": 21,
       "songId": 22,
       "chorus": "",
       "key": "Ré majeur",
       "author": "Ch. Rochedieu, J. Van DeVenter , W.S. Weeden (1896)",
       "enLyrics": [
-        "Entre Tes mains j’abandonne Tout ce que j’appelle mien. Oh! Ne permets à personne, Seigneur d’en reprendre rien! Oui, prends tout, Seigneur, (x2) Entre Tes mains j’abandonne, Tout avec bonheur.",
-        "Je n’ai pas peur de Te suivre Sur le chemin de la croix. C’est pour Toi que je veux vivre, Je connais, j’aime Ta voix. Oui, prends tout, Seigneur, (x2) Sans rien garder, je Te livre,  Tout avec bonheur.",
-        "Tu connais mieux que moi-même Tous les besoins de mon cœur; Et pour mon bonheur suprême, Tu veux me rendre vainqueur. Oui, prends tout, Seigneur, (x2) Je ne vis plus pour moi-même, Mais pour mon Sauveur.",
-        "Prends mon corps et prends mon âme, Que tout en moi soit à Toi. Que par Ta divine flamme Tout mal soit détruit en moi! Oui, prends tout, Seigneur, (x2) Prends mon corps et prends mon âme: Règne sur mon cœur!"
+        "Entre Tes mains j’abandonne \nTout ce que j’appelle mien. \nOh! Ne permets à personne, \nSeigneur d’en reprendre rien! \nOui, prends tout, Seigneur, (x2) \nEntre Tes mains j’abandonne, \nTout avec bonheur.",
+        "Je n’ai pas peur de Te suivre \nSur le chemin de la croix. \nC’est pour Toi que je veux vivre, \nJe connais, j’aime Ta voix. \nOui, prends tout, Seigneur, (x2) Sans rien garder, je Te livre, \nTout avec bonheur.",
+        "Tu connais mieux que moi-même \nTous les besoins de mon cœur; \nEt pour mon bonheur suprême, \nTu veux me rendre vainqueur. \nOui, prends tout, Seigneur, (x2) \nJe ne vis plus pour moi-même, \nMais pour mon Sauveur.",
+        "Prends mon corps et prends mon âme, \nQue tout en moi soit à Toi. \nQue par Ta divine flamme \nTout mal soit détruit en moi! \nOui, prends tout, Seigneur, (x2) \nPrends mon corps et prends mon âme: \nRègne sur mon cœur!"
       ]
     },
     {
       "songTitle": "AU PIED DE LA CROIX SANGLANTE",
+      "id": 22,
       "songId": 23,
-      "chorus": "Le parfait bonheur, Le parfait bonheur, C'est de mettre tout mon être A tes pieds, Seigneur !",
+      "chorus": "Le parfait bonheur, \nLe parfait bonheur, \nC'est de mettre tout mon être \nA tes pieds, Seigneur !",
       "key": "Ré majeur",
       "author": "E.-L. Budry (1854-1932), W.-S. Weeden (1847-1908)",
       "enLyrics": [
-        "Au pied de la croix sanglante, Où tu t'es donné pour moi, Mon âme émue et tremblante, O Jésus se livre à Toi.",
-        "Me voici pour ton service, Je ne garde rien pour moi, Sur l'autel du sacrifice Je me place par la foi.",
-        "Prends, Seigneur, ma vie entière, Mets sur moi ton divin sceau ; Fais d'un fils de la poussière, Un enfant du Dieu très-haut.",
-        "A la gloire, aux biens du monde, Je renonce pour jamais ; Que le Saint-Esprit m'inonde De ta joie et de ta paix !",
-        "Si ma faiblesse est bien grande, Ta force est plus grande encore, O Jésus, qu'elle me rende Fidèle jusqu'à la mort !",
-        "O félicité suprême ! Ta grâce est mon bouclier. Et je t'appartiens, je t'aime, Toi qui m'aimas le premier."
+        "Au pied de la croix sanglante, \nOù tu t'es donné pour moi, \nMon âme émue et tremblante, \nO Jésus se livre à Toi.",
+        "Me voici pour ton service, \nJe ne garde rien pour moi, \nSur l'autel du sacrifice \nJe me place par la foi.",
+        "Prends, Seigneur, ma vie entière, \nMets sur moi ton divin sceau ; \nFais d'un fils de la poussière, \nUn enfant du Dieu très-haut.",
+        "A la gloire, aux biens du monde, \nJe renonce pour jamais ; \nQue le Saint-Esprit m'inonde \nDe ta joie et de ta paix !",
+        "Si ma faiblesse est bien grande, \nTa force est plus grande encore, \nO Jésus, qu'elle me rende \nFidèle jusqu'à la mort !",
+        "O félicité suprême ! \nTa grâce est mon bouclier. \nEt je t'appartiens, je t'aime, \nToi qui m'aimas le premier."
       ]
     },
     {
       "songTitle": "DIEU TOUT PUISSANT",
+      "id": 23,
       "songId": 24,
       "chorus": "",
       "key": "Si ♭ majeur",
       "author": "Hector Arnéra, Carl Boberg (1885)",
       "enLyrics": [
-        "Dieu tout puissant, Quand mon cœur considère, Tout l’univers créé par Ton pouvoir; Le ciel d’azur, les éclairs, le tonnerre, Le clair matin ou les ombres du soir: De tout mon être, Alors s’élève un chant, Dieu tout puissant, que Tu es grand.",
-        "Quand par les bois ou la forêt profonde, J’erre et j’entends Tous les oiseaux chanter; Quand sur les monts, La source avec son onde, Livre au zéphyr, son chant doux et léger; Mon cœur heureux S’écrie à chaque instant, Ô Dieu d’amour, que Tu es grand.",
-        "Et quand je songe, ô sublime mystère! Qu’un Dieu si grand a pu penser à moi; Que Son cher Fils est devenu mon Frère, Et que je suis l’héritier du grand Roi. Alors mon cœur redit la nuit, le jour: Que Tu es bon, O Dieu d’amour.",
-        "Quand mon Sauveur éclatant de lumière, Se lèvera de Son trône éternel, Et que laissant les douleurs de la terre, Je pourrai voir les splendeurs de Son ciel: Je redirai dans Son divin séjour, Rien n’est plus grand Que Son Amour."
+        "Dieu tout puissant, \nQuand mon cœur considère, \nTout l’univers créé par Ton pouvoir; \nLe ciel d’azur, les éclairs, le tonnerre, \nLe clair matin ou les ombres du soir: \nDe tout mon être, \nAlors s’élève un chant, \nDieu tout puissant, que Tu es grand.",
+        "Quand par les bois ou la forêt profonde, \nJ’erre et j’entends \nTous les oiseaux chanter; \nQuand sur les monts, \nLa source avec son onde, \nLivre au zéphyr, \nson chant doux et léger; \nMon cœur heureux \nS’écrie à chaque instant, \nÔ Dieu d’amour, que Tu es grand.",
+        "Et quand je songe, ô sublime mystère! \nQu’un Dieu si grand a pu penser à moi; \nQue Son cher Fils est devenu mon Frère, \nEt que je suis l’héritier du grand Roi. \nAlors mon cœur redit la nuit, le jour: \nQue Tu es bon, \nO Dieu d’amour.",
+        "Quand mon Sauveur éclatant de lumière, \nSe lèvera de Son trône éternel, \nEt que laissant les douleurs de la terre, \nJe pourrai voir les splendeurs de Son ciel: \nJe redirai dans Son divin séjour, \nRien n’est plus grand \nQue Son Amour."
       ]
     },
     {
       "songTitle": "JE M’APPROCHE DE TOI",
+      "id": 24,
       "songId": 25,
       "chorus": "",
       "key": "FA♯ majeur",
       "author": "Adèle Pélaz, (1850-1940)",
       "enLyrics": [
-        "Je m’approche de Toi, Je m’approche de Toi Source de vie, (x2) Mon Sauveur, bénis-moi!",
-        "Fais silence en mon cœur, Fais silence en mon cœur Viens et me parle, (x2) O mon divin Sauveur!",
-        "Rends-moi conforme à Toi, Rends-moi conforme à Toi Divin modèle, (x2) Mets Ton image en moi!",
-        "Rends-moi bouillant, Seigneur! Rends-moi bouillant, Seigneur Pour Ton service, (x2) Que je parte en vainqueur!",
-        "Et quand Tu reviendras, Et quand Tu reviendras Dans Tes milices, (x2) Tu me retrouveras!"
+        "Je m’approche de Toi, \nJe m’approche de Toi \nSource de vie, (x2) \nMon Sauveur, bénis-moi!",
+        "Fais silence en mon cœur, \nFais silence en mon cœur \nViens et me parle, (x2) \nO mon divin Sauveur!",
+        "Rends-moi conforme à Toi, \nRends-moi conforme à Toi \nDivin modèle, (x2) \nMets Ton image en moi!",
+        "Rends-moi bouillant, Seigneur! \nRends-moi bouillant, Seigneur \nPour Ton service, (x2) \nQue je parte en vainqueur!",
+        "Et quand Tu reviendras, \nEt quand Tu reviendras \nDans Tes milices, (x2) \nTu me retrouveras!"
       ]
     },
     {
       "songTitle": "LA VOIX DU SEIGNEUR",
+      "id": 25,
       "songId": 26,
-      "chorus": "Jusqu’au bout je veux Te suivre, Dans les bons, les mauvais jours, À Toi pour mourir et vivre, À Toi, Jésus pour toujours.",
+      "chorus": "Jusqu’au bout je veux Te suivre, \nDans les bons, les mauvais jours, \nÀ Toi pour mourir et vivre, \nÀ Toi, Jésus pour toujours.",
       "key": "Fa majeur",
       "author": "Amélie Humbert, R. K. Carter (1894)",
       "enLyrics": [
-        "La voix du Seigneur m’appelle: Prends ta croix et viens suis-Moi! Je réponds: “Sauveur Fidèle, Me voici, je suis à Toi!”",
-        "Mais le chemin du Calvaire Est étroit et périlleux, C’est un chemin solitaire, Difficile et ténébreux.",
-        "Il faut quitter ceux qu’on aime, Savoir être mal jugé, Endurer l’injure même, Du monde être méprisé.",
-        "Oui, perdre sa propre vie, Consentir à n’être rien, N’avoir qu’une seule envie: Aimer Jésus, le seul bien!",
-        "Jésus donne grâce et gloire Pour Le suivre pas à pas, Avec Lui, joie et victoire, Paix et bonheur ici-bas!"
+        "La voix du Seigneur m’appelle: \nPrends ta croix et viens suis-Moi! \nJe réponds: “Sauveur Fidèle, \nMe voici, je suis à Toi!”",
+        "Mais le chemin du Calvaire \nEst étroit et périlleux, \nC’est un chemin solitaire, \nDifficile et ténébreux.",
+        "Il faut quitter ceux qu’on aime, \nSavoir être mal jugé, \nEndurer l’injure même, \nDu monde être méprisé.",
+        "Oui, perdre sa propre vie, \nConsentir à n’être rien, \nN’avoir qu’une seule envie: \nAimer Jésus, le seul bien!",
+        "Jésus donne grâce et gloire \nPour Le suivre pas à pas, \nAvec Lui, joie et victoire, \nPaix et bonheur ici-bas!"
       ]
     },
     {
       "songTitle": "J’ENTENDS TA DOUCE VOIX",
+      "id": 26,
       "songId": 27,
       "chorus": "",
       "key": "Ré majeur",
       "author": "G. Reganey, Lewis Hartsough (1872)",
       "enLyrics": [
-        "J’entends Ta douce voix, Jésus, je viens à Toi. Je viens, ô Sauveur, lave moi Dans le sang de Ta croix! Jésus, Roi des rois, Qui mourut pour moi, Je veux mourir avec Toi, Avec Toi sur la croix.",
-        "J’entends Ta douce voix, Qui me dit: “Crois en Moi!” Je crois, Seigneur, soutiens ma foi, Tiens-moi près de Ta croix!",
-        "J’entends Ta douce voix, Elle pénètre en moi, Et me dit d’aimer comme Toi, De l’amour de la croix!"
+        "J’entends Ta douce voix, \nJésus, je viens à Toi. \nJe viens, ô Sauveur, lave moi \nDans le sang de Ta croix! \nJésus, Roi des rois, \nQui mourut pour moi, \nJe veux mourir avec Toi, \nAvec Toi sur la croix.",
+        "J’entends Ta douce voix, \nQui me dit: “Crois en Moi!” \nJe crois, Seigneur, soutiens ma foi, \nTiens-moi près de Ta croix!",
+        "J’entends Ta douce voix, \nElle pénètre en moi, \nEt me dit d’aimer comme Toi, \nDe l’amour de la croix!"
       ]
     },
     {
       "songTitle": "L'AGNEAU DE DIEU ",
+      "id": 27,
       "songId": 28,
       "chorus": "",
       "key": "Mi ♭ majeur",
       "author": "Joseph Hoskins Daniel Auber (1782-1871)",
       "enLyrics": [
-        "L’Agneau de Dieu, le Christ expire Sur la croix; (bis) Le voile aussitôt se déchire À la croix. (bis) Le lieu très saint est découvert, L’accès à Dieu nous est ouvert Par Toi, Jésus, qui T’es offert Sur la croix. (bis)",
-        "Tu fus élevé de la terre Sur la croix; (bis) Pour nous Tu bus la coupe amère Sur la croix (bis). Ton amour a tout achevé: Dans Ton sang le croyant lavé, Sait qu’il est à jamais sauvé Par la croix. (bis)",
-        "Dans la honte a brillé Ta gloire Sur la croix (bis). À Toi, Jésus, fut la victoire Sur la croix. (bis) À Toi, durant l’éternité, Soient force, honneur et majesté Pour le triomphe remporté Sur la croix! (bis)"
+        "L’Agneau de Dieu, le Christ expire \nSur la croix; (bis) \nLe voile aussitôt se déchire \nÀ la croix. (bis) \nLe lieu très saint est découvert, \nL’accès à Dieu nous est ouvert \nPar Toi, Jésus, qui T’es offert \nSur la croix. (bis)",
+        "Tu fus élevé de la terre \nSur la croix; (bis) \nPour nous Tu bus la coupe amère \nSur la croix (bis). \nTon amour a tout achevé: \nDans Ton sang le croyant lavé, \nSait qu’il est à jamais sauvé \nPar la croix. (bis)",
+        "Dans la honte a brillé Ta gloire \nSur la croix (bis). \nÀ Toi, Jésus, fut la victoire \nSur la croix. (bis) \nÀ Toi, durant l’éternité, \nSoient force, honneur et majesté \nPour le triomphe remporté \nSur la croix! (bis)"
       ]
     },
     {
       "songTitle": "SANS ATTENDRE",
+      "id": 28,
       "songId": 29,
       "chorus": "",
       "key": "FA♯ majeur",
       "author": "G. Borel-Girard, Recueil de Gütersloh (1853)",
       "enLyrics": [
-        "Sans attendre, je veux tendre Au bonheur promis; Qui s’élance, qui s’avance Obtiendra le prix. Quand je prie, Dieu m’entend; On m’attaque, Il me défend; Donc en route, point de doute, Le but est si grand!",
-        "Près du Trône, La couronne attend le vainqueur, Nulle trêve! Qu’on se lève! A dit le Seigneur. D’obéir soyons heureux; Point de tièdes, de peureux; Le Fidèle nous appelle A régner aux cieux.",
-        "D’un pas ferme, jusqu’au terme, Il faut s’avancer. Dieu m’observe, qu’Il préserve Mon pied de glisser. Que ce monde et ses attraits Ne me séduisent jamais! Si sa haine se déchaîne, Que je parte en paix!",
-        "Dieu de grâce, que Ta face, Luise en mon chemin. Père tendre, viens me prendre Par Ta forte main. Toute puissance est à Toi, Subviens à ma faible foi; Ma victoire, c’est Ta gloire, Jésus, Roi des rois."
+        "Sans attendre, je veux tendre \nAu bonheur promis; \nQui s’élance, qui s’avance \nObtiendra le prix. \nQuand je prie, Dieu m’entend; \nOn m’attaque, Il me défend; \nDonc en route, point de doute, \nLe but est si grand!",
+        "Près du Trône, \nLa couronne attend le vainqueur, \nNulle trêve! Qu’on se lève! \nA dit le Seigneur. \nD’obéir soyons heureux; \nPoint de tièdes, de peureux; \nLe Fidèle nous appelle \nA régner aux cieux.",
+        "D’un pas ferme, jusqu’au terme, \nIl faut s’avancer. \nDieu m’observe, qu’Il préserve \nMon pied de glisser. \nQue ce monde et ses attraits \nNe me séduisent jamais! \nSi sa haine se déchaîne, \nQue je parte en paix!",
+        "Dieu de grâce, que Ta face, \nLuise en mon chemin. \nPère tendre, viens me prendre \nPar Ta forte main. \nToute puissance est à Toi, \nSubviens à ma faible foi; \nMa victoire, c’est Ta gloire, \nJésus, Roi des rois."
       ]
     },
     {
       "songTitle": "LE SIGNAL DE LA VICTOIRE",
+      "id": 29,
       "songId": 30,
-      "chorus": "Je viens, combattez encore! Dit Jésus à tous. Oui, mon Sauveur, je T’implore, Je lutte à genoux.",
+      "chorus": "Je viens, combattez encore! \nDit Jésus à tous. \nOui, mon Sauveur, je T’implore, \nJe lutte à genoux.",
       "key": "Ré ♭ majeur",
       "author": "Edouard Barde, P.-P. Bliss (1870)",
       "enLyrics": [
-        "Le signal de la victoire Déjà brille aux cieux. La couronne de la gloire Paraît à nos yeux.",
-        "Que l’ennemi plein de rage Redouble ses coups, Nous ne perdons point courage, Christ est avec nous.",
-        "Suivons, amis, la bannière Du Sauveur en croix, Et que notre armée entière Se range à Sa voix.",
-        "Rude et longue est la mêlée: Voici le secours! Dans nos mains prenons l’épée Qui vainquit toujours!"
+        "Le signal de la victoire \nDéjà brille aux cieux. \nLa couronne de la gloire \nParaît à nos yeux.",
+        "Que l’ennemi plein de rage \nRedouble ses coups, \nNous ne perdons point courage, \nChrist est avec nous.",
+        "Suivons, amis, la bannière \nDu Sauveur en croix, \nEt que notre armée entière \nSe range à Sa voix.",
+        "Rude et longue est la mêlée: \nVoici le secours! \nDans nos mains prenons l’épée \nQui vainquit toujours!"
       ]
     },
     {
       "songTitle": "QUI ME RELÈVE ",
+      "id": 30,
       "songId": 31,
       "chorus": "",
       "key": "Ré ♭ majeur",
       "author": "Henri Monod, T.-B. Southgate (1946)",
       "enLyrics": [
-        "Qui me relève dans mes chutes? C’est Jésus-Christ; Qui combat pour moi dans mes luttes? C’est Jésus-Christ. Jésus a parlé, je veux croire Que je puis lutter pour Sa gloire, Car mon bouclier, ma victoire, C’est Jésus-Christ.",
-        "Je vais à mon Père, et ma voie C’est Jésus-Christ; Je suis bienheureux, et ma joie C’est Jésus-Christ. Et si, même dans la souffrance, Mon cœur me parle d’espérance, C’est que j’ai mis ma confiance En Jésus-Christ.",
-        "Sauvé, je ne me glorifie Qu’en Jésus-Christ; Pour la terre et le ciel, ma vie C’est Jésus-Christ. Bientôt adieu, choses mortelles! Loin de vous je prendrai des ailes Vers les demeures éternelles, Vers Jésus-Christ."
+        "Qui me relève dans mes chutes? \nC’est Jésus-Christ; \nQui combat pour moi dans mes luttes? \nC’est Jésus-Christ. \nJésus a parlé, je veux croire \nQue je puis lutter pour Sa gloire, \nCar mon bouclier, ma victoire, \nC’est Jésus-Christ.",
+        "Je vais à mon Père, et ma voie \nC’est Jésus-Christ; \nJe suis bienheureux, et ma joie \nC’est Jésus-Christ. \nEt si, même dans la souffrance, \nMon cœur me parle d’espérance, \nC’est que j’ai mis ma confiance \nEn Jésus-Christ.",
+        "Sauvé, je ne me glorifie \nQu’en Jésus-Christ; \nPour la terre et le ciel, ma vie \nC’est Jésus-Christ. \nBientôt adieu, choses mortelles! \nLoin de vous je prendrai des ailes \nVers les demeures éternelles, \nVers Jésus-Christ."
       ]
     },
     {
       "songTitle": "A CELUI QUI SERA VAINQUEUR",
+      "id": 31,
       "songId": 32,
-      "chorus": "Victoire, force, honneur et louanges, Gloire, gloire, puissance à toi, Jésus !",
+      "chorus": "Victoire, force, honneur et louanges, \nGloire, gloire, puissance à toi, Jésus !",
       "key": "Do majeur",
       "author": "Amélie Humbert, G.-C. Stebbins (1904)",
       "enLyrics": [
-        "À celui qui sera vainqueur, Et qui me glorifie, Je donnerai, dit le Seigneur, Au ciel l’arbre de vie !",
-        "Un caillou blanc, un nom nouveau, Et la manne cachée, Lui seront donnés par l’Agneau, Sa promesse est scellée !",
-        "Revêtu d’un vêtement blanc, Resplendissant de gloire, Sera celui qui par le sang Remporta la victoire !",
-        "Avec Christ, celui qui vaincra S’assiéra sur son trône, Et de ses mains il recevra L’immortelle couronne."
+        "À celui qui sera vainqueur, \nEt qui me glorifie, \nJe donnerai, dit le Seigneur, \nAu ciel l’arbre de vie !",
+        "Un caillou blanc, un nom nouveau, \nEt la manne cachée, \nLui seront donnés par l’Agneau, \nSa promesse est scellée !",
+        "Revêtu d’un vêtement blanc, \nResplendissant de gloire, \nSera celui qui par le sang \nRemporta la victoire !",
+        "Avec Christ, celui qui vaincra \nS’assiéra sur son trône, \nEt de ses mains il recevra \nL’immortelle couronne."
       ]
     },
     {
-      "songTitle": "Amélie Humbert, G.-C. Stebbins (1904)",
+      "songTitle": "DEBOUT, SAINTE COHORTE",
+      "id": 32,
       "songId": 33,
       "chorus": "",
       "key": "Fa majeur",
       "author": "Mélodie G.J. Webb(1858), parole R. Saillens (1878)",
       "enLyrics": [
-        "Debout, sainte cohorte, Soldats du Roi des rois! Tenez d’une main forte L’étendard de la croix! Au sentier de la gloire  Jésus-Christ vous conduit. De victoire en victoire Il mène qui Le suit.",
-        "La trompette résonne: Debout! Vaillants soldats! L’immortelle couronne Est le prix des combats. Si l’ennemi fait rage, Soyez fermes et forts! Redoublez de courage, S’il redouble d’efforts.",
-        "Debout pour la bataille, Partez, n’hésitez plus! Pour que nul ne défaille, Regardez à Jésus! De l’armure invincible, Soldats, revêtez-vous! Le triomphe est possible Pour qui lutte à genoux.",
-        "Debout, debout encore! Luttez jusqu’au matin. Déjà brille l’aurore A l’horizon lointain. Bientôt jetant nos armes Aux pieds du Roi des rois! Les chants après les larmes, Le trône après la croix!"
+        "Debout, sainte cohorte, \nSoldats du Roi des rois! \nTenez d’une main forte \nL’étendard de la croix! \nAu sentier de la gloire \nJésus-Christ vous conduit. \nDe victoire en victoire \nIl mène qui Le suit.",
+        "La trompette résonne: \nDebout! Vaillants soldats! \nL’immortelle couronne \nEst le prix des combats. \nSi l’ennemi fait rage, \nSoyez fermes et forts! \nRedoublez de courage, \nS’il redouble d’efforts.",
+        "Debout pour la bataille, \nPartez, n’hésitez plus! \nPour que nul ne défaille, \nRegardez à Jésus! \nDe l’armure invincible, \nSoldats, revêtez-vous! \nLe triomphe est possible \nPour qui lutte à genoux.",
+        "Debout, debout encore! \nLuttez jusqu’au matin. \nDéjà brille l’aurore \nA l’horizon lointain. \nBientôt jetant nos armes \nAux pieds du Roi des rois! \nLes chants après les larmes, \nLe trône après la croix!"
       ]
     },
     {
       "songTitle": "AVANÇONS-NOUS JOYEUX",
+      "id": 33,
       "songId": 34,
       "chorus": "",
       "key": "Fa majeur",
       "author": "Mme. W. Monod(1890), Bern,(1890)",
       "enLyrics": [
-        "Avançons-nous joyeux, toujours joyeux, Vers le pays de tous les bienheureux; Vers la demeure où Jésus pour nous prie, Marchons, marchons c’est là notre patrie. Avançons-nous joyeux, toujours joyeux, Vers le pays de tous les bienheureux.",
-        "Des chants d’amour retentissent aux cieux; Quels doux concerts! Hymnes des bienheureux! Nous entendrons votre sainte harmonie Quand nous aurons atteint notre patrie. Avançons-nous joyeux, toujours joyeux, Vers le pays de tous les bienheureux.",
-        "Là-haut! Là-haut, Tu nous attends Seigneur! Car c’est à Toi qu’appartient notre cœur. “Viens, ô Jésus!” C’est le cri de l’Église, Recueille-nous dans la terre promise! Là nous serons joyeux, toujours joyeux, C’est le pays de tous les bienheureux.",
-        "Heureux bientôt, dans un monde nouveau, Nous prendrons part au banquet de l’Agneau. Là plus de cris, plus de deuil, plus de larmes, Plus de péchés, de douleurs, ni d’alarmes! Là nous serons joyeux, toujours joyeux, C’est le pays de tous les bienheureux."
+        "Avançons-nous joyeux, toujours joyeux, \nVers le pays de tous les bienheureux; \nVers la demeure où Jésus pour nous prie, \nMarchons, marchons c’est là notre patrie. \nAvançons-nous joyeux, toujours joyeux, \nVers le pays de tous les bienheureux.",
+        "Des chants d’amour retentissent aux cieux; \nQuels doux concerts! \nHymnes des bienheureux! \nNous entendrons votre sainte harmonie \nQuand nous aurons atteint notre patrie. \nAvançons-nous joyeux, toujours joyeux, \nVers le pays de tous les bienheureux.",
+        "Là-haut! Là-haut, \nTu nous attends Seigneur! \nCar c’est à Toi qu’appartient notre cœur. \n“Viens, ô Jésus!” C’est le cri de l’Église, \nRecueille-nous dans la terre promise! \nLà nous serons joyeux, toujours joyeux, \nC’est le pays de tous les bienheureux.",
+        "Heureux bientôt, dans un monde nouveau, \nNous prendrons part au banquet de l’Agneau. \nLà plus de cris, plus de deuil, plus de larmes, \nPlus de péchés, de douleurs, ni d’alarmes! \nLà nous serons joyeux, toujours joyeux, \nC’est le pays de tous les bienheureux."
       ]
     },
     {
       "songTitle": "POUR MOI CHRÉTIEN",
+      "id": 34,
       "songId": 35,
       "chorus": "",
       "key": "Fa majeur",
       "author": "Ami Bost, (1866)",
       "enLyrics": [
-        "Pour moi Chrétien, la terre est un exil, Mais tout est bien, mais tout est bien. Il faut marcher de péril en péril; Mais tout est bien; mais tout est bien. Pourquoi les pleurs, la terreur ou l’ennui? Christ est en moi demain comme aujourd’hui; Au ciel bientôt je serai tout à Lui; Oui, tout est bien, oui, tout est bien.",
-        "Larmes, travail, deuil, tristesse ici-bas; Mais tout est bien; mais tout est bien. De Canaan j’approche à chaque pas; Oui, tout est bien, oui tout est bien. En vain le monde et son charme trompeur; Dans ses liens veut retenir mon cœur; J’avance en paix, les yeux sur mon Sauveur, Oui, tout est bien, oui, tout est bien.",
-        "Encore un jour, et j’atteindrai le but; Oui, tout est bien, oui tout est bien. Et je verrai le pays du salut; Oui, tout est bien; oui tout est bien. Encore un jour, le monde va passer; Ô pèlerin, marche sans te lasser: Bientôt en Dieu tu vas te reposer. Oui, tout est bien, oui tout est bien."
+        "Pour moi Chrétien, la terre est un exil, \nMais tout est bien, mais tout est bien. \nIl faut marcher de péril en péril; \nMais tout est bien; mais tout est bien. \nPourquoi les pleurs, la terreur ou l’ennui? \nChrist est en moi demain comme aujourd’hui; \nAu ciel bientôt je serai tout à Lui; \nOui, tout est bien, oui, tout est bien.",
+        "Larmes, travail, deuil, tristesse ici-bas; \nMais tout est bien; mais tout est bien. \nDe Canaan j’approche à chaque pas; \nOui, tout est bien, oui tout est bien. \nEn vain le monde et son charme trompeur; \nDans ses liens veut retenir mon cœur; \nJ’avance en paix, les yeux sur mon Sauveur, \nOui, tout est bien, oui, tout est bien.",
+        "Encore un jour, et j’atteindrai le but; \nOui, tout est bien, oui tout est bien. \nEt je verrai le pays du salut; \nOui, tout est bien; oui tout est bien. \nEncore un jour, le monde va passer; \nÔ pèlerin, marche sans te lasser: \nBientôt en Dieu tu vas te reposer. \nOui, tout est bien, oui tout est bien."
       ]
     },
     {
       "songTitle": "RESTE AVEC NOUS ",
+      "id": 35,
       "songId": 36,
       "chorus": "",
       "key": "Mi ♭ majeur",
       "author": "W.H. Monk , Paroles F. Chaponnière (1881)",
       "enLyrics": [
-        "Reste avec nous, Seigneur, le jour décline, La nuit s’approche et nous menace tous; Nous implorons Ta présence divine: Reste avec nous, Seigneur, reste avec nous.",
-        "En Toi nos cœurs ont salué leur Maître, En Toi notre âme a trouvé son Époux; À Ta lumière elle se sent renaître; Reste avec nous, Seigneur, reste avec nous.",
-        "Dans nos combats si ta main nous délaisse, Satan vainqueur nous tiendra sous ses coups; Que ta puissance arme notre faiblesse; Reste avec nous, Seigneur, reste avec nous.",
-        "Sous Ton regard la joie est sainte et bonne, Près de Ton cœur les pleurs même sont doux; Soit que Ta main nous frappe ou nous couronne, Reste avec nous, Seigneur, reste avec nous."
+        "Reste avec nous, Seigneur, le jour décline, \nLa nuit s’approche et nous menace tous; \nNous implorons Ta présence divine: \nReste avec nous, Seigneur, reste avec nous.",
+        "En Toi nos cœurs ont salué leur Maître, \nEn Toi notre âme a trouvé son Époux; \nÀ Ta lumière elle se sent renaître; \nReste avec nous, Seigneur, reste avec nous.",
+        "Dans nos combats si ta main nous délaisse, \nSatan vainqueur nous tiendra sous ses coups; \nQue ta puissance arme notre faiblesse; \nReste avec nous, Seigneur, reste avec nous.",
+        "Sous Ton regard la joie est sainte et bonne, \nPrès de Ton cœur les pleurs même sont doux; \nSoit que Ta main nous frappe \nou nous couronne, \nReste avec nous, Seigneur, reste avec nous."
       ]
     },
     {
       "songTitle": "QUEL REPOS CÉLESTE",
+      "id": 36,
       "songId": 37,
-      "chorus": "Quel repos, quel repos, (x2) Quel repos, quel céleste repos!",
+      "chorus": "Quel repos, quel repos, (x2) \nQuel repos, quel céleste repos!",
       "key": "Ré ♭ majeur",
       "author": "Philip-Paul Bliss, Amélie Humbert (1851-1936)",
       "enLyrics": [
-        "Quel repos céleste Jésus, d’être à Toi! À Toi pour la mort et la vie, Dans les jours mauvais De chanter avec foi: Tout est bien, ma paix est infinie!",
-        "Quel repos céleste, Mon fardeau n’est plus! Libre par le sang du Calvaire, Tous mes ennemis, ésus les a vaincus, Gloire et louange à Dieu notre Père!",
-        "Quel repos céleste! Tu conduis mes pas, Tu me combles de Tes richesses, Dans Ton grand amour, chaque jour Tu sauras Déployer envers moi Tes tendresses.",
-        "Quel repos céleste, Quand enfin, Seigneur, Auprès de Toi j’aurai ma place, Après les travaux, Les combats, la douleur, À jamais je pourrai voir Ta face!"
+        "Quel repos céleste \nJésus, d’être à Toi! \nÀ Toi pour la mort et la vie, \nDans les jours mauvais \nDe chanter avec foi: \nTout est bien, ma paix est infinie!",
+        "Quel repos céleste, \nMon fardeau n’est plus! \nLibre par le sang du Calvaire, \nTous mes ennemis, \nJésus les a vaincus, \nGloire et louange à Dieu notre Père!",
+        "Quel repos céleste! Tu conduis mes pas, \nTu me combles de Tes richesses, \nDans Ton grand amour, \nchaque jour Tu sauras \nDéployer envers moi Tes tendresses.",
+        "Quel repos céleste, \nQuand enfin, Seigneur, \nAuprès de Toi j’aurai ma place, \nAprès les travaux, \nLes combats, la douleur, \nÀ jamais je pourrai voir Ta face!"
       ]
     },
     {
       "songTitle": "QUEL AUTRE AU CIEL AI-JE QUE TOI",
+      "id": 37,
       "songId": 38,
       "chorus": "",
       "key": "Ré majeur",
       "author": "Amélie Humbert (1851-1936)",
       "enLyrics": [
-        "Quel autre au ciel ai-je que toi, Ô mon Dieu, mon Sauveur? N’as-tu pas ouvert à ma foi Les trésors de ton cœur? Tu t’es donné toi-même à moi, Et, vivant sous ta douce loi, Je ne prends de plaisir qu’en toi. Ô mon Dieu, mon Sauveur!",
-        "Que me font les biens d’ici-bas, Ô mon Dieu, mon Sauveur? Ils passent, tu ne passes pas; Tu suffis à mon cœur. Dans le deuil ou la pauvreté, Dans l’exil ou l’adversité, Tu restes ma félicité. Ô mon Dieu, mon Sauveur!",
-        "Je serai toujours avec toi, Ô mon Dieu, mon Sauveur! Rien, ici-bas, non rien ne doit M’arracher de ton cœur. Les vents peuvent se déchaîner, Les torrents peuvent déborder, Ta grâce est mon ferme rocher, Ô mon Dieu, mon Sauveur!",
-        "Par la main droite, tu m’as pris, Ô mon Dieu, mon Sauveur! Par ton conseil, tu me conduis Au repos sur ton cœur; Et quand viendra le dernier jour, Tu m’ouvriras avec amour Les portes du divin séjour. Ô mon Dieu, mon Sauveur!"
+        "Quel autre au ciel ai-je que toi, \nÔ mon Dieu, mon Sauveur? \nN’as-tu pas ouvert à ma foi Les trésors de ton cœur? \nTu t’es donné toi-même à moi, \nEt, vivant sous ta douce loi, \nJe ne prends de plaisir qu’en toi. \nÔ mon Dieu, mon Sauveur!",
+        "Que me font les biens d’ici-bas, \nÔ mon Dieu, mon Sauveur? \nIls passent, tu ne passes pas; \nTu suffis à mon cœur. Dans le deuil ou la pauvreté, \nDans l’exil ou l’adversité, \nTu restes ma félicité. \nÔ mon Dieu, mon Sauveur!",
+        "Je serai toujours avec toi, \nÔ mon Dieu, mon Sauveur! \nRien, ici-bas, non rien ne doit \nM’arracher de ton cœur. \nLes vents peuvent se déchaîner, \nLes torrents peuvent déborder, \nTa grâce est mon ferme rocher, \nÔ mon Dieu, mon Sauveur!",
+        "Par la main droite, tu m’as pris, \nÔ mon Dieu, mon Sauveur! \nPar ton conseil, tu me conduis \nAu repos sur ton cœur; \nEt quand viendra le dernier jour, \nTu m’ouvriras avec amour \nLes portes du divin séjour. \nÔ mon Dieu, mon Sauveur!"
       ]
     },
     {
       "songTitle": "COMME UN FLEUVE IMMENSE",
+      "id": 38,
       "songId": 39,
       "chorus": "",
       "key": "Fa majeur",
       "author": "J. L. Steiner (1688-1761) J. Mountain (1876)",
       "enLyrics": [
-        "Comme un fleuve immense, Est la paix de Dieu. Parfaite elle avance Vainqueur en tout lieu; Parfaite elle augmente  Constamment son cours; Parfaite sa pente s’abaisse toujours. Fondés sur Dieu même, Nos cœurs à jamais Ont pour bien suprême, Sa parfaite paix.",
-        "Sous Ta main meurtrie, se brise, ô mon Roi, Toute arme ennemie qu’on forge pour moi! Rien ne peut me nuire, Ni troubler mon cœur, Tu veux me conduire, Tu seras Vainqueur.",
-        "Tu traces ma voie: J’y marche avec foi; L’épreuve et la joie me viennent de Toi! Cadran de nos vies, marque, chaque jour, Les heures bénies du Soleil d'amour!",
-        "Océan de gloire, paix de mon Sauveur! Gage de victoire! Trésor de bonheur! Ta grâce infinie, coulant nuit et jour, Inonde ma vie de vagues d'amour! Selon Ta promesse, O Jésus, mon Roi! Je trouve sans cesse Paix parfaite en Toi!"
+        "Comme un fleuve immense, \nEst la paix de Dieu. \nParfaite elle avance \nVainqueur en tout lieu; \nParfaite elle augmente \nConstamment son cours; \nParfaite sa pente s’abaisse toujours. \nFondés sur Dieu même, \nNos cœurs à jamais \nOnt pour bien suprême, \nSa parfaite paix.",
+        "Sous Ta main meurtrie, se brise, ô mon Roi, \nToute arme ennemie qu’on forge pour moi! \nRien ne peut me nuire, \nNi troubler mon cœur, \nTu veux me conduire, \nTu seras Vainqueur.",
+        "Tu traces ma voie: J’y marche avec foi; \nL’épreuve et la joie me viennent de Toi! \nCadran de nos vies, marque, chaque jour, \nLes heures bénies du Soleil d'amour!",
+        "Océan de gloire, paix de mon Sauveur! \nGage de victoire! Trésor de bonheur! \nTa grâce infinie, coulant nuit et jour, \nInonde ma vie de vagues d'amour! \nSelon Ta promesse, \nO Jésus, mon Roi! \nJe trouve sans cesse \nPaix parfaite en Toi!"
       ]
     },
     {
       "songTitle": "NE CRAINS RIEN, JE T’AIME ",
+      "id": 39,
       "songId": 40,
-      "chorus": "Non, jamais tout seul, (x2) Jésus, mon Sauveur me garde, Jamais ne me laisse seul! Non, jamais tout seul, (x2) Jésus, mon Sauveur me garde, Je ne suis jamais tout seul.",
+      "chorus": "Non, jamais tout seul, (x2) \nJésus, mon Sauveur me garde, \nJamais ne me laisse seul! \nNon, jamais tout seul, (x2) \nJésus, mon Sauveur me garde, \nJe ne suis jamais tout seul.",
       "key": "Do majeur",
       "author": "Mlle E. Schürer, (1844 – 1910)",
       "enLyrics": [
-        "Ne crains rien, Je t’aime! Je suis avec toi! Promesse suprême, Qui soutient ma foi. La sombre vallée, N’a plus de terreur, L’âme consolée, Je marche avec mon Sauveur.",
-        "L’aube matinière, Ne luit qu’aux beaux jours, Jésus ma lumière, m’éclaire toujours! Quand je perds de vue, l’astre radieux À travers la nue, Jésus me montre les cieux.",
-        "Les dangers accourent, subtils, inconnus: De près ils m’entourent, Plus près est Jésus, Qui dans le voyage, me redit: “C’est Moi! Ne crains rien: Courage, Je suis toujours avec toi!"
+        "Ne crains rien, Je t’aime! \nJe suis avec toi! \nPromesse suprême, \nQui soutient ma foi. \nLa sombre vallée, \nN’a plus de terreur, \nL’âme consolée, \nJe marche avec mon Sauveur.",
+        "L’aube matinière, \nNe luit qu’aux beaux jours, \nJésus ma lumière, m’éclaire toujours! \nQuand je perds de vue, l’astre radieux \nÀ travers la nue, \nJésus me montre les cieux.",
+        "Les dangers accourent, subtils, inconnus: \nDe près ils m’entourent, \nPlus près est Jésus, \nQui dans le voyage, me redit: “C’est Moi! \nNe crains rien: Courage, \nJe suis toujours avec toi!"
       ]
     },
     {
       "songTitle": "QUEL AMI FIDÈLE",
+      "id": 40,
       "songId": 41,
       "chorus": "",
       "key": "Fa majeur",
       "author": "J. M. Scriven(1855) C. C.Converse, Émile Bonnard",
       "enLyrics": [
-        "Quel ami fidèle et tendre, Nous avons en Jésus-Christ, Toujours prêt à nous entendre, À répondre à notre cri! Il connaît nos défaillances, Nos chutes de chaque jour. Sévère en ses exigences, Il est riche en son amour.",
-        "Quel ami fidèle et tendre, Nous avons en Jésus-Christ, Toujours prêt à nous comprendre, Quand nous sommes en souci! Disons-lui toutes nos craintes, Ouvrons-lui tout notre cœur, Bientôt ses paroles saintes, Nous rendront le vrai bonheur.",
-        "Quel ami fidèle et tendre, Nous avons en Jésus-Christ, Toujours prêt à nous défendre, Quand nous presse l’ennemi! Il nous suit dans la mêlée, Nous entoure de ses bras, Et c’est lui qui tient l’épée, Qui décide des combats.",
-        "Quel ami fidèle et tendre, Nous avons en Jésus-Christ, Toujours prêt à nous apprendre, À vaincre en comptant sur lui! S’Il nous voit vrais et sincères, À chercher la sainteté, Il écoute nos prières, Et nous met en liberté.",
-        "Quel ami fidèle et tendre, Nous avons en Jésus-Christ, Bientôt Il viendra nous prendre, Pour être au ciel avec lui. Suivons donc l’étroite voie, En comptant sur son secours. Bientôt nous aurons la joie, De vivre avec lui toujours!"
+        "Quel ami fidèle et tendre, \nNous avons en Jésus-Christ, \nToujours prêt à nous entendre, \nÀ répondre à notre cri! \nIl connaît nos défaillances, \nNos chutes de chaque jour. \nSévère en ses exigences, \nIl est riche en son amour.",
+        "Quel ami fidèle et tendre, \nNous avons en Jésus-Christ, \nToujours prêt à nous comprendre, \nQuand nous sommes en souci! \nDisons-lui toutes nos craintes, \nOuvrons-lui tout notre cœur, \nBientôt ses paroles saintes, \nNous rendront le vrai bonheur.",
+        "Quel ami fidèle et tendre, \nNous avons en Jésus-Christ, \nToujours prêt à nous défendre, \nQuand nous presse l’ennemi! \nIl nous suit dans la mêlée, \nNous entoure de ses bras, \nEt c’est lui qui tient l’épée, \nQui décide des combats.",
+        "Quel ami fidèle et tendre, \nNous avons en Jésus-Christ, \nToujours prêt à nous apprendre, \nÀ vaincre en comptant sur lui! \nS’Il nous voit vrais et sincères, \nÀ chercher la sainteté, \nIl écoute nos prières, \nEt nous met en liberté.",
+        "Quel ami fidèle et tendre, \nNous avons en Jésus-Christ, \nBientôt Il viendra nous prendre, \nPour être au ciel avec lui. \nSuivons donc l’étroite voie, \nEn comptant sur son secours. \nBientôt nous aurons la joie, \nDe vivre avec lui toujours!"
       ]
     },
     {
       "songTitle": "JE NE SAIS POURQUOI",
+      "id": "41a",
       "songId": 42,
-      "chorus": "Mais je sais qu’en lui j’ai la vie, Il m’a sauvé dans son amour; Et gardé par sa main meurtrie, J’attends l’heure de son retour.",
+      "chorus": "Mais je sais qu’en lui j’ai la vie, \nIl m’a sauvé dans son amour; \nEt gardé par sa main meurtrie, \nJ’attends l’heure de son retour.",
       "key": "Mi ♭ majeur",
       "author": "J. Granahan (1840-1907), G. Guillod 19e et 20e S.",
       "enLyrics": [
-        "Je ne sais pourquoi dans sa grâce Jésus m’a tant aimé, Pourquoi par Son sang Il efface Ma dette, mon péché.",
-        "Je ne sais comment la lumière Éclaire tout mon cœur, Comment je compris ma misère Et reçus mon Sauveur!",
-        "Je ne sais quelle est la mesure De joie et de douleur, Que pour moi, faible créature, Réserve mon Sauveur.",
-        "Je ne sais quand de la victoire, L’heure enfin sonnera, Quand l’Agneau, l’Époux, dans sa gloire, Avec lui me prendra."
+        "Je ne sais pourquoi dans sa grâce \nJésus m’a tant aimé, \nPourquoi par Son sang Il efface \nMa dette, mon péché.",
+        "Je ne sais comment la lumière \nÉclaire tout mon cœur, \nComment je compris ma misère \nEt reçus mon Sauveur!",
+        "Je ne sais quelle est la mesure \nDe joie et de douleur, \nQue pour moi, faible créature, \nRéserve mon Sauveur.",
+        "Je ne sais quand de la victoire, \nL’heure enfin sonnera, \nQuand l’Agneau, l’Époux, dans sa gloire, \nAvec lui me prendra."
       ]
     },
     {
       "songTitle": "GRAND DIEU, NOUS TE BENISSONS",
+      "id": "41b",
       "songId": 43,
       "chorus": "",
       "key": "Sol majeur",
       "author": "H. Empaytaz (1817)",
       "enLyrics": [
-        "Grand Dieu, nous te bénissons, Nous célébrons tes louanges ! Éternel, nous t’exaltons, De concert avec les anges, Et prosternés devant toi, Nous t’adorons, ô grand Roi! X2",
-        "Les saints et les bienheureux, Les trônes et les puissances, Toutes les vertus des cieux, Disent tes magnificences, Proclamant dans leurs concerts, Le grand Dieu de l'univers. X2",
-        "Saint, saint, saint est l’Éternel, Le Seigneur, Dieu des armées! Son pouvoir est immortel; Ses œuvres partout semées Font éclater sa grandeur, Sa majesté, sa splendeur. X2",
-        "Sauve ton peuple, Seigneur, Et bénis ton héritage! Que ta gloire et ta splendeur Soient à jamais son partage! Conduis-le par ton amour Jusqu’au céleste séjour. X2",
-        "Gloire soit au Saint-Esprit! Gloire soit à Dieu le Père! Gloire soit à Jésus-Christ  Notre Sauveur, notre Frère! Son immense charité Dure à perpétuité. X2"
+        "Grand Dieu, nous te bénissons, \nNous célébrons tes louanges ! \nÉternel, nous t’exaltons, \nDe concert avec les anges, \nEt prosternés devant toi, \nNous t’adorons, ô grand Roi! X2",
+        "Les saints et les bienheureux, \nLes trônes et les puissances, \nToutes les vertus des cieux, \nDisent tes magnificences, \nProclamant dans leurs concerts, \nLe grand Dieu de l'univers. X2",
+        "Saint, saint, saint est l’Éternel, \nLe Seigneur, Dieu des armées! \nSon pouvoir est immortel; \nSes œuvres partout semées \nFont éclater sa grandeur, \nSa majesté, sa splendeur. X2",
+        "Sauve ton peuple, Seigneur, \nEt bénis ton héritage! \nQue ta gloire et ta splendeur \nSoient à jamais son partage! \nConduis-le par ton amour \nJusqu’au céleste séjour. X2",
+        "Gloire soit au Saint-Esprit! \nGloire soit à Dieu le Père! \nGloire soit à Jésus-Christ  \nNotre Sauveur, notre Frère! \nSon immense charité \nDure à perpétuité. X2"
       ]
     },
     {
       "songTitle": "JE NE SAIS PAS LE JOUR",
+      "id": 42,
       "songId": 44,
       "chorus": "",
       "key": "Si ♭ majeur",
       "author": "H. BoutelleauJ. Mc Granahan, P. P. Bliss (1874)",
       "enLyrics": [
-        "Je ne sais pas le jour où je verrai mon Roi, Mais je sais qu’Il me veut dans Sa sainte demeure; La lumière vaincra Les ombres à cette heure; Ce sera la gloire pour moi... (bis) Ce sera la gloire pour moi... La lumière vaincra les ombres à cette heure: Ce sera la gloire pour moi.",
-        "Je ne sais quels seront Les chants des bienheureux, Les accents, les accords Des hymnes angéliques, Mais je sais que, joignant Ma voix aux saints cantiques, Bientôt j’adorerai comme eux... (bis) Bientôt j’adorerai comme eux... Mais je sais que, joignant ma voix Aux saints cantiques, Bientôt j’adorerai comme eux.",
-        "Je ne sais quel sera le palais éternel, Mais je sais que mon âme y sera reconnue, Un regard de Jésus sera ma bienvenue, Pour moi, pour moi s’ouvre le ciel... (bis) Pour moi, pour moi s’ouvre le ciel... Un regard de Jésus sera ma bienvenue, Pour moi, pour moi s’ouvre le ciel."
+        "Je ne sais pas le jour où je verrai mon Roi, \nMais je sais qu’Il me veut \ndans Sa sainte demeure; \nLa lumière vaincra \nLes ombres à cette heure; \nCe sera la gloire pour moi... (bis) \nCe sera la gloire pour moi... \nLa lumière vaincra \nles ombres à cette heure: \nCe sera la gloire pour moi.",
+        "Je ne sais quels seront \nLes chants des bienheureux, \nLes accents, les accords \nDes hymnes angéliques, \nMais je sais que, joignant \nMa voix aux saints cantiques, \nBientôt j’adorerai comme eux... (bis) \nBientôt j’adorerai comme eux... \nMais je sais que, joignant ma voix \nAux saints cantiques, \nBientôt j’adorerai comme eux.",
+        "Je ne sais quel sera le palais éternel, \nMais je sais que mon âme y sera reconnue, \nUn regard de Jésus sera ma bienvenue, \nPour moi, pour moi s’ouvre le ciel... (bis) \nPour moi, pour moi s’ouvre le ciel... \nUn regard de Jésus sera ma bienvenue, \nPour moi, pour moi s’ouvre le ciel."
       ]
     },
     {
       "songTitle": "MON DIEU PLUS PRÈS DE TOI",
+      "id": 43,
       "songId": 45,
       "chorus": "",
       "key": "Fa majeur",

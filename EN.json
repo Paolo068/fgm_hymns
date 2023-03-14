@@ -111,409 +111,440 @@
     },
     {
       "songTitle": "NOTHING BUT THE BLOOD OF JESUS",
+      "id": 9,
       "songId": 10,
-      "chorus": "Oh! Precious is the flow That makes me white as snow; No other fount I know, Nothing but the blood of Jesus.",
+      "chorus": "Oh! Precious is the flow \nThat makes me white as snow; \nNo other fount I know, \nNothing but the blood of Jesus.",
       "key": "F major",
       "author": "Robert Lowry (1877)",
       "enLyrics": [
-        "What can wash away my sin? Nothing but the blood of Jesus; What can make me whole again? Nothing but the blood of Jesus.",
-        "For my pardon, this I see, Nothing but the blood of Jesus; For my cleansing this my plea, Nothing but the blood of Jesus.",
-        "Nothing can for sin atone, Nothing but the blood of Jesus; Naught of good that I have done, Nothing but the blood of Jesus.",
-        "This is all my hope and peace, Nothing but the blood of Jesus; This is all my righteousness, Nothing but the blood of Jesus.",
-        "Now by this I’ll overcome Nothing but the blood of Jesus, Now by this I’ll reach my home Nothing but the blood of Jesus."
+        "What can wash away my sin? \nNothing but the blood of Jesus; \nWhat can make me whole again? \nNothing but the blood of Jesus.",
+        "For my pardon, this I see, \nNothing but the blood of Jesus; \nFor my cleansing this my plea, \nNothing but the blood of Jesus.",
+        "Nothing can for sin atone, \nNothing but the blood of Jesus; \nNaught of good that I have done, \nNothing but the blood of Jesus.",
+        "This is all my hope and peace, \nNothing but the blood of Jesus; \nThis is all my righteousness, \nNothing but the blood of Jesus.",
+        "Now by this I’ll overcome- \nNothing but the blood of Jesus, \nNow by this I’ll reach my home- \nNothing but the blood of Jesus."
       ]
     },
     {
       "songTitle": "BLESS IS THE FOUNTAIN OF BLOOD",
+      "id": 10,
       "songId": 11,
-      "chorus": "Whiter than the snow, (x2) Washed in the blood of the Lamb, And I shall be whiter than snow.",
+      "chorus": "",
       "key": "D major",
       "author": "Eden Reeder Latta, (1881)",
       "enLyrics": [
-        "Blessed be the fountain of blood, To a world of sinners revealed; Blessed be the dear Son of God; Only by His stripes we are healed. Tho’ I’ve wandered far from His fold, Bringing to my heart pain and woe, Wash me in the blood of the Lamb, And I shall be whiter than snow.",
-        "Thorny was the crown that He wore, And the cross His body o’ercame; Grievous were the sorrows He bore, But He suffered thus not in vain.May I to that fountain be led, Made to cleanse my sins here below; Wash me in the blood that He shed, And I shall be whiter than snow.",
-        "Father, I have wandered from Thee, Often has my heart gone astray; Crimson do my sins seem to me, Water cannot wash them away. Jesus, to the fountain of Thine, Leaning on Thy promise, I go; Cleanse me by Thy washing divine, And I shall be whiter than snow."
+        "Blessed be the fountain of blood, \nTo a world of sinners revealed; \nBlessed be the dear Son of God; \nOnly by His stripes we are healed. \nTho’ I’ve wandered far from His fold, \nBringing to my heart pain and woe, \nWash me in the blood of the Lamb, \nAnd I shall be whiter than snow. Whiter than the snow, (x2) \nWashed in the blood of the Lamb, \nAnd I shall be whiter than snow.",
+        "Thorny was the crown that He wore, \nAnd the cross His body o’ercame; \nGrievous were the sorrows He bore, \nBut He suffered thus not in vain. \nMay I to that fountain be led, \nMade to cleanse my sins here below; \nWash me in the blood that He shed, \nAnd I shall be whiter than snow.",
+        "Father, I have wandered from Thee, \nOften has my heart gone astray; \nCrimson do my sins seem to me, \nWater cannot wash them away. \nJesus, to the fountain of Thine, \nLeaning on Thy promise, I go; \nCleanse me by Thy washing divine, \nAnd I shall be whiter than snow. Whiter than the snow, (x2) \nWashed in the blood of the Lamb, \nMy heart is whiter than snow."
       ]
     },
     {
       "songTitle": "JUST AS I AM",
+      "id": 11,
       "songId": 12,
       "chorus": "",
       "key": "E ♭ major",
       "author": "Charlotte Elliott (1835)",
       "enLyrics": [
-        "that Thy blood was shed for me, And that Thou bidst me come to Thee, O Lamb of God, I come, I come.",
-        "Just as I am, poor, wretched, blind; Sight, riches, healing of the mind, Yea, all I need in Thee to find, O Lamb of God, I come, I come.",
-        "Just as I am, Thou wilt receive, Wilt welcome, pardon, cleanse, relieve; Because Thy promise I believe, O Lamb of God, I come, I come.",
-        "Just as I am, Thy love unknown Hath broken every barrier down; Now, to be Thine, yea, Thine alone, O Lamb of God, I come, I come."
+        "Just as I am, without one plea, \nBut that Thy blood was shed for me, \nAnd that Thou bidst me come to Thee, \nO Lamb of God, I come, I come.",
+        "Just as I am, poor, wretched, blind; \nSight, riches, healing of the mind, \nYea, all I need in Thee to find, \nO Lamb of God, I come, I come.",
+        "Just as I am, Thou wilt receive, \nWilt welcome, pardon, cleanse, relieve; \nBecause Thy promise I believe, \nO Lamb of God, I come, I come.",
+        "Just as I am, Thy love unknown \nHath broken every barrier down; \nNow, to be Thine, yea, Thine alone, \nO Lamb of God, I come, I come."
       ]
     },
     {
       "songTitle": "BLESSED ASSURANCE",
+      "id": 12,
       "songId": 13,
-      "chorus": "This is my story, this is my song, Praising my Saviour all the day long. (bis)",
+      "chorus": "This is my story, this is my song, \nPraising my Saviour all the day long. (bis)",
       "key": "D ♭ Major",
       "author": "Augustus M. Toplady, (1891)",
       "enLyrics": [
-        "Blessed assurance, Jesus is mine! Oh what a fore-taste of glory divine! Heir of salvation, purchase of God, Born of His Spirit, washed in His blood.",
-        "Perfect submission, perfect delight, Visions of rapture, burst on my sight; Angels descending bring from above Echoes of mercy, whispers of love.",
-        "Perfect submission, all is at rest, I in my Saviour am happy and blest. Watching and waiting, looking above, Filled with His goodness, lost in His love."
+        "Blessed assurance, Jesus is mine! \nOh what a fore-taste of glory divine! \nHeir of salvation, purchase of God, \nBorn of His Spirit, washed in His blood.",
+        "Perfect submission, perfect delight, \nVisions of rapture, burst on my sight; \nAngels descending bring from above \nEchoes of mercy, whispers of love.",
+        "Perfect submission, all is at rest, \nI in my Saviour am happy and blest. \nWatching and waiting, looking above, \nFilled with His goodness, lost in His love."
       ]
     },
     {
       "songTitle": "THERE IS POWER, POWER",
+      "id": 13,
       "songId": 14,
-      "chorus": "There is power, power, Wonder-working power In the blood of the Lamb. There is power, power, Wonder-working power In the precious blood of the Lamb!",
+      "chorus": "There is power, power, \nWonder-working power \nIn the blood of the Lamb. \nThere is power, power, \nWonder-working power \nIn the precious blood of the Lamb!",
       "key": "B ♭ major",
       "author": "Lewis E. Jones (1899)",
       "enLyrics": [
-        "Would you be free From your burden of sin? There’s power in the blood; Power in the blood. Would you over evil a victory win? There’s wonderful power in the blood.",
-        "Would you be free from Your passion and pride? There’s power in the blood; Power in the blood. Come for a cleansing to Calvary's tide; There’s wonderful power in the blood.",
-        "Would you be whiter, Much whiter than snow? There’s power in the blood; Power in the blood. Sin-stains are lost in its life-giving flow; There’s wonderful power in the blood.",
-        "Would you do service For Jesus, your King? There’s power in the blood; Power in the blood. Would you live daily his praises to sing? There’s wonderful power in the blood."
+        "Would you be free \nFrom your burden of sin? \nThere’s power in the blood; \nPower in the blood. \nWould you over evil a victory win? \nThere’s wonderful power in the blood.",
+        "Would you be free from \nYour passion and pride? \nThere’s power in the blood; \nPower in the blood. \nCome for a cleansing to Calvary's tide; \nThere’s wonderful power in the blood.",
+        "Would you be whiter, \nMuch whiter than snow? \nThere’s power in the blood; \nPower in the blood. \nSin-stains are lost in its life-giving flow; \nThere’s wonderful power in the blood.",
+        "Would you do service \nFor Jesus, your King? \nThere’s power in the blood; \nPower in the blood. \nWould you live daily his praises to sing? \nThere’s wonderful power in the blood."
       ]
     },
     {
       "songTitle": "THERE SHALL BE SHOWERS",
+      "id": 14,
       "songId": 15,
-      "chorus": "Showers of blessing, Showers of blessing we need; Mercy-drops round us are falling, But for the showers we plead.",
+      "chorus": "Showers of blessing, \nShowers of blessing we need; \nMercy-drops round us are falling, \nBut for the showers we plead.",
       "key": "B ♭ major",
       "author": "D. W. Whittle (1883)",
       "enLyrics": [
-        "There shall be showers of blessing: This is the promise of love; There shall be seasons refreshing, Sent from the Saviour above.",
-        "There shall be showers of blessing, Precious reviving again; Over the hills and the valleys, Sound of abundance of rain.",
-        "There shall be showers of blessing! Send them upon us, O Lord! Grant to us now a refreshing; Come, and now honor Thy word!",
-        "There shall be showers of blessing! Oh that today they might fall, Now as to God we're confessing, Now as on Jesus we call."
+        "There shall be showers of blessing: \nThis is the promise of love; \nThere shall be seasons refreshing, \nSent from the Saviour above.",
+        "There shall be showers of blessing, \nPrecious reviving again; \nOver the hills and the valleys, \nSound of abundance of rain.",
+        "There shall be showers of blessing! \nSend them upon us, O Lord! \nGrant to us now a refreshing; \nCome, and now honor Thy word!",
+        "There shall be showers of blessing! \nOh that today they might fall, \nNow as to God we're confessing, \nNow as on Jesus we call."
       ]
     },
     {
       "songTitle": "LORD JESUS, YOUR HOLY PRESENCE",
+      "id": 15,
       "songId": 16,
-      "chorus": "Cause your face to shine upon me, Lord Jesus, O Lamb of God! My place is at Your feet only, Where I found pleasure, O God.",
+      "chorus": "Cause your face to shine upon me, \nLord Jesus, O Lamb of God! \nMy place is at Your feet only, \nWhere I found pleasure, O God.",
       "key": "F major",
       "author": "Adèle Pélaz, Mlle Annie Harrison (1850-1940)",
       "enLyrics": [
-        "Lord Jesus Your holy presence Is the source of happiness. Unto the heart, Lord, it brings rest, When in joy, when in distress.",
-        "On those who from You don’t depart, O send forth Your cheering ray; Saviour, make Your temple their heart And lead them in the right way",
-        "Your presence is needed each hour, For Your service, Lord of hosts! For it’s a strength and a power, To redeem those that are lost.",
-        "When Lord in the sky You appear, It will be by Your presence That You will draw us; and while near, We shall fall in reverence."
+        "Lord Jesus Your holy presence \nIs the source of happiness. \nUnto the heart, Lord, it brings rest, \nWhen in joy, when in distress.",
+        "On those who from You don’t depart, \nO send forth Your cheering ray; \nSaviour, make Your temple their heart \nAnd lead them in the right way",
+        "Your presence is needed each hour, \nFor Your service, Lord of hosts! \nFor it’s a strength and a power, \nTo redeem those that are lost.",
+        "When Lord in the sky You appear, \nIt will be by Your presence \nThat You will draw us; and while near, \nWe shall fall in reverence."
       ]
     },
     {
       "songTitle": "TAKE MY LIFE AND LET IT BE",
+      "id": 16,
       "songId": 17,
       "chorus": "",
       "key": "F major",
       "author": "Frances Ridley Havergal (1874)",
       "enLyrics": [
-        "Take my life, and let it be Consecrated, Lord, to Thee. Take my moments and my days; Let them flow in ceaseless praise. (x2)",
-        "Take my hands, and let them move At the impulse of Thy love. Take my feet, and let them be Swift and beautiful for Thee. (x2)",
-        "Take my voice, and let me sing Always, only, for my King. Take my lips, and let them be Filled with messages from Thee. (x2)",
-        "Take my silver and my gold; Not a mite would I withhold. Take my intellect, and use Every power as Thou shall choose. (x2)",
-        "Take my will, and make it Thine; It shall be no longer mine. Take my heart, it is Thine own; It shall be Thy royal throne. (x2)",
-        "Take my love, my Lord, I pour At Thy feet its treasure store. Take myself, and I will be Ever, only, all for Thee. (x2)"
+        "Take my life, and let it be \nConsecrated, Lord, to Thee. \nTake my moments and my days; \nLet them flow in ceaseless praise. (x2)",
+        "Take my hands, and let them move \nAt the impulse of Thy love. \nTake my feet, and let them be \nSwift and beautiful for Thee. (x2)",
+        "Take my voice, and let me sing \nAlways, only, for my King. \nTake my lips, and let them be \nFilled with messages from Thee. (x2)",
+        "Take my silver and my gold; \nNot a mite would I withhold. \nTake my intellect, and use \nEvery power as Thou shall choose. (x2)",
+        "Take my will, and make it Thine; \nIt shall be no longer mine. \nTake my heart, it is Thine own; \nIt shall be Thy royal throne. (x2)",
+        "Take my love, my Lord, I pour \nAt Thy feet its treasure store. \nTake myself, and I will be \nEver, only, all for Thee. (x2)"
       ]
     },
     {
       "songTitle": "PRECIOUS JESUS",
+      "id": 17,
       "songId": 18,
-      "chorus": "Precious Jesus, O my Saviour, Be the treasure of my heart! (x2)",
+      "chorus": "Precious Jesus, O my Saviour, \nBe the treasure of my heart! (x2)",
       "key": "B ♭ major",
       "author": "Ruben Saillens (1977)",
       "enLyrics": [
-        "I love You O precious Jesus; Fill my heart with your great love, And let, Lord, the Holy Spirit Descend on me like a dove.",
-        "To You my Lord, I surrender All my heart and all my will; May Your Spirit, my Redeemer, Direct me to do your will.",
-        "I reach out my hand without fear, O Lord, to touch Your garment. From You come all I want to hear, To be healed from this moment.",
-        "Christ’s love for me is so tender, No love with His can be vied. Lord, fill my soul, let it render Praise to You who for me died.",
-        "Lord Your bright new dawn is ever Glowing and shining in me; And with joy I'll sing forever, For my Saviour lives in me.",
-        "There's nothing I need here below, But to do Your will, O Lord. May the Holy Spirit bestow Strength on me forevermore!"
+        "I love You O precious Jesus; \nFill my heart with your great love, \nAnd let, Lord, the Holy Spirit \nDescend on me like a dove.",
+        "To You my Lord, I surrender \nAll my heart and all my will; \nMay Your Spirit, my Redeemer, \nDirect me to do your will.",
+        "I reach out my hand without fear, \nO Lord, to touch Your garment. \nFrom You come all I want to hear, \nTo be healed from this moment.",
+        "Christ’s love for me is so tender, \nNo love with His can be vied. \nLord, fill my soul, let it render \nPraise to You who for me died.",
+        "Lord Your bright new dawn is ever \nGlowing and shining in me; \nAnd with joy I'll sing forever, \nFor my Saviour lives in me.",
+        "There's nothing I need here below, \nBut to do Your will, O Lord. \nMay the Holy Spirit bestow \nStrength on me forevermore!"
       ]
     },
     {
       "songTitle": "BRING THEM IN",
+      "id": 18,
       "songId": 19,
-      "chorus": "Bring them in, bring them in, Bring them in from the fields of sin; Bring them in, bring them in, Bring the wandering ones to Jesus.",
+      "chorus": "Bring them in, bring them in, \nBring them in from the fields of sin; \nBring them in, bring them in, \nBring the wandering ones to Jesus.",
       "key": "A ♭ major",
       "author": "Alexcenah Thomas, (1885)",
       "enLyrics": [
-        "Hark! ’tis the Shepherd’s voice I hear Out in the desert dark and drear, Calling the sheep who’ve gone astray, Far from the Shepherd’s fold away.",
-        "Who’ll go and help this Shepherd kind, Help Him the wandering ones to find? Who’ll bring the lost ones to the fold, Where they’ll be sheltered from the cold?",
-        "Out in the desert hear their cry, Out on the mountains wild and high; Hark! ’tis the Master speaks to thee, “Go find My sheep wherever they be.”"
+        "Hark! ’tis the Shepherd’s voice I hear \nOut in the desert dark and drear, \nCalling the sheep who’ve gone astray, \nFar from the Shepherd’s fold away.",
+        "Who’ll go and help this Shepherd kind, \nHelp Him the wandering ones to find? \nWho’ll bring the lost ones to the fold, \nWhere they’ll be sheltered from the cold?",
+        "Out in the desert hear their cry, \nOut on the mountains wild and high; \nHark! ’tis the Master speaks to thee, \n“Go find My sheep wherever they be.”"
       ]
     },
     {
       "songTitle": "EARTHLY PLEASURES VAINLY",
+      "id": 19,
       "songId": 20,
-      "chorus": "Be like Jesus, this is my song, I’d be like Jesus; Be like Jesus, all day long! I’d be like Jesus.",
+      "chorus": "Be like Jesus, this is my song, \nI’d be like Jesus; \nBe like Jesus, all day long! \nI’d be like Jesus.",
       "key": "G major",
       "author": "James Rowe (1911)",
       "enLyrics": [
-        "Earthly pleasures vainly call me; I’d be like Jesus; Nothing worldly shall enthrall me; I’d be like Jesus.",
-        "He has broken every fetter, I’d be like Jesus; That my soul may serve Him better, I’d be like Jesus.",
-        "All the way from earth to glory, I’d be like Jesus; Telling o’er and o’er the story, I’d be like Jesus.",
-        "That in heaven He may meet me, I’d be like Jesus; That His words “Well done” may greet me, I’d be like Jesus."
+        "Earthly pleasures vainly call me; \nI’d be like Jesus; \nNothing worldly shall enthrall me; \nI’d be like Jesus.",
+        "He has broken every fetter, \nI’d be like Jesus; \nThat my soul may serve Him better, \nI’d be like Jesus.",
+        "All the way from earth to glory, \nI’d be like Jesus; \nTelling o’er and o’er the story, \nI’d be like Jesus.",
+        "That in heaven He may meet me, \nI’d be like Jesus; \nThat His words “Well done” may greet me, \nI’d be like Jesus."
       ]
     },
     {
       "songTitle": "MY SPIRIT, SOUL AND BODY",
+      "id": 20,
       "songId": 21,
-      "chorus": "My all is on the altar; Lord, I am all Thine own; Oh, may my faith ne’er falter! Lord, keep me Thine alone.",
+      "chorus": "My all is on the altar; \nLord, I am all Thine own; \nOh, may my faith ne’er falter! \nLord, keep me Thine alone.",
       "key": "D major",
       "author": "Mary Dagworthy James, (1869)",
       "enLyrics": [
-        "My spirit, soul, and body, Jesus, I give to Thee, A consecrated offering, Thine evermore to be.",
-        "O Jesus, mighty Saviour, I trust in Thy great name; I look for Thy salvation, Thy promise now I claim.",
-        "Now, Lord, I yield my members, From sin’s dominion free, For warfare and for triumph, As weapons unto Thee.",
-        "I’m Thine, O blessed Jesus, Washed in Thy precious blood, Sealed by Thy Holy Spirit, A sacrifice to God."
+        "My spirit, soul, and body, \nJesus, I give to Thee, \nA consecrated offering, \nThine evermore to be.",
+        "O Jesus, mighty Saviour, \nI trust in Thy great name; \nI look for Thy salvation, \nThy promise now I claim.",
+        "Now, Lord, I yield my members, \nFrom sin’s dominion free, \nFor warfare and for triumph, \nAs weapons unto Thee.",
+        "I’m Thine, O blessed Jesus, \nWashed in Thy precious blood, \nSealed by Thy Holy Spirit, \nA sacrifice to God."
       ]
     },
     {
       "songTitle": "ALL TO JESUS I SURRENDER",
+      "id": 21,
       "songId": 22,
-      "chorus": "I surrender all I surrender all, All to Thee, my blessed Savior I surrender all",
+      "chorus": "I surrender all \nI surrender all, \nAll to Thee, my blessed Savior \nI surrender all",
       "key": "D major",
       "author": "Judson W. Van DeVenter , Winfield S. Weeden (1896)",
       "enLyrics": [
-        "All to Jesus I surrender All to Him I freely give I will ever love and trust Him In His presence daily live",
-        "All to Jesus I surrender Humbly at His feet I bow Worldly pleasures all forsaken Take me, Jesus, take me now",
-        "All to Jesus I surrender Make me, Savior, wholly Thine Let me feel the Holy Spirit Truly know that Thou art mine",
-        "All to Jesus I surrender Lord, I give myself to Thee Fill me with Thy love and power Let Thy blessing fall on me",
-        "All to Jesus I surrender Now I feel the sacred flame Oh, the joy of full salvation Glory, glory, to His Name"
+        "All to Jesus I surrender \nAll to Him I freely give \nI will ever love and trust Him \nIn His presence daily live",
+        "All to Jesus I surrender \nHumbly at His feet I bow \nWorldly pleasures all forsaken \nTake me, Jesus, take me now",
+        "All to Jesus I surrender \nMake me, Savior, wholly Thine \nLet me feel the Holy Spirit \nTruly know that Thou art mine",
+        "All to Jesus I surrender \nLord, I give myself to Thee \nFill me with Thy love and power \nLet Thy blessing fall on me",
+        "All to Jesus I surrender \nNow I feel the sacred flame \nOh, the joy of full salvation \nGlory, glory, to His Name"
       ]
     },
     {
       "songTitle": "O LORD, MY GOD",
+      "id": 23,
       "songId": 23,
-      "chorus": "Then sings my soul, My Saviour God, to Thee, How great Thou art! (x2)",
+      "chorus": "Then sings my soul, \nMy Saviour God, to Thee, \nHow great Thou art! (x2)",
       "key": "B ♭ major",
       "author": "Carl Boberg (1885), Stuart K. Hine (1953)",
       "enLyrics": [
-        "O Lord my God, When I in awesome wonder, Consider all the worlds Thy hands have made; I see the stars, I hear the rolling thunder, Thy power throughout The universe displayed:",
-        "When through the woods And forest glades I wander, And hear the birds sing sweetly in the trees; When I look down From lofty mountain grandeur, And hear the brook, And feel the gentle breeze;",
-        "And when I think that God His Son not sparing, Sent Him to die, I scarce can take it in; That on the cross, My burden gladly bearing, He bled and died to take away my sin.",
-        "When Christ shall come with shout of acclamation And take me home What joy shall feel my heart. Then I shall bow in humble adoration And there proclaim my God how great Thou art."
+        "O Lord my God, \nWhen I in awesome wonder, \nConsider all the worlds \nThy hands have made; \nI see the stars, I hear the rolling thunder, \nThy power throughout \nThe universe displayed:",
+        "When through the woods \nAnd forest glades I wander, \nAnd hear the birds sing sweetly in the trees; \nWhen I look down \nFrom lofty mountain grandeur, \nAnd hear the brook, \nAnd feel the gentle breeze;",
+        "And when I think that \nGod His Son not sparing, \nSent Him to die, \nI scarce can take it in; \nThat on the cross, \nMy burden gladly bearing, \nHe bled and died to take away my sin.",
+        "When Christ shall come \nwith shout of acclamation \nAnd take me home \nWhat joy shall feel my heart. \nThen I shall bow in humble adoration \nAnd there proclaim my \nGod how great Thou art."
       ]
     },
     {
       "songTitle": "THERE IS A CITY BRIGHT",
+      "id": 24,
       "songId": 24,
       "chorus": "",
       "key": "G ♭ major",
       "author": "Mary Anne S. Deck (1898)",
       "enLyrics": [
-        "There is a city bright; Closed are its gates to sin; Naught that defileth, (x2) Can ever enter in.",
-        "Saviour, I come to Thee; O Lamb of God I pray, Cleanse me and save me, (x2) Wash all my sins away.",
-        "Lord, make me, from this hour, Thy loving child to be, Kept by Thy power, (x2) From all that grieveth Thee.",
-        "Lord, make me wholly Thine! My Redeemer I pray, Let Thy will be mine, (x2) Near Thee I want to stay.",
-        "Till in the snow white dress of Thy redeemed I stand, Faultless and stainless (x2), Safe in that happy land!"
+        "There is a city bright; \nClosed are its gates to sin; \nNaught that defileth, (x2) \nCan ever enter in.",
+        "Saviour, I come to Thee; \nO Lamb of God I pray, \nCleanse me and save me, (x2) \nWash all my sins away.",
+        "Lord, make me, from this hour, \nThy loving child to be, \nKept by Thy power, (x2) \nFrom all that grieveth Thee.",
+        "Lord, make me wholly Thine! \nMy Redeemer I pray, \nLet Thy will be mine, (x2) \nNear Thee I want to stay.",
+        "Till in the snow white dress of \nThy redeemed I stand, \nFaultless and stainless (x2), \nSafe in that happy land!"
       ]
     },
     {
       "songTitle": "ALL MY DOUBTS I GIVE",
       "songId": 25,
-      "chorus": "I am trusting, fully trusting, Sweetly trusting in His word; I am trusting, fully trusting, Sweetly trusting in His word.",
+      "chorus": "I am trusting, fully trusting, \nSweetly trusting in His word; \nI am trusting, fully trusting, \nSweetly trusting in His word.",
       "key": "F major",
       "author": "J. C. Morgan, George C. Stebbins (1894)",
       "enLyrics": [
-        "All my doubts I give to Jesus; I’ve His gracious promise heard: I shall never be confounded, I am trusting in that word.",
-        "All my sin I lay on Jesus, He doth wash me in His blood, He will keep me pure and holy, He will bring me home to God.",
-        "All my fears I give to Jesus, Rests my weary soul on Him; Though my way be hid in darkness, Never can His light grow dim.",
-        "All my joys I give to Jesus, He is all I want of bliss; He of all the worlds is Master; He has all I need in this.",
-        "All I am I give to Jesus; All my body, all my soul; All I have, and all I hope for, While eternal ages roll."
+        "All my doubts I give to Jesus; \nI’ve His gracious promise heard: \nI shall never be confounded, \nI am trusting in that word.",
+        "All my sin I lay on Jesus, \nHe doth wash me in His blood, \nHe will keep me pure and holy, \nHe will bring me home to God.",
+        "All my fears I give to Jesus, \nRests my weary soul on Him; \nThough my way be hid in darkness, \nNever can His light grow dim.",
+        "All my joys I give to Jesus, \nHe is all I want of bliss; \nHe of all the worlds is Master; \nHe has all I need in this.",
+        "All I am I give to Jesus; \nAll my body, all my soul; All I have, and all I hope for, \nWhile eternal ages roll."
       ]
     },
     {
       "songTitle": "I HEAR THY WELCOME VOICE",
+      "id": 26,
       "songId": 26,
-      "chorus": "I am coming, Lord, Coming now to Thee: Trusting only in the blood That flowed on Calvary.",
+      "chorus": "I am coming, Lord, \nComing now to Thee: \nTrusting only in the blood \nThat flowed on Calvary.",
       "key": "D major",
       "author": "G. Reganey, Lewis Hartsough (1872)",
       "enLyrics": [
-        "I hear Thy welcome voice, That calls me, Lord, to Thee. For cleansing in Thy precious blood That flowed on Calvary.",
-        "Though many weak and vile, Thou dost my strength assure; Thou dost my vileness fully cleanse, Till spotless all and pure.",
-        "‘Tis Jesus calls me on To perfect faith and love, To perfect hope, and peace, and trust, For earth and heaven above."
+        "I hear Thy welcome voice, \nThat calls me, Lord, to Thee. \nFor cleansing in Thy precious blood \nThat flowed on Calvary.",
+        "Though many weak and vile, \nThou dost my strength assure; \nThou dost my vileness fully cleanse, \nTill spotless all and pure.",
+        "‘Tis Jesus calls me on \nTo perfect faith and love, \nTo perfect hope, and peace, and trust, \nFor earth and heaven above."
       ]
     },
     {
       "songTitle": "BEHOLD THE LAMB OF GOD",
+      "id": 27,
       "songId": 27,
       "chorus": "",
       "key": "E ♭ major",
       "author": "Joseph Hoskins, Daniel Auber (1782-1871)",
       "enLyrics": [
-        "Behold! Behold the Lamb of God, On the cross; (bis) For us He sheds His precious blood On the cross. (bis) O hear His all important cry, Why perish, blood bought sinner, why? Draw near and see your Savior die On the cross. (bis)",
-        "Come, sinners, see Him lifted up On the cross; (bis) He drinks for you the bitter cup On the cross. (bis) The rocks do rend, the mountains quake, While Jesus doth atonement make, While Jesus suffers for our sake On the cross. (bis)",
-        "Where’er I go I’ll tell the story Of the cross; (bis) In nothing else my soul shall glory Save the cross. (bis) Yes, this my constant theme shall be Through time and eternity, That Jesus tasted death for me On the cross. (bis)"
+        "Behold! Behold the Lamb of God, \nOn the cross; (bis) \nFor us He sheds His precious blood \nOn the cross. (bis) \nO hear His all important cry, \nWhy perish, blood bought sinner, why? \nDraw near and see your Savior die \nOn the cross. (bis)",
+        "Come, sinners, see Him lifted up \nOn the cross; (bis) \nHe drinks for you the bitter cup \nOn the cross. (bis) \nThe rocks do rend, the mountains quake, \nWhile Jesus doth atonement make, \nWhile Jesus suffers for our sake \nOn the cross. (bis)",
+        "Where’er I go I’ll tell the story \nOf the cross; (bis) \nIn nothing else my soul shall glory \nSave the cross. (bis) \nYes, this my constant theme shall be \nThrough time and eternity, \nThat Jesus tasted death for me \nOn the cross. (bis)"
       ]
     },
     {
       "songTitle": "ONWARD, ONWARD",
+      "id": 28,
       "songId": 28,
       "chorus": "",
       "key": "B ♭ major",
       "author": "G. Borel-Girard, Recueil de Gütersloh (1853)",
       "enLyrics": [
-        "Onward, onward, without delay, To the promise land; Whoever marches on always, Will be rewarded; When I pray, God hears me; From every ill, defends me, Thus without doubt, onward I’ll go, For great is the goal.",
-        "A crown of righteousness awaits him Who overcomes; Never give up! Stand up for Me, Said Jesus our Lord. Fearless and faithful I’ll be, Always obeying God’s word; The faithful Saviour is calling us To reign with Him.",
-        "Firm and steadfast, to the Homeland, Onward will I go; Blessed Saviour, watch over me, From falling, keep me. Let this world and its attractions, Never, never seduce me. If the clouds gather over me, Let me go in peace.",
-        "Merciful God, let Your face shine Upon Your servant; Come and take me, gentle Father, By Your mighty hand. All powers to You belong, Strengthen me all the day long; My victory, Lord, it’s Your glory, Jesus, most Holy."
+        "Onward, onward, without delay, \nTo the promise land; \nWhoever marches on always, \nWill be rewarded; \nWhen I pray, God hears me; \nFrom every ill, defends me, \nThus without doubt, onward I’ll go, \nFor great is the goal.",
+        "A crown of righteousness awaits him \nWho overcomes; \nNever give up! Stand up for Me, \nSaid Jesus our Lord. \nFearless and faithful I’ll be, \nAlways obeying God’s word; \nThe faithful Saviour is calling us \nTo reign with Him.",
+        "Firm and steadfast, to the Homeland, \nOnward will I go; \nBlessed Saviour, watch over me, \nFrom falling, keep me. \nLet this world and its attractions, \nNever, never seduce me. \nIf the clouds gather over me, \nLet me go in peace.",
+        "Merciful God, let Your face shine \nUpon Your servant; \nCome and take me, gentle Father, \nBy Your mighty hand. \nAll powers to You belong, \nStrengthen me all the day long; \nMy victory, Lord, it’s Your glory, \nJesus, most Holy."
       ]
     },
     {
       "songTitle": "HOLD THE FORT",
+      "id": 29,
       "songId": 29,
-      "chorus": "Hold the fort, for I am coming, Jesus signals still; Wave the answer back to heaven, By Thy grace we will.",
+      "chorus": "Hold the fort, for I am coming, \nJesus signals still; \nWave the answer back to heaven, \nBy Thy grace we will.",
       "key": "D ♭ major",
       "author": "P. P. Bliss (1870)",
       "enLyrics": [
-        "Ho, my comrades! See the signal Waving in the sky! Reinforcements now appearing, Victory is nigh.",
-        "See the mighty host advancing, Satan leading on; Mighty ones around us falling, Courage almost gone!",
-        "See the glorious banner waving! Hear the trumpet blow! In our Leader’s name We triumph over ev’ry foe.",
-        "Fierce and long the battle rages, But our help is near; Onward comes our great Commander, Cheer, my comrades, cheer!"
+        "Ho, my comrades! See the signal \nWaving in the sky! \nReinforcements now appearing, \nVictory is nigh.",
+        "See the mighty host advancing, \nSatan leading on; \nMighty ones around us falling, \nCourage almost gone!",
+        "See the glorious banner waving! \nHear the trumpet blow! \nIn our Leader’s name \nWe triumph over ev’ry foe.",
+        "Fierce and long the battle rages, \nBut our help is near; \nOnward comes our great Commander, \nCheer, my comrades, cheer!"
       ]
     },
     {
       "songTitle": "WHO CAN CONQUER",
+      "id": 30,
       "songId": 30,
       "chorus": "",
       "key": "D ♭ major",
       "author": "Henri Monod, T.-B. Southgate (1946)",
       "enLyrics": [
-        "Who can conquer my doubts and my fears? It’s Jesus Christ; Who can share my joys and dry my tears? It’s Jesus Christ. He’s promised to put my foes to flight, And to change my darkness into light, For my shield, my everlasting might, Is Jesus Christ.",
-        "I go to the Father, and my way Is Jesus Christ; I’m happy and my joy every day Is Jesus Christ. And even if, my heart through suffering Can tell me of assurance and sing, It’s because I am only trusting In Jesus Christ.",
-        "Saved by grace, I can only glory In Jesus Christ; Whether to live or die, I’ll only Trust Jesus Christ. I shall soon say: “Goodbye mortal things! Away from you I will take up wings, Gladly towards eternal dwellings, To Jesus Christ.”"
+        "Who can conquer my doubts and my fears? \nIt’s Jesus Christ; \nWho can share my joys and dry my tears? \nIt’s Jesus Christ. \nHe’s promised to put my foes to flight, \nAnd to change my darkness into light, \nFor my shield, my everlasting might, \nIs Jesus Christ.",
+        "I go to the Father, and my way \nIs Jesus Christ; \nI’m happy and my joy every day \nIs Jesus Christ. \nAnd even if, my heart through suffering \nCan tell me of assurance and sing, \nIt’s because I am only trusting \nIn Jesus Christ.",
+        "Saved by grace, I can only glory \nIn Jesus Christ; Whether to live or die, I’ll only \nTrust Jesus Christ. I shall soon say: “Goodbye mortal things! \nAway from you I will take up wings, \nGladly towards eternal dwellings, \nTo Jesus Christ.”"
       ]
     },
     {
       "songTitle": "STAND UP, STAND UP",
+      "id": 32,
       "songId": 31,
       "chorus": "",
       "key": "F major",
       "author": "George Duffield Jr., George James Webb, (1858)",
       "enLyrics": [
-        "Stand up, stand up for Jesus! Ye soldiers of the cross; Lift high His royal banner, It must not suffer loss. From victory unto victory His army shall He lead, Till every foe is vanquished, And Christ is Lord indeed.",
-        "Stand up, stand up for Jesus! The trumpet call obey; Forth to the mighty conflict In this His glorious day! Ye that are men, now serve Him, Against unnumbered foes; Let courage rise with danger, And strength to strength oppose!",
-        "Stand up, stand up for Jesus! Stand in His strength alone; The arm of flesh will fail you, Ye dare not trust your own; Put on the Gospel armor, And watching unto prayer; Where duty calls, or danger, Be never wanting there.",
-        "Stand up, stand up for Jesus! The strife will not be long; This day the noise of battle, The next the victor's song; To him that overcometh, A crown of life shall be; He with the King of glory Shall reign eternally."
+        "Stand up, stand up for Jesus! \nYe soldiers of the cross; \nLift high His royal banner, \nIt must not suffer loss. \nFrom victory unto victory \nHis army shall He lead, \nTill every foe is vanquished, \nAnd Christ is Lord indeed.",
+        "Stand up, stand up for Jesus! \nThe trumpet call obey; \nForth to the mighty conflict \nIn this His glorious day! \nYe that are men, now serve Him, \nAgainst unnumbered foes; \nLet courage rise with danger, \nAnd strength to strength oppose!",
+        "Stand up, stand up for Jesus! \nStand in His strength alone; \nThe arm of flesh will fail you, \nYe dare not trust your own; \nPut on the Gospel armor, \nAnd watching unto prayer; \nWhere duty calls, or danger, \nBe never wanting there.",
+        "Stand up, stand up for Jesus! \nThe strife will not be long; \nThis day the noise of battle, \nThe next the victor's song; \nTo him that overcometh, \nA crown of life shall be; \nHe with the King of glory \nShall reign eternally."
       ]
     },
     {
       "songTitle": "LET US MOVE UP",
+      "id": 33,
       "songId": 32,
       "chorus": "",
       "key": "F major",
       "author": "Mme. W. Monod,(1890), Bern,(1890)",
       "enLyrics": [
-        "Let us move up, joyfully, joyfully, Pressing onward to the land of beauty; To the dwelling where Jesus for us prays, To the Homeland where we’ll rejoice always Up to the bountiful Giver of life, Yes up to the dwelling where comes no strife.",
-        "Sweet choruses in heaven are ringing, Songs of love that the beloved are singing. We’ll all take part in that feast full of light, And all revel in songs of pure delight. And there we shall ever be with the Lord, He’ll welcome us as promised in His word.",
-        "Up there in heaven the Lord waits for us, For He has redeemed us in Christ Jesus. “Come Lord Jesus!” It’s the Church's only cry, Welcome us Lord to the land of beauty! There in the Lord we shall rejoice always, In that wonderful land of endless praise.",
-        "Soon joyfully, in the blessed new land, We shall take part in the feast of the Lamb, There, there’s no pain, no sorrow, no dying, No sinful thing, nor evil, nor moaning, There in the Lord we shall rejoice always, In that wonderful land of endless praise."
+        "Let us move up, joyfully, joyfully, \nPressing onward to the land of beauty; \nTo the dwelling where Jesus for us prays, \nTo the Homeland where we’ll rejoice \nalways \nUp to the bountiful Giver of life, \nYes up to the dwelling where comes no strife.",
+        "Sweet choruses in heaven are ringing, \nSongs of love that the beloved are singing. \nWe’ll all take part in that feast full of light, \nAnd all revel in songs of pure delight. \nAnd there we shall ever be with the Lord, \nHe’ll welcome us as promised in His word.",
+        "Up there in heaven the Lord waits for us, \nFor He has redeemed us in Christ Jesus. \n“Come Lord Jesus!” It’s the Church's only cry, \nWelcome us Lord to the land of beauty! \nThere in the Lord we shall rejoice always, \nIn that wonderful land of endless praise.",
+        "Soon joyfully, in the blessed new land, \nWe shall take part in the feast of the Lamb, \nThere, there’s no pain, no sorrow, no dying, \nNo sinful thing, nor evil, nor moaning, \nThere in the Lord we shall rejoice always, \nIn that wonderful land of endless praise."
       ]
     },
     {
       "songTitle": "AS CHRISTIAN",
+      "id": 34,
       "songId": 33,
       "chorus": "",
       "key": "F major",
       "author": "",
       "enLyrics": [
-        "As Christian I’m in exile on the earth, But all is well, but all is well; I'm in danger, all day long facing death, But all is well, but all is well. Why all the tears, or terror or sorrow? Christ is in me today as tomorrow; Soon in heaven, at His feet I shall bow, Yes, all is well, yes all is well.",
-        "Here there’s weeping, distress, tribulation, But all is well, but all is well; Christ has given me a full salvation; Yes, all is well, yes all is well. Vainly this world with all its false pleasure, Try to keep me away from God’s treasure, I trust in God’s love that’s without measure, Yes, all is well, yes all is well.",
-        "I surely expect a bright tomorrow; All will be well, all will be well; By faith I can sing through days of sorrow, Yes, all is well, yes all is well. Soon the world and its lust will pass away, Pilgrim, move on, take courage everyday, The Lord’s promises shine with cheering ray Yes, all is well, yes all is well.;"
+        "As Christian I’m in exile on the earth, \nBut all is well, but all is well; \nI'm in danger, all day long facing death, \nBut all is well, but all is well. \nWhy all the tears, or terror or sorrow? \nChrist is in me today as tomorrow; \nSoon in heaven, at His feet I shall bow, \nYes, all is well, yes all is well.",
+        "Here there’s weeping, distress, tribulation, \nBut all is well, but all is well; \nChrist has given me a full salvation; \nYes, all is well, yes all is well. \nVainly this world with all its false pleasure, \nTry to keep me away from God’s treasure, \nI trust in God’s love that’s without measure, \nYes, all is well, yes all is well.",
+        "I surely expect a bright tomorrow; \nAll will be well, all will be well; \nBy faith I can sing through days of sorrow, \nYes, all is well, yes all is well. \nSoon the world and its lust will pass away, \nPilgrim, move on, take courage everyday, \nThe Lord’s promises shine with cheering ray \nYes, all is well, yes all is well.;"
       ]
     },
     {
       "songTitle": "ABIDE WITH ME",
+      "id": 35,
       "songId": 34,
       "chorus": "",
       "key": "E ♭ major",
       "author": "H.F.Lyte, W.H. Monck (1847)",
       "enLyrics": [
-        "Abide with me; fast falls the eventide; The darkness deepens; Lord with me abide. When other helpers fail and comforts flee, Help of the helpless, O abide with me.",
-        "Swift to its close ebbs out life's little day; Earth's joys grow dim; its glories pass away; Change and decay in all around I see; O Thou who changest not, abide with me.",
-        "I need Thy presence every passing hour. What but Thy grace can foil the tempter's power? Who, like Thyself, my guide and stay can be? Through cloud and sunshine,O abide with me.",
-        "Hold Thou Thy cross before my closing eyes; Shine through the gloom and point me to the skies. Heaven's morning breaks, and earth's vain shadows flee; In life, in death, O Lord, abide with me."
+        "Abide with me; fast falls the eventide; \nThe darkness deepens; Lord with me abide. \nWhen other helpers fail and comforts flee, \nHelp of the helpless, O abide with me.",
+        "Swift to its close ebbs out life's little day; \nEarth's joys grow dim; its glories pass away; \nChange and decay in all around I see; \nO Thou who changest not, abide with me.",
+        "I need Thy presence every passing hour. \nWhat but Thy grace can foil the tempter's power? \nWho, like Thyself, my guide and stay can be? \nThrough cloud and sunshine,O abide with me.",
+        "Hold Thou Thy cross before my closing eyes; \nShine through the gloom and point me to the skies. \nHeaven's morning breaks, and earth's vain \nshadows flee; \nIn life, in death, O Lord, abide with me."
       ]
     },
     {
       "songTitle": "WHEN PEACE, LIKE A RIVER",
+      "id": 36,
       "songId": 35,
-      "chorus": "It is well, with my soul, (x2) It is well, it is well, with my soul.",
+      "chorus": "It is well, with my soul, (x2) \nIt is well, it is well, with my soul.",
       "key": "D ♭ major",
       "author": "Philip-Paul Bliss, Horace Spafford.(1873)",
       "enLyrics": [
-        "When peace, like a river, Attendeth my way, When sorrows like sea billows roll; Whatever my lot, Thou has taught me to say, It is well, it is well, with my soul.",
-        "My sin, oh, the bliss Of this glorious thought! My sin, not in part but the whole, Is nailed to the cross, And I bear it no more, Praise the Lord, praise the Lord, O my soul!",
-        "For me, be it Christ, Be it Christ hence to live: If Jordan above me shall roll, No pang shall be mine, For in death as in life, Thou wilt whisper Thy peace to my soul.",
-        "But, Lord, ‘tis for Thee, For Thy coming we wait, The sky, not the grave, is our goal; Oh trump of the angel! Oh voice of the Lord! Blessed hope, blessed rest of my soul!"
+        "When peace, like a river, \nAttendeth my way, \nWhen sorrows like sea billows roll; \nWhatever my lot, \nThou has taught me to say, \nIt is well, it is well, with my soul.",
+        "My sin, oh, the bliss \nOf this glorious thought! \nMy sin, not in part but the whole, \nIs nailed to the cross, \nAnd I bear it no more, \nPraise the Lord, praise the Lord, O my soul!",
+        "For me, be it Christ, \nBe it Christ hence to live: \nIf Jordan above me shall roll, \nNo pang shall be mine, \nFor in death as in life, \nThou wilt whisper Thy peace to my soul.",
+        "But, Lord, ‘tis for Thee, \nFor Thy coming we wait, \nThe sky, not the grave, is our goal; \nOh trump of the angel! Oh voice of the Lord! \nBlessed hope, blessed rest of my soul!"
       ]
     },
     {
       "songTitle": "LIKE A RIVER GLORIOUS",
+      "id": 38,
       "songId": 36,
-      "chorus": "Stayed upon Jehovah, Hearts are fully blest, Finding, as He promised, Perfect peace and rest.",
+      "chorus": "Stayed upon Jehovah, \nHearts are fully blest, \nFinding, as He promised, \nPerfect peace and rest.",
       "key": "F major",
       "author": "J. Mountain , Frances R. Havergal, (1876)",
       "enLyrics": [
-        "Like a river glorious, Is God’s perfect peace, Over all victorious, in its bright increase; Perfect, yet it floweth, fuller every day, Perfect, yet it groweth, deeper all the way.",
-        "Hidden in the hollow of His blessed hand, Never foe can follow, never traitor stand; Not a surge of worry, not a shade of care, Not a blast of hurry touch the spirit there.",
-        "Every joy or trial falleth from above, Traced upon our dial by the Sun of Love; We may trust Him fully all for us to do. They who trust Him wholly Find Him wholly true.",
-        "True pleasures abound in, The rapturous sound; And who’ve hath found it, Hath paradise found. My Lord Jesus to know And feel His blood flow Tis life everlasting, 'tis heaven below."
+        "Like a river glorious, \nIs God’s perfect peace, \nOver all victorious, in its bright increase; \nPerfect, yet it floweth, fuller every day, \nPerfect, yet it groweth, deeper all the way.",
+        "Hidden in the hollow of His blessed hand, \nNever foe can follow, never traitor stand; \nNot a surge of worry, not a shade of care, \nNot a blast of hurry touch the spirit there.",
+        "Every joy or trial falleth from above, \nTraced upon our dial by the Sun of Love; \nWe may trust Him fully all for us to do. \nThey who trust Him wholly \nFind Him wholly true.",
+        "True pleasures abound in, \nThe rapturous sound; \nAnd who’ve hath found it, \nHath paradise found. \nMy Lord Jesus to know \nAnd feel His blood flow \nTis life everlasting, 'tis heaven below. \nYet onward I haste to The heavenly feast: That, that is the fullness; But this is the taste! "
       ]
     },
     {
       "songTitle": "FEAR NOT, I AM WITH THEE",
+      "id": 39,
       "songId": 37,
-      "chorus": "No, never alone; no, never alone, He promised never to leave me, Never to leave me alone. No, never alone; no, never alone, He promised never to leave me, Yes! I am never alone.",
+      "chorus": "No, never alone; no, never alone, \nHe promised never to leave me, \nNever to leave me alone. \nNo, never alone; no, never alone, \nHe promised never to leave me, \nYes! I am never alone.",
       "key": "C major",
       "author": "J. C. H. & V. A. White, (1896), E. Hewitt(1898)",
       "enLyrics": [
-        "“Fear not, I am with thee;” Blessed golden ray, Like a star of glory, lighting up my way. Through the clouds of midnight, this bright promise shone, I will never leave thee, Never will leave thee alone.",
-        "Roses fade around me, lilies bloom and die, Earthly sunbeams vanish, radiant still the sky. Jesus, Rose of Sharon, blooming for His own, Jesus, heaven’s sunshine, Never will leave me alone.",
-        "Steps unseen before me, hidden dangers near; Nearer still my Saviour, Whispering, “Be of cheer!” Joys, like birds of spring-time, to my heart have flown, Singing all so sweetly, He will not leave me alone."
+        "“Fear not, I am with thee;” \nBlessed golden ray, \nLike a star of glory, lighting up my way. \nThrough the clouds of midnight, \nthis bright promise shone, \nI will never leave thee, \nNever will leave thee alone.",
+        "Roses fade around me, lilies bloom and die, \nEarthly sunbeams vanish, radiant still the sky. \nJesus, Rose of Sharon, blooming for His own, \nJesus, heaven’s sunshine, \nNever will leave me alone.",
+        "Steps unseen before me, \nhidden dangers near; \nNearer still my Saviour, \nWhispering, “Be of cheer!” \nJoys, like birds of spring-time, \nto my heart have flown, \nSinging all so sweetly, \nHe will not leave me alone."
       ]
     },
     {
       "songTitle": "WHAT A FRIEND",
+      "id": 40,
       "songId": 38,
       "chorus": "",
       "key": "F major",
       "author": "J. M. Scriven(1855) C. C.Converse(1868)",
       "enLyrics": [
-        "What a friend we have in Jesus, All our sins and griefs to bear! What a privilege to carry Everything to God in prayer! Oh, what peace we often forfeit, Oh, what needless pain we bear - All because we do not carry Everything to God in prayer!",
-        "Have we trials and temptations? Is there trouble anywhere? We should never be discouraged; Take it to the Lord in prayer! Can we find a friend so faithful, Who will all our sorrows share? Jesus knows our every weakness - Take it to the Lord in prayer!",
-        "Are we weak and heavy laden, Cumbered with a load of care? Precious Savior still our refuge - Take it to the Lord in prayer; Do thy friends despise, forsake thee? Take it to the Lord in prayer; In His arms He'll take and shield thee, Thou wilt find a solace there.",
-        "Since we’ve been justified through faith, We have peace with God through Christ, Who at the right time died for us, To set us free from all sin. If we earnestly seek the Lord, And if our soul thirsts for Him, He will answer all our prayers, And give us the victory.",
-        "Blessed Savior, Thou hast promised Thou wilt all our burdens bear, May we ever, Lord, be bringing All to Thee in earnest prayer. Soon in glory bright unclouded, There will be no need for prayer; Rapture, praise and endless worship Will be our sweet portion there."
+        "What a friend we have in Jesus, \nAll our sins and griefs to bear! \nWhat a privilege to carry \nEverything to God in prayer! \nOh, what peace we often forfeit, \nOh, what needless pain we bear - \nAll because we do not carry \nEverything to God in prayer!",
+        "Have we trials and temptations? \nIs there trouble anywhere? \nWe should never be discouraged; \nTake it to the Lord in prayer! \nCan we find a friend so faithful, \nWho will all our sorrows share? \nJesus knows our every weakness - \nTake it to the Lord in prayer!",
+        "Are we weak and heavy laden, \nCumbered with a load of care? \nPrecious Savior still our refuge - \nTake it to the Lord in prayer; \nDo thy friends despise, forsake thee? \nTake it to the Lord in prayer; \nIn His arms He'll take and shield thee, \nThou wilt find a solace there.",
+        "Since we’ve been justified through faith, \nWe have peace with God through Christ, \nWho at the right time died for us, \nTo set us free from all sin. \nIf we earnestly seek the Lord, \nAnd if our soul thirsts for Him, \nHe will answer all our prayers, \nAnd give us the victory.",
+        "Blessed Savior, Thou hast promised \nThou wilt all our burdens bear, \nMay we ever, Lord, be bringing \nAll to Thee in earnest prayer. \nSoon in glory bright unclouded, \nThere will be no need for prayer; \nRapture, praise and endless worship \nWill be our sweet portion there."
       ]
     },
     {
       "songTitle": "I KNOW NOT WHY",
+      "id": "41a",
       "songId": 39,
-      "chorus": "But I know whom I have believed, And am persuaded that He is able To keep that which I’ve committed Unto Him against that day.",
+      "chorus": "But I know whom I have believed, \nAnd am persuaded that He is able \nTo keep that which I’ve committed \nUnto Him against that day.",
       "key": "E ♭ major",
       "author": "D. W. Whittle (1883), J. McGranahan (1840-1907)",
       "enLyrics": [
-        "I know not why God’s wondrous grace To me He hath made known, Nor why, unworthy, Christ in love, Redeemed me for His own.",
-        "I know not how this saving faith To me He did impart, Nor how believing in His word Wrought peace within my heart.",
-        "I know not what of good or ill May be reserved for me, Of weary ways or golden days, Before His face I see.",
-        "I know not when my Lord may come, At night or noonday fair, Nor if I walk the vale with Him, Or meet Him in the air."
+        "I know not why God’s wondrous grace \nTo me He hath made known, \nNor why, unworthy, Christ in love, \nRedeemed me for His own.",
+        "I know not how this saving faith To me He did impart, \nNor how believing in His word \nWrought peace within my heart.",
+        "I know not what of good or ill \nMay be reserved for me, \nOf weary ways or golden days, \nBefore His face I see.",
+        "I know not when my Lord may come, \nAt night or noonday fair, \nNor if I walk the vale with Him, \nOr meet Him in the air."
       ]
     },
     {
       "songTitle": "I KNOW NOT THE HOUR",
+      "id":42,
       "songId": 40,
       "chorus": "",
       "key": "B ♭ major",
       "author": "Philip P. Bliss (1874)",
       "enLyrics": [
-        "I know not the hour When my Lord will come To take me away to His own dear home; But I know that His presence will lighten the gloom, And that will be glory for me. (bis) Oh, that will be glory for me! But I know that His presence will lighten the gloom, And that will be glory for me.",
-        "I know not the song that the angels sing, I know not the sound of the harps’ glad ring; But I know there’ll Be mention of Jesus our King, And that will be music for me. (bis) Oh, that will be music for me! But I know there’ll Be mention of Jesus our King, And that will be music for me.",
-        "I know not the form of my mansion fair, I know not the name that I then shall bear; But I know that my Savior Will welcome me there, And that will be heaven for me. (bis) Oh, that will be heaven for me. But I know that my Savior Will welcome me there, And that will be heaven for me."
+        "I know not the hour \nWhen my Lord will come \nTo take me away to His own dear home; \nBut I know that His presence will lighten the gloom, \nAnd that will be glory for me. (bis) \nOh, that will be glory for me! \nBut I know that \nHis presence will lighten the gloom, \nAnd that will be glory for me.",
+        "I know not the song that the angels sing, \nI know not the sound of the harps’ glad ring; \nBut I know there’ll \nBe mention of Jesus our King, \nAnd that will be music for me. (bis) \nOh, that will be music for me! \nBut I know there’ll \nBe mention of Jesus our King, \nAnd that will be music for me.",
+        "I know not the form of my mansion fair, \nI know not the name that I then shall bear; \nBut I know that my Savior \nWill welcome me there, \nAnd that will be heaven for me. (bis) \nOh, that will be heaven for me. \nBut I know that my Savior \nWill welcome me there, \nAnd that will be heaven for me."
       ]
     },
     {
       "songTitle": "NEARER, MY GOD, TO THEE",
+      "id":43,
       "songId": 41,
       "chorus": "Nearer, my God, to thee. Nearer, my God, to thee! Nearer to Thee!",
       "key": "F major",
