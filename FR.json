@@ -1482,522 +1482,560 @@
       "key": "Si b majeur",
       "author": "É. Monod (1885), E. O. Excell (1885)",
       "enLyrics": [
-        "Jésus frappe à votre porte : Ouvrez-lui! C’est le ciel qu’il vous apporte! Ouvrez-lui! Chez vous il veut prendre place; Ouvrez avant qu’il se lasse! Le temps presse, le temps passe : Ouvrez-lui!",
-        "Ouvrez! C’est lui qui pardonne; Ouvrez-lui! Acceptez ce qu’il vous donne; Ouvrez-lui! Ses promesses sont certaines; Sa main va briser vos chaînes; Bientôt finiront vos peines. Ouvrez-lui!",
-        "Seul il ôte les souillures : Ouvrez-lui! Seul il bande les blessures : Ouvrez-lui! Si Satan vient vous surprendre, Seul il pourra vous défendre Et sous son aile vous prendre : Ouvrez-lui!",
-        "Écoutez l’appel si tendre! Ouvrez-lui! C’est assez le faire attendre : Ouvrez-lui! Le Roi des rois vous implore : Comment résister encore? Oh! Que votre âme l’adore! Ouvrez-lui!"
+        "Jésus frappe à votre porte : \nOuvrez-lui! \nC’est le ciel qu’il vous apporte! \nOuvrez-lui! \nChez vous il veut prendre place; \nOuvrez avant qu’il se lasse! \nLe temps presse, le temps passe : \nOuvrez-lui!",
+        "Ouvrez! C’est lui qui pardonne; \nOuvrez-lui! \nAcceptez ce qu’il vous donne; \nOuvrez-lui! \nSes promesses sont certaines; \nSa main va briser vos chaînes; \nBientôt finiront vos peines. \nOuvrez-lui!",
+        "Seul il ôte les souillures : \nOuvrez-lui! \nSeul il bande les blessures : \nOuvrez-lui! \nSi Satan vient vous surprendre, \nSeul il pourra vous défendre \nEt sous son aile vous prendre : \nOuvrez-lui!",
+        "Écoutez l’appel si tendre! Ouvrez-lui! \nC’est assez le faire attendre : \nOuvrez-lui! \nLe Roi des rois vous implore : \nComment résister encore? \nOh! Que votre âme l’adore! \nOuvrez-lui!"
       ]
     },
     {
       "songTitle": "PAIX ! DOUCE PAIX",
+      "id": 102,
       "songId": 108,
       "chorus": "",
       "key": "Si b majeur",
       "author": "A. Humbert, Thomas Caldbeck (1877)",
       "enLyrics": [
-        "Paix ! douce paix ! Et mes nombreux péchés ? Ton sang, Jésus, les a tous effacés.",
-        "Paix ! douce paix ! Pressé par mes travaux ? Ta volonté, Jésus, c’est mon repos.",
-        "Paix ! douce paix ! Dans ma grande douleur ? Toi seul, Jésus, Tu consoles mon cœur.",
-        "Paix ! douce paix ! à l’heure de la mort ? Jésus Christ vainqueur nous conduit au port.",
-        "Paix ! douce paix ! gloire et félicité, Avec Jésus pendant l’éternité !"
+        "Paix ! douce paix ! \nEt mes nombreux péchés ? \nTon sang, Jésus, les a tous effacés.",
+        "Paix ! douce paix ! \nPressé par mes travaux ? \nTa volonté, Jésus, c’est mon repos.",
+        "Paix ! douce paix ! \nDans ma grande douleur ? \nToi seul, Jésus, \nTu consoles mon cœur.",
+        "Paix ! douce paix ! \nà l’heure de la mort ? \nJésus Christ vainqueur \nnous conduit au port.",
+        "Paix ! douce paix ! \ngloire et félicité, \nAvec Jésus pendant l’éternité !"
       ]
     },
     {
       "songTitle": "BENI SOIT LE LIEN",
+      "id": 103,
       "songId": 109,
       "chorus": "",
       "key": "Fa majeur",
       "author": "E-Louis Budry (1854–1932), Nägeli H. Georg (1773-1836)",
       "enLyrics": [
-        "Béni soit le lien Qui nous unit en Christ, Le saint amour, l'amour divin Que verse en nous l'Esprit.",
-        "Au ciel, vers notre Dieu, Avec joie et ferveur, S'élèvent nos chants et nos vœux, Parfum doux au Seigneur.",
-        "Nous mettons en commun Nos fardeaux, nos labeurs; En Jésus nous ne sommes qu'un Dans la joie et les pleurs.",
-        "Si nous devons bientôt Quitter ces lieux bénis, Nous nous retrouverons là-haut, Pour toujours réunis."
+        "Béni soit le lien \nQui nous unit en Christ, \nLe saint amour, l'amour divin \nQue verse en nous l'Esprit.",
+        "Au ciel, vers notre Dieu, \nAvec joie et ferveur, \nS'élèvent nos chants et nos vœux, \nParfum doux au Seigneur.",
+        "Nous mettons en commun \nNos fardeaux, nos labeurs; \nEn Jésus nous ne sommes qu'un \nDans la joie et les pleurs.",
+        "Si nous devons bientôt \nQuitter ces lieux bénis, \nNous nous retrouverons là-haut, \nPour toujours réunis."
       ]
     },
     {
       "songTitle": "Ô NOM DIVIN",
+      "id": 104,
       "songId": 110,
-      "chorus": "Nous Te couronnons (x2) Roi des rois, Jésus, c’est Toi, Jésus, C’est Toi que nous couronnons Roi.",
+      "chorus": "Nous Te couronnons (x2) \nRoi des rois, Jésus, c’est Toi, Jésus, \nC’est Toi que nous couronnons Roi.",
       "key": "Fa majeur",
       "author": "W. H. Jude (1851-1922) Cha. Rochedieu (1857-1928)",
       "enLyrics": [
-        "Ô nom divin, nom rédempteur, Jésus, puissant Sauveur! (x2) Nous prosternant tous devant Toi:",
-        "Avec les anges dans les cieux, Les martyrs glorieux (x2) Qui jadis ont souffert pour Toi:",
-        "Rachetés au prix de Ton sang, Ô Sauveur tout puissant, (x2) Sauvés par grâce, par la foi:",
-        "Que toute langue, toute tribu, Se prosternent devant Toi, (x2) Et chantent Ton nom glorieux:",
-        "Bientôt nous Te verrons au ciel, Sur Ton trône éternel, (x2) Mais ne vivant déjà qu’en Toi."
+        "Ô nom divin, nom rédempteur, \nJésus, puissant Sauveur! (x2) \nNous prosternant tous devant Toi:",
+        "Avec les anges dans les cieux, \nLes martyrs glorieux (x2) \nQui jadis ont souffert pour Toi:",
+        "Rachetés au prix de Ton sang, \nÔ Sauveur tout puissant, (x2) \nSauvés par grâce, par la foi:",
+        "Que toute langue, toute tribu, \nSe prosternent devant Toi, (x2) \nEt chantent Ton nom glorieux:",
+        "Bientôt nous Te verrons au ciel, \nSur Ton trône éternel, (x2) \nMais ne vivant déjà qu’en Toi."
       ]
     },
     {
       "songTitle": "TON NOM SEIGNEUR JESUS",
+      "id": 105,
       "songId": 111,
       "chorus": "",
       "key": "Fa majeur",
       "author": "1986 Auteur Inconnu — TRADUCTIONS J. E.M",
       "enLyrics": [
-        "Ton nom Seigneur Jésus est: Admirable, Ton nom surpasse tout autre nom. Tu es le Roi des rois, Le Seigneur des seigneurs, Ton nom surpasse tout autre nom.",
-        "Tu es le Tout-Puissant, le Prince de la paix, L’Étoile du matin, le bon Berger. Tu es le grand JE SUIS, Et la Source d’eau vive, Ton nom surpasse tout autre nom.",
-        "Tu es le Conseiller, l’Alpha et l’Oméga, Le Premier, le Dernier, le Véritable; Tu es Ressuscité, le Lion de Juda, Ton nom surpasse tout autre nom."
+        "Ton nom Seigneur \nJésus est: Admirable, \nTon nom surpasse tout autre nom. \nTu es le Roi des rois, \nLe Seigneur des seigneurs, \nTon nom surpasse tout autre nom.",
+        "Tu es le Tout-Puissant, \nle Prince de la paix, \nL’Étoile du matin, le bon Berger. \nTu es le grand JE SUIS, \nEt la Source d’eau vive, \nTon nom surpasse tout autre nom.",
+        "Tu es le Conseiller, \nl’Alpha et l’Oméga, \nLe Premier, le Dernier, le Véritable; \nTu es Ressuscité, le Lion de Juda, \nTon nom surpasse tout autre nom."
       ]
     },
     {
       "songTitle": "MON ROI",
+      "id": 106,
       "songId": 112,
-      "chorus": "Le connais-tu? Il est mon Roi! Il est le Souverain. Il est d’une infinie bonté, Il est compatissant.",
+      "chorus": "Le connais-tu? Il est mon Roi! \nIl est le Souverain. \nIl est d’une infinie bonté, \nIl est compatissant.",
       "key": "Mi majeur",
       "author": "Auteur anonyme",
       "enLyrics": [
-        "Jésus est le Roi de ma vie, Il est le Roi des rois; Il est le Seigneur des seigneurs, Il est le Roi du ciel; Il est le Roi de la droiture, Roi de l’éternité; Oui, Il est le Roi de gloire!",
-        "Fils de Dieu et Sauveur Fidèle, Il est le seul vrai Dieu; Il est la Clef de connaissance Et de l’intelligence. Il est la Source de sagesse, De bonheur et de paix; Ma joie est complète en Lui.",
-        "Il est doux et humble de cœur; Son fardeau est léger, Son amour n’a pas de limite, Et Sa grâce est immense. Il est le Père’ des orphelins, Le Défenseur des veuves. Il est le Libérateur.",
-        "Il est l’Éternel des armées, Le Dieu de délivrance, Il est Majestueux et Unique. Il est mon Bouclier, Mon Protecteur, ma Forteresse, Il est le Tout-Puissant; Mon Roi m’assure’ la victoire.",
-        "Omniprésent, et Omniscient, Il est mon Confident. Mon Réconfort dans la détresse; Mon Roi ne change pas. Toutes choses Lui sont soumises, Il est le Dieu parfait; À Lui gloire’, honneur, puissance!",
-        "Connais et cherche à Le connaître, Celui qui est mon Roi. Sa venue est aussi certaine Que celle de l’aurore. Il reviendra pour me chercher, Et pour l’éternité Je régnerai avec Lui. Je le connais, Il est mon Roi, C’est Lui qui vit en moi; Son précieux sang coula pour moi, Il fait tout mon bonheur."
+        "Jésus est le Roi de ma vie, \nIl est le Roi des rois; \nIl est le Seigneur des seigneurs, \nIl est le Roi du ciel; \nIl est le Roi de la droiture, \nRoi de l’éternité; \nOui, Il est le Roi de gloire!",
+        "Fils de Dieu et Sauveur Fidèle, \nIl est le seul vrai Dieu; \nIl est la Clef de connaissance \nEt de l’intelligence. \nIl est la Source de sagesse, \nDe bonheur et de paix; \nMa joie est complète en Lui.",
+        "Il est doux et humble de cœur; \nSon fardeau est léger, \nSon amour n’a pas de limite, \nEt Sa grâce est immense. \nIl est le Père’ des orphelins, \nLe Défenseur des veuves. \nIl est le Libérateur.",
+        "Il est l’Éternel des armées, \nLe Dieu de délivrance, \nIl est Majestueux et Unique. \nIl est mon Bouclier, \nMon Protecteur, ma Forteresse, \nIl est le Tout-Puissant; \nMon Roi m’assure’ la victoire.",
+        "Omniprésent, et Omniscient, \nIl est mon Confident. \nMon Réconfort dans la détresse; \nMon Roi ne change pas. \nToutes choses Lui sont soumises, \nIl est le Dieu parfait; \nÀ Lui gloire’, honneur, puissance!",
+        "Connais et cherche à Le connaître, \nCelui qui est mon Roi. \nSa venue est aussi certaine \nQue celle de l’aurore. \nIl reviendra pour me chercher, \nEt pour l’éternité \nJe régnerai avec Lui. Je le connais, Il est mon Roi, \nC’est Lui qui vit en moi; \nSon précieux sang coula pour moi, \nIl fait tout mon bonheur."
       ]
     },
     {
       "songTitle": "MARCHONS AVEC JOIE (La lutte suprême)",
+      "id": 107,
       "songId": 113,
       "chorus": "",
       "key": "Mi b majeur",
       "author": "Melody St Gertrude by Art. Sullivan (1842-19OO)",
       "enLyrics": [
-        "Marchons avec joie dans le bon chemin, Dans l'étroite voie du bonheur sans fin. Laissons en arrière les biens d'ici-bas; Prions notre Père de guider nos pas. Comptant sur Sa grâce, remplis de Sa paix, Que rien n'embarrasse nos pas désormais.",
-        "Si rude est la route, glissant le sentier, Le Seigneur écoute qui sait Le prier. Il est la Lumière, le Libérateur Du cœur qui n'espère Qu'en son Dieu-Sauveur. Sa toute-puissance défend le croyant; Son amour immense sauve Son enfant.",
-        "Et quand sonne l'heure de quitter ces lieux, Il a pour demeure le palais des cieux! Vêtements de gloire, d'immortalité, Palmes de victoire pour l'éternité! Voilà ce que donne le Seigneur Jésus! Voilà la couronne de tous les Élus."
+        "Marchons avec joie dans le bon chemin, \nDans l'étroite voie du bonheur sans fin. \nLaissons en arrière les biens d'ici-bas; \nPrions notre Père de guider nos pas. \nComptant sur Sa grâce, remplis de Sa paix, \nQue rien n'embarrasse nos pas désormais.",
+        "Si rude est la route, glissant le sentier, \nLe Seigneur écoute qui sait Le prier. \nIl est la Lumière, le Libérateur \nDu cœur qui n'espère \nQu'en son Dieu-Sauveur. \nSa toute-puissance défend le croyant; \nSon amour immense sauve Son enfant.",
+        "Et quand sonne l'heure \nde quitter ces lieux, \nIl a pour demeure le palais des cieux! \nVêtements de gloire, d'immortalité, \nPalmes de victoire pour l'éternité! \nVoilà ce que donne le Seigneur Jésus! \nVoilà la couronne de tous les Élus."
       ]
     },
     {
       "songTitle": "JE SAIS QU’UN JOUR",
+      "id": 108,
       "songId": 114,
       "chorus": "",
       "key": "Sol",
       "author": "Auteur anonyme Tra: Hugh Mitchell",
       "enLyrics": [
-        "Je sais qu’un jour mes yeux verront Jésus. Je sais qu’un jour mes yeux verront Jésus. Si je marche jusqu’au bout Par la foi et malgré tout. Je sais qu’un jour, mes yeux verront Jésus.",
-        "",
-        ""
+        "Je sais qu’un jour mes yeux verront Jésus. \nJe sais qu’un jour mes yeux verront Jésus. \nSi je marche jusqu’au bout \nPar la foi et malgré tout. \nJe sais qu’un jour, mes yeux verront Jésus."
       ]
     },
     {
       "songTitle": "MAJESTÉ",
+      "id": 109,
       "songId": 115,
       "chorus": "",
       "key": "Si b majeur",
       "author": "Jack Williams Hayford 1978, Tra J.E.M (1981)",
       "enLyrics": [
-        "Majesté, à Lui la majesté, À Jésus soient louange, honneur et gloire. Majesté, suprême autorité, Du haut des cieux, Son règne vient Sur tous les Siens.",
-        "Exaltons et célébrons le nom de Jésus. Magnifions et proclamons Jésus-Christ le Roi.",
-        "Exaltons et célébrons le nom de Jésus. Magnifions et proclamons Jésus-Christ le Roi."
+        "Majesté, à Lui la majesté, \nÀ Jésus soient louange, \nhonneur et gloire. \nMajesté, suprême autorité, \nDu haut des cieux, Son règne vient \nSur tous les Siens.",
+        "Exaltons et célébrons le nom de Jésus. \nMagnifions et proclamons \nJésus-Christ le Roi.",
+        "Majesté, à Lui la majesté, \nDans notre cœur, Christ le Sauveur, \nRègne en Seigneur."
       ]
     },
     {
       "songTitle": "IL EST MON REFUGE",
+      "id": 110,
       "songId": 116,
-      "chorus": "Il est mon refuge et mon secours, Jésus-Christ est ma sécurité, Ma forteresse et mon grand recours, Je suis en sûreté!",
+      "chorus": "Il est mon refuge et mon secours, \nJésus-Christ est ma sécurité, \nMa forteresse et mon grand recours, \nJe suis en sûreté!",
       "key": "Si♭ majeur",
       "author": "Susan H. Peterson (1998), Tra. Inconnu",
       "enLyrics": [
-        "Quand sur le chemin glissant Je suis face à l’ennemi, Jésus-Christ me protège, C’est Lui qui combat pour moi. Il me revêt des armes Et je suis loin des ennuis. Il me dit: Fortifie-toi!",
-        "Et si dans le mal je tombe, Jésus est près de moi. Il prend tout sur Lui, Et la condamnation n’a plus lieu; Je reçois Son grand pardon Et Son amour par la foi, Il me dit: Je suis ton Dieu!",
-        "Il faut s’éloigner totalement Des choses du monde. Pour demeurer vainqueur, Il faut savoir se dépouiller, Et savoir combattre toute Tempête qui gronde. Pour cela: Il faut prier!",
-        "Et quand en Son temps Jésus mettra fin à mon voyage, Je Lui dirai Seigneur Emmène-moi dans Ta maison. Oh! Quel ineffable bonheur De quitter ce rivage, Quand Jésus dit: Viens, partons!",
-        "Et là-haut je me joindrai Au divin chœur des anges, Les célestes phalanges, Je pourrai entendre enfin; Et je chanterai le nouveau cantique de louanges, Et prendrai part au festin. Alléluia! Que ce sera beau De voir Jésus dans Sa majesté, De contempler la face' du Très-Haut, Ceci pour l'éternité!"
+        "Quand sur le chemin glissant \nJe suis face à l’ennemi, \nJésus-Christ me protège, \nC’est Lui qui combat pour moi. \nIl me revêt des armes \nEt je suis loin des ennuis. \nIl me dit: Fortifie-toi!",
+        "Et si dans le mal je tombe, \nJésus est près de moi. \nIl prend tout sur Lui, \nEt la condamnation n’a plus lieu; \nJe reçois Son grand pardon \nEt Son amour par la foi, \nIl me dit: Je suis ton Dieu!",
+        "Il faut s’éloigner totalement \nDes choses du monde. \nPour demeurer vainqueur, \nIl faut savoir se dépouiller, \nEt savoir combattre toute \nTempête qui gronde. \nPour cela: Il faut prier!",
+        "Et quand en Son temps \nJésus mettra fin à mon voyage, \nJe Lui dirai Seigneur \nEmmène-moi dans Ta maison. \nOh! Quel ineffable bonheur \nDe quitter ce rivage, \nQuand Jésus dit: Viens, partons!",
+        "Et là-haut je me joindrai \nAu divin chœur des anges, \nLes célestes phalanges, \nJe pourrai entendre enfin; \nEt je chanterai le nouveau \ncantique de louanges, \nEt prendrai part au festin. \nAlléluia! Que ce sera beau \nDe voir Jésus dans Sa majesté, \nDe contempler la face' du Très-Haut, \nCeci pour l'éternité!"
       ]
     },
     {
       "songTitle": "AU CIEL DEVANT LE TRÔNE",
+      "id": 111,
       "songId": 117,
       "chorus": "",
       "key": "Do majeur",
       "author": "Charitie Lees Smith (1841–1923)",
       "enLyrics": [
-        "Au ciel devant le trône’ de Dieu J’ai un grand Sacrificateur, C’est Jésus-Christ qui, dans ce lieu, Intercède pour moi, pécheur. Mon nom est gravé dans Sa main, Mon nom est écrit dans Son cœur; M’éloigner de Lui serait vain: Il sera toujours mon Sauveur.",
-        "Quand satan tente’ de m’accabler, En me montrant mon noir passé, De Jésus je sais contempler L’amour qui a tout effacé. Jésus qui n’a jamais péché, A pris sur Lui mon châtiment. Car le Dieu juste m’a cherché, Et veille sur moi tendrement.",
-        "Là-haut dans le ciel, est Jésus, Mort pour nous et ressuscité. Au Père immuable JE SUIS Soient honneur, gloire et majesté! Demeurant attaché à Lui, Je sais que je ne mourrais pas, Car ma vie est cachée en Lui, Et le mal ne m’atteindra pas."
+        "Au ciel devant le trône’ de Dieu \nJ’ai un grand Sacrificateur, \nC’est Jésus-Christ qui, dans ce lieu, \nIntercède pour moi, pécheur. \nMon nom est gravé dans Sa main, \nMon nom est écrit dans Son cœur; \nM’éloigner de Lui serait vain: \nIl sera toujours mon Sauveur.",
+        "Quand satan tente’ de m’accabler, \nEn me montrant mon noir passé, \nDe Jésus je sais contempler \nL’amour qui a tout effacé. \nJésus qui n’a jamais péché, \nA pris sur Lui mon châtiment. \nCar le Dieu juste m’a cherché, \nEt veille sur moi tendrement.",
+        "Là-haut dans le ciel, est Jésus, \nMort pour nous et ressuscité. \nAu Père immuable JE SUIS \nSoient honneur, gloire et majesté! \nDemeurant attaché à Lui, \nJe sais que je ne mourrais pas, \nCar ma vie est cachée en Lui, \nEt le mal ne m’atteindra pas."
       ]
     },
     {
       "songTitle": "VIENS AU PÈRE QUI T'APPELLE",
+      "id": 112,
       "songId": 118,
-      "chorus": "Aujourd’hui, viens à Lui! Ah! Pourquoi tarderais-tu? Aujourd’hui, viens à Lui, Viens, reçois Son grand salut!",
+      "chorus": "Aujourd’hui, viens à Lui! \nAh! Pourquoi tarderais-tu? \nAujourd’hui, viens à Lui, \nViens, reçois Son grand salut!",
       "key": "Do majeur",
       "author": "D. W. Whittle, (1840-1901), C. C. Case, (1843-1918)",
       "enLyrics": [
-        "Viens au Père qui t’appelle, Oh! Reviens à la maison! Voici l’heure est solennelle, Où Dieu t’offre Son pardon.",
-        "Trop longtemps, dans la misère, Tu vécus sans vrai bonheur! Se peut-il que tu préfères, Fuir encore loin du Sauveur?",
-        "Ah! Ton âme est angoissée, En vain tu cherchas la paix; Par Sa croix qui fut dressée, Christ la donne et pour jamais.",
-        "À Jésus, dis ta souffrance, Parle-Lui de ton péché, Mets en Lui ton espérance, Car en Lui, Dieu t'a cherché."
+        "Viens au Père qui t’appelle, \nOh! Reviens à la maison! \nVoici l’heure est solennelle, \nOù Dieu t’offre Son pardon.",
+        "Trop longtemps, dans la misère, \nTu vécus sans vrai bonheur! \nSe peut-il que tu préfères, \nFuir encore loin du Sauveur?",
+        "Ah! Ton âme est angoissée, \nEn vain tu cherchas la paix; \nPar Sa croix qui fut dressée, \nChrist la donne et pour jamais.",
+        "À Jésus, dis ta souffrance, \nParle-Lui de ton péché, \nMets en Lui ton espérance, \nCar en Lui, Dieu t'a cherché."
       ]
     },
     {
       "songTitle": "MON ÂME EXALTE LE SEIGNEUR",
+      "id": 113,
       "songId": 119,
       "chorus": "",
       "key": "Mi ♭ majeur",
       "author": "Linda Panci Mac Gowen (1974)",
       "enLyrics": [
-        "Mon âme exalte le Seigneur, Et mon esprit se réjouit en Dieu, Mon Sauveur, Parce qu'Il a jeté les yeux Sur la bassesse de sa servante.",
-        "Car voici, désormais toutes les générations Me diront bienheureuse, Parce que le Tout-Puissant a fait pour moi De grandes choses.",
-        "Mon âme exalte le Seigneur. Son nom est saint, et sa miséricorde S'étend d'âge en âge Sur ceux qui le craignent."
+        "Mon âme exalte le Seigneur, \nEt mon esprit se réjouit en Dieu, \nMon Sauveur, \nParce qu'Il a jeté les yeux \nSur la bassesse de sa servante.",
+        "Car voici, désormais toutes les générations \nMe diront bienheureuse, \nParce que le Tout-Puissant a fait pour moi \nDe grandes choses.",
+        "Mon âme exalte le Seigneur. \nSon nom est saint, et sa miséricorde \nS'étend d'âge en âge \nSur ceux qui le craignent."
       ]
     },
     {
       "songTitle": "LE LIS DE LA VALLÉE",
+      "id": 114,
       "songId": 120,
-      "chorus": "Il est le Lis de la vallée, L’Etoile’ qui brille à l’aube Il est le plus beau Que mon âme désire.",
+      "chorus": "Il est le Lis de la vallée, \nL’Etoile’ qui brille à l’aube \nIl est le plus beau \nQue mon âme désire.",
       "key": "Fa majeur",
       "author": "Charles W. Fry (1881), Tra : Inconnu",
       "enLyrics": [
-        "J’ai trouvé en Christ un ami, Jésus est tout pour moi, Il est le plus beau que mon âme désire. Il est le Lis de la vallée, Et en Lui seul je trouve Tout ce dont j’ai besoin pour être complet. Dans la détresse’, me secourt; Dans la peine’, m’encourage, Et me dit: Décharge Sur Moi tout fardeau.",
-        "Il a pris toutes mes angoisses, Et porté mes douleurs; Dans la tentation Il est ma forteresse; J’ai tout abandonné pour Lui, Et détruit mes idoles De mon cœur, et Il me Garde par Sa force. Bien que le monde’ m'abandonne, Et que satan me tente, Par Jésus j'atteindrai sûrement le but.",
-        "Il ne m’abandonnera pas, Ne me laissera pas, Si je vis par la foi et fais ce qu’Il veut. Un mur de feu autour de moi, Je n’ai plus rien à craindre. De Sa manne Il comblera mon âme avide. Je monterai dans la gloire Pour voir Sa face’ bénie, Où les fleuves de joie Couleront toujours."
+        "J’ai trouvé en Christ un ami, \nJésus est tout pour moi, \nIl est le plus beau que mon âme désire. \nIl est le Lis de la vallée, \nEt en Lui seul je trouve \nTout ce dont j’ai besoin pour être complet. \nDans la détresse’, me secourt; \nDans la peine’, m’encourage, \nEt me dit: Décharge \nSur Moi tout fardeau.",
+        "Il a pris toutes mes angoisses, \nEt porté mes douleurs; \nDans la tentation \nIl est ma forteresse; \nJ’ai tout abandonné pour Lui, \nEt détruit mes idoles \nDe mon cœur, et Il me \nGarde par Sa force. \nBien que le monde’ m'abandonne, \nEt que satan me tente, \nPar Jésus j'atteindrai sûrement le but.",
+        "Il ne m’abandonnera pas, \nNe me laissera pas, \nSi je vis par la foi et fais ce qu’Il veut. \nUn mur de feu autour de moi, \nJe n’ai plus rien à craindre. \nDe Sa manne Il comblera mon âme avide. \nJe monterai dans la gloire \nPour voir Sa face’ bénie, \nOù les fleuves de joie \nCouleront toujours."
       ]
     },
     {
       "songTitle": "MON SEUL ABRI",
+      "id": 115,
       "songId": 121,
       "chorus": "",
       "key": "La mineur",
       "author": "Ledner Michael James (198O)",
       "enLyrics": [
-        "Mon seul abri, c’est toi, Toujours mon cœur te chantera, Car tu me délivres; Et chaque fois que j’ai peur, Je m’appuie sur toi, (x2) Et dans ma faiblesse, Le Seigneur me rend fort.",
+        "Mon seul abri, c’est toi, \nToujours mon cœur te chantera, \nCar tu me délivres; \nEt chaque fois que j’ai peur, \nJe m’appuie sur toi, (x2) \nEt dans ma faiblesse, \nLe Seigneur me rend fort.",
         "",
         ""
       ]
     },
     {
       "songTitle": "MERCI AU SEIGNEUR",
+      "id": 116,
       "songId": 122,
       "chorus": "",
       "key": "Fa majeur",
       "author": "Don Moen (199O)",
       "enLyrics": [
-        "Rends grâce d’un cœur reconnaissant, Rends grâce au Seigneur trois fois saint, Rends grâce, car Il a donné Jésus-Christ, Son Fils. (x2)",
-        "Maintenant, que le faible dise: Je suis fort, Que le pauvre dise: Je suis riche, Car Dieu a fait De grandes choses pour nous, (x2) Rends grâce (x 2).",
+        "Rends grâce d’un cœur reconnaissant, \nRends grâce au Seigneur trois fois saint, \nRends grâce, car Il a donné \nJésus-Christ, Son Fils. (x2)",
+        "Maintenant, que le faible dise: Je suis fort, \nQue le pauvre dise: Je suis riche, \nCar Dieu a fait \nDe grandes choses pour nous, (x2) \nRends grâce (x 2).",
         ""
       ]
     },
     {
       "songTitle": "NOUS VENONS DANS TA MAISON",
+      "id": 117,
       "songId": 123,
       "chorus": "",
       "key": "Mi♭ majeur",
       "author": "Bruce Ballinger (1976)",
       "enLyrics": [
-        "Nous venons dans Ta maison, Et nous nous rassemblons pour T’adorer, (x2) Nous venons dans Ta maison, Et nous nous rassemblons Pour T’adorer, Jésus, T’adorer, Te louer Seigneur.",
-        "Il faut s’oublier soi-même, Se concentrer sur Lui pour L’adorer, (x2) Il faut s’oublier soi-même, Se concentrer sur Lui Pour L’adorer, Jésus, L’adorer, Le louer Seigneur.",
-        "Tu nous donnes Ta justice Et Tu nous affranchis pour T’adorer, (x2) Tu nous donnes Ta justice Et Tu nous affranchis Pour T’adorer, Jésus, T’adorer, Te louer Seigneur.",
-        "Nous levons nos mains vers Toi, Et nous Te contemplons pour T’adorer, (x2) Nous levons nos mains vers Toi, Et nous Te contemplons Pour T’adorer, Jésus, T’adorer, Te louer Seigneur."
+        "Nous venons dans Ta maison, \nEt nous nous rassemblons pour T’adorer, (x2) \nNous venons dans Ta maison, \nEt nous nous rassemblons \nPour T’adorer, Jésus, \nT’adorer, Te louer Seigneur.",
+        "Il faut s’oublier soi-même, \nSe concentrer sur Lui pour L’adorer, (x2) \nIl faut s’oublier soi-même, \nSe concentrer sur Lui \nPour L’adorer, Jésus, \nL’adorer, Le louer Seigneur.",
+        "Tu nous donnes Ta justice \nEt Tu nous affranchis pour T’adorer, (x2) \nTu nous donnes Ta justice \nEt Tu nous affranchis \nPour T’adorer, Jésus, \nT’adorer, Te louer Seigneur.",
+        "Nous levons nos mains vers Toi, \nEt nous Te contemplons pour T’adorer, (x2) \nNous levons nos mains vers Toi, \nEt nous Te contemplons \nPour T’adorer, Jésus, \nT’adorer, Te louer Seigneur."
       ]
     },
     {
       "songTitle": "CAR TA BONTÉ",
+      "id": 118,
       "songId": 124,
       "chorus": "",
       "key": "Mi♭ majeur",
       "author": "Hugh Mitchell (1962)",
       "enLyrics": [
-        "Car Ta bonté Vaut mieux que la vie, (bis) Mes lèvres célèbrent Tes louanges, Car Ta bonté vaut mieux que la vie.",
-        "J'élèverai mes mains En Ton nom, (bis) Mes lèvres célèbrent Tes louanges, Car Ta bonté vaut mieux que la vie.",
-        "Oui c’est de Dieu Que vient mon salut, (bis) C’est en Lui que mon âme se confie; Car Sa bonté vaut mieux que la vie.",
-        "Oui c’est bien lui Qui est mon rocher, (bis) Il est mon salut et ma haute’ retraite, Car Sa bonté vaut mieux que la vie."
+        "Car Ta bonté \nVaut mieux que la vie, (bis) \nMes lèvres célèbrent Tes louanges, \nCar Ta bonté vaut mieux que la vie.",
+        "J'élèverai mes mains \nEn Ton nom, (bis) \nMes lèvres célèbrent Tes louanges, \nCar Ta bonté vaut mieux que la vie.",
+        "Oui c’est de Dieu \nQue vient mon salut, (bis) \nC’est en Lui que mon âme se confie; \nCar Sa bonté vaut mieux que la vie.",
+        "Oui c’est bien lui \nQui est mon rocher, (bis) \nIl est mon salut et ma haute’ retraite, \nCar Sa bonté vaut mieux que la vie."
       ]
     },
     {
       "songTitle": "IL A PROMIS",
+      "id": 119,
       "songId": 125,
       "chorus": "",
       "key": "Mi majeur",
       "author": "Auteur anonyme",
       "enLyrics": [
-        "Il a promis d’être avec nous, Je m’accroche à lui, je m’accroche à lui. Il a promis d’être avec nous, Sa fidélité dure à toujours. (x2)",
-        "Tous les sentiers de l'Éternel Dieu Sont miséricorde et fidélité, Pour tous ceux qui gardent son alliance Et ses préceptes car Il est fidèle! (x2)",
-        "La parole du Seigneur est droite, Toutes ses œuvres s'accomplissent Et sa bonté atteint jusqu'aux cieux, Sa fidélité atteint jusqu'aux nues. (x2)",
-        "Ô! Je te louerai au son du luth, Je te célébrerai avec la harpe, Je chanterai ta fidélité, Toi saint d'Israël, car tu es fidèle. (x2)",
-        "Seigneur, tu es miséricordieux Et compatissant, lent à la colère, Riche en bonté et fidélité; Ta fidélité dure à toujours. (x2)",
-        "Les cieux, ô Éternel, célèbrent Tes merveilles et ta fidélité, Dans l’Assemblée des saints, ô Seigneur Dieu des armées! Qui est comme toi? (x2)"
+        "Il a promis d’être avec nous, \nJe m’accroche à lui, je m’accroche à lui. \nIl a promis d’être avec nous, \nSa fidélité dure à toujours. (x2)",
+        "Tous les sentiers de l'Éternel Dieu \nSont miséricorde et fidélité, \nPour tous ceux qui gardent son alliance \nEt ses préceptes car Il est fidèle! (x2)",
+        "La parole du Seigneur est droite, \nToutes ses œuvres s'accomplissent \nEt sa bonté atteint jusqu'aux cieux, \nSa fidélité atteint jusqu'aux nues. (x2)",
+        "Ô! Je te louerai au son du luth, \nJe te célébrerai avec la harpe, \nJe chanterai ta fidélité, \nToi saint d'Israël, car tu es fidèle. (x2)",
+        "Seigneur, tu es miséricordieux \nEt compatissant, lent à la colère, \nRiche en bonté et fidélité; \nTa fidélité dure à toujours. (x2)",
+        "Les cieux, ô Éternel, célèbrent \nTes merveilles et ta fidélité, \nDans l’Assemblée des saints, ô Seigneur \nDieu des armées! Qui est comme toi? (x2)"
       ]
     },
     {
       "songTitle": "JE ME TIENS DANS LA PROMESSE",
+      "id": 120,
       "songId": 126,
-      "chorus": "Je suis, je suis, Je suis dans la promesse De Dieu mon Sauveur; Je suis, je suis, Oui je me tiens dans La promesse’ de Dieu.",
+      "chorus": "Je suis, je suis, \nJe suis dans la promesse \nDe Dieu mon Sauveur; \nJe suis, je suis, \nOui je me tiens dans \nLa promesse’ de Dieu.",
       "key": "La ♭ majeur",
       "author": "Russell Kelso Carter (1886)",
       "enLyrics": [
-        "Je me tiens dans la promesse De Christ mon Roi, Chantant d’âge en âge L’amour de la croix, Glorifiant Jésus-Christ pour ce don de foi, Je me tiens dans la promesse’ de Dieu.",
-        "Je me tiens dans la promesse infaillible, Et quand de grandes Difficultés m’accablent, Par la foi en Christ je suis inébranlable, Je me tiens dans la promesse’ de Dieu.",
-        "Je me tiens dans la promesse qui libère Où Jésus-Christ mon tendre ami et frère, Chaque jour me délivre de ma misère, Je me tiens dans la promesse’ de Dieu.",
-        "Déjà je vois Tes Promesses s’accomplir; Quand à l’horizon je vois le bonheur luire, Je m’avance et je n’ai plus peur de mourir. Je me tiens dans la promesse’ de Dieu.",
-        "Je me tiens dans La promesse du Seigneur, Et son grand amour me Rend plus que vainqueur. Je suis pour toujours Délivré de toute’ peur: Je me tiens dans la promesse’ de Dieu."
+        "Je me tiens dans la promesse \nDe Christ mon Roi, \nChantant d’âge en âge \nL’amour de la croix, \nGlorifiant Jésus-Christ pour ce don de foi, \nJe me tiens dans la promesse’ de Dieu.",
+        "Je me tiens dans la promesse infaillible, \nEt quand de grandes \nDifficultés m’accablent, \nPar la foi en Christ je suis inébranlable, \nJe me tiens dans la promesse’ de Dieu.",
+        "Je me tiens dans la promesse qui libère \nOù Jésus-Christ mon tendre ami et frère, \nChaque jour me délivre de ma misère, \nJe me tiens dans la promesse’ de Dieu.",
+        "Déjà je vois Tes \nPromesses s’accomplir; \nQuand à l’horizon je vois le bonheur luire, \nJe m’avance et je n’ai plus peur de mourir. \nJe me tiens dans la promesse’ de Dieu.",
+        "Je me tiens dans \nLa promesse du Seigneur, \nEt son grand amour me \nRend plus que vainqueur. \nJe suis pour toujours \nDélivré de toute’ peur: \nJe me tiens dans la promesse’ de Dieu."
       ]
     },
     {
       "songTitle": "PRIEZ TOUJOURS,",
+      "id": 121,
       "songId": 127,
       "chorus": "",
       "key": "Fa majeur",
       "author": "Edna Randolph Worrell, (1906)",
       "enLyrics": [
-        "Priez toujours, priez sans cesse! Priez, le Seigneur entendra! II est fidèle à Sa promesse, Priez, priez, Il répondra.",
-        "Priez! Si vos cœurs se déchirent, La main qui blesse guérira. Il entend tous ceux qui soupirent: II a souffert, Il guérira!",
-        "Priez dans la fournaise ardente, Quand satan gronde autour de vous. Jésus sait calmer la tourmente, Priez, triomphez à genoux!",
-        "Priez, priez lorsque le doute Vient obscurcir votre horizon! Priez! Jésus connaît la route, II ouvrira votre prison.",
-        "Priez quand votre âme hésitante Ne sait où choisir son chemin. Même à travers la mer bruyante, Jésus vous tiendra par la main.",
-        "Priez! Si votre ciel est sombre, Si vous tremblez devant la mort, Jésus vous couvrant de Son ombre, Vous ouvrira les portes d'or.",
-        "Priez aussi dans votre joie, Car Jésus-Christ en est l’Auteur. Vous manifestez votre foi, En exprimant votre bonheur.",
-        "Priez pour rendre témoignage, Priez pour confesser Jésus. Dieu bénira votre langage, Pour sauver les pécheurs perdus.",
-        "Priez par votre intelligence; Priez, priez aussi en langues, Car le Seigneur fait diligence. Il faut aussi chanter en langues.",
-        "Priez, priez dans vos maisons; Priez aussi dans l’Assemblée; Car Dieu aime quand nous prions En esprit et en vérité.",
-        "Priez afin que l’ennemi, Ne dise pas: Je l’ai vaincu; Priez, oui priez sans répit, Et l’ennemi sera vaincu.",
-        "Priez, priez avec ferveur, Priez pour tous les bien-aimés, Qui comme vous bravent la peur, Et servent Dieu sans s’inquiéter.",
-        "Priez pour votre conducteur, Priez afin que le malin, Ne l’induise pas en erreur, Pour le faire’ travailler en vain.",
-        "Priez au nom de Jésus-Christ, Priez seulement en ce Nom; Car Dieu ne donne pas de suite À vos prières’ en d’autres noms!"
+        "Priez toujours, priez sans cesse! \nPriez, le Seigneur entendra! \nII est fidèle à Sa promesse, \nPriez, priez, Il répondra.",
+        "Priez! Si vos cœurs se déchirent, \nLa main qui blesse guérira. \nIl entend tous ceux qui soupirent: \nII a souffert, Il guérira!",
+        "Priez dans la fournaise ardente, \nQuand satan gronde autour de vous. \nJésus sait calmer la tourmente, \nPriez, triomphez à genoux!",
+        "Priez, priez lorsque le doute \nVient obscurcir votre horizon! \nPriez! Jésus connaît la route, \nII ouvrira votre prison.",
+        "Priez quand votre âme hésitante \nNe sait où choisir son chemin. \nMême à travers la mer bruyante, \nJésus vous tiendra par la main.",
+        "Priez! Si votre ciel est sombre, \nSi vous tremblez devant la mort, \nJésus vous couvrant de Son ombre, \nVous ouvrira les portes d'or.",
+        "Priez aussi dans votre joie, \nCar Jésus-Christ en est l’Auteur. \nVous manifestez votre foi, \nEn exprimant votre bonheur.",
+        "Priez pour rendre témoignage, \nPriez pour confesser Jésus. \nDieu bénira votre langage, \nPour sauver les pécheurs perdus.",
+        "Priez par votre intelligence; \nPriez, priez aussi en langues, \nCar le Seigneur fait diligence. \nIl faut aussi chanter en langues.",
+        "Priez, priez dans vos maisons; \nPriez aussi dans l’Assemblée; \nCar Dieu aime quand nous prions \nEn esprit et en vérité.",
+        "Priez afin que l’ennemi, \nNe dise pas: Je l’ai vaincu; \nPriez, oui priez sans répit, \nEt l’ennemi sera vaincu.",
+        "Priez, priez avec ferveur, \nPriez pour tous les bien-aimés, \nQui comme vous bravent la peur, \nEt servent Dieu sans s’inquiéter.",
+        "Priez pour votre conducteur, \nPriez afin que le malin, \nNe l’induise pas en erreur, \nPour le faire’ travailler en vain.",
+        "Priez au nom de Jésus-Christ, \nPriez seulement en ce Nom; \nCar Dieu ne donne pas de suite \nÀ vos prières’ en d’autres noms!"
       ]
     },
     {
       "songTitle": "SEMONS DÈS L'AURORE",
+      "id": 122,
       "songId": 128,
-      "chorus": "Bon courage, amis! (X2) Nous irons joyeux Cueillir les épis. (x2)",
+      "chorus": "Bon courage, amis! (X2) \nNous irons joyeux \nCueillir les épis. (x2)",
       "key": "Si♭ majeur",
       "author": "Knowles Shaw (1874), George A. Minor, (1880)",
       "enLyrics": [
-        "Semons dès l'aurore, Avec zèle et force, Au temps favorable, Quand le soleil luit, Et semons encore Lorsque vient la nuit, Dieu peut faire éclore la fleur et le fruit.",
-        "Semons pour le Maître, Enseignons la justice, Soyons intelligents, Parlons du Sauveur, Semons, car peut-être, Un pauvre pécheur Par nous, pourra naître, Au seul vrai bonheur.",
-        "La tâche est immense, La moisson est grande, Et peu d’ouvriers, Et dur le terrain, Mais, bonne espérance! Nul travail n’est vain, De Dieu la puissance fait germer le grain."
+        "Semons dès l'aurore, \nAvec zèle et force, \nAu temps favorable, \nQuand le soleil luit, \nEt semons encore \nLorsque vient la nuit, \nDieu peut faire éclore la fleur et le fruit.",
+        "Semons pour le Maître, \nEnseignons la justice, \nSoyons intelligents, \nParlons du Sauveur, \nSemons, car peut-être, \nUn pauvre pécheur \nPar nous, pourra naître, \nAu seul vrai bonheur.",
+        "La tâche est immense, \nLa moisson est grande, \nEt peu d’ouvriers, \nEt dur le terrain, \nMais, bonne espérance! \nNul travail n’est vain, \nDe Dieu la puissance fait germer le grain."
       ]
     },
     {
       "songTitle": "TU ES DIGNE SEIGNEUR",
+      "id": 123,
       "songId": 129,
       "chorus": "",
       "key": "Ré majeur",
       "author": "Anonyme",
       "enLyrics": [
-        "Tu es digne Seigneur, Tu es digne, Tu es digne de louanges, Tu es digne, Tu es digne aujourd’hui, Tu es digne demain, Tu es digne éternellement.",
+        "Tu es digne Seigneur, Tu es digne, \nTu es digne de louanges, Tu es digne, \nTu es digne aujourd’hui, \nTu es digne demain, \nTu es digne éternellement.",
         "",
         ""
       ]
     },
     {
       "songTitle": "DIGNE ES-TU",
+      "id": 124,
       "songId": 130,
-      "chorus": "Chantons, alléluia, L’Agneau sur le trône, Nous T’adorons et nous T’exaltons, Nous célébrons Ta gloire. Alléluia, louanges au grand Roi, Tu es plus que vainqueur, Seigneur de l’univers.",
+      "chorus": "Chantons, alléluia, \nL’Agneau sur le trône, \nNous T’adorons et nous T’exaltons, \nNous célébrons Ta gloire. Alléluia, louanges au grand Roi, \nTu es plus que vainqueur, \nSeigneur de l’univers.",
       "key": "Do majeur",
       "author": "Mark S. Kinzer (1976)",
       "enLyrics": [
-        "Digne, ô digne es-Tu Seigneur, Digne d’être remercié, Loué et adoré. (bis)",
-        "Seigneur, Tu es plus précieux que l’argent, Seigneur, Tu es plus précieux que l’or, Seigneur, Tu es plus beau que le diamant, Rien ne peut se comparer à toi.",
+        "Digne, ô digne es-Tu Seigneur, \nDigne d’être remercié, \nLoué et adoré. (bis)",
+        "Seigneur, Tu es plus précieux que l’argent, \nSeigneur, Tu es plus précieux que l’or, \nSeigneur, Tu es plus beau que le diamant, \nRien ne peut se comparer à toi.",
         ""
       ]
     },
     {
       "songTitle": "TU ES DIGNE NOTRE SEIGNEUR",
+      "id": 125,
       "songId": 131,
       "chorus": "",
       "key": "La ♭ majeur",
       "author": "Redeemed Church (1883)",
       "enLyrics": [
-        "Tu es digne, Notre Seigneur (et notre Dieu), De recevoir la gloire, L'honneur et la puissance; Car Tu as créé toutes choses, Et c'est par Ta volonté, qu'elles existent Et qu'elles ont été créées.",
+        "Tu es digne, \nNotre Seigneur (et notre Dieu), \nDe recevoir la gloire, \nL'honneur et la puissance; \nCar Tu as créé toutes choses, \nEt c'est par Ta volonté, qu'elles existent \nEt qu'elles ont été créées.",
         "",
         ""
       ]
     },
     {
       "songTitle": "DIEU TU ES GRAND",
+      "id": 126,
       "songId": 132,
       "chorus": "",
       "key": "Do majeur",
       "author": "Michael Whitaker Smith (1982)",
       "enLyrics": [
-        "Dieu, tu es grand, Tu es fidèle et bon, ton amour infini nous confond. Dieu, tu es grand, Tu es saint et puissant, Viens régner dans nos cœurs maintenant.",
-        "Dieu, tu es grand et digne de louanges. Dieu, tu es grand et digne de gloire. Dieu, tu es grand, J'élève ma voix, j'élève ma voix, Dieu, tu es grand, Dieu, tu es grand.",
+        "Dieu, tu es grand, Tu es fidèle et bon, \nton amour infini nous confond. \nDieu, tu es grand, Tu es saint et puissant, \nViens régner dans nos cœurs maintenant.",
+        "Dieu, tu es grand et digne de louanges. \nDieu, tu es grand et digne de gloire. Dieu, tu es grand, \nJ'élève ma voix, j'élève ma voix, \nDieu, tu es grand, Dieu, tu es grand.",
         ""
       ]
     },
     {
       "songTitle": "ESPERE EN DIEU",
+      "id": 127,
       "songId": 133,
-      "chorus": "Espère en Dieu quand la tempête Contre la nef jette ses flots. Un mot vainqueur déjà s’apprête À commander paix et repos.",
+      "chorus": "Espère en Dieu quand la tempête \nContre la nef jette ses flots. \nUn mot vainqueur déjà s’apprête \nÀ commander paix et repos.",
       "key": "La ♭ majeur",
       "author": "E. Bonnard, Ch. H. Gabriel (1856-1932)",
       "enLyrics": [
-        "Espère en Dieu quand la nuit sombre Voile le ciel et l’horizon. Jamais là-haut ne règne l’ombre, Là-haut t’attend une maison.",
-        "Espère en Dieu quand la souffrance, Brisant ton corps, trouble ton cœur, Chez lui jamais l’indifférence Ne le distrait de ton malheur. Espère en Dieu quand sonne l’heure D’abandonner les biens d’en bas. Crois aux trésors de sa demeure, Car son amour t’ouvre ses bras.",
-        "Espère en Dieu quand on t’oublie Ou qu’on te raille avec dédain. Pour te sauver, jamais ne plie, Va plutôt seul sur ton chemin. Espère en Dieu quand ton pied glisse Sous les efforts du tentateur Saisisla main libératrice Qui te rendra toujours vainqueur."
+        "Espère en Dieu quand la nuit sombre \nVoile le ciel et l’horizon. \nJamais là-haut ne règne l’ombre, \nLà-haut t’attend une maison.",
+        "Espère en Dieu quand la souffrance, \nBrisant ton corps, trouble ton cœur, \nChez lui jamais l’indifférence \nNe le distrait de ton malheur. \nEspère en Dieu quand sonne l’heure \nD’abandonner les biens d’en bas. \nCrois aux trésors de sa demeure, \nCar son amour t’ouvre ses bras.",
+        "Espère en Dieu quand on t’oublie \nOu qu’on te raille avec dédain. \nPour te sauver, jamais ne plie, \nVa plutôt seul sur ton chemin. \nEspère en Dieu quand ton pied glisse \nSous les efforts du tentateur \nSaisis la main libératrice \nQui te rendra toujours vainqueur."
       ]
     },
     {
       "songTitle": "EL SHADDAÏ",
+      "id": 128,
       "songId": 134,
-      "chorus": "El Shaddaï, El Shaddaï, El Elyon na Adonai, D'âge en âge tu es le même, Par le Nom puissant que j'aime. El Shaddaï, El Shaddaï, El kamka na Adonai, Je te louerai où que j'aille, El Shaddaï.",
+      "chorus": "El Shaddaï, El Shaddaï, \nEl Elyon na Adonai, \nD'âge en âge tu es le même, \nPar le Nom puissant que j'aime. \nEl Shaddaï, El Shaddaï, \nEl kamka na Adonai, \nJe te louerai où que j'aille, El Shaddaï.",
       "key": "Do majeur",
       "author": "J.Thompson & M. Card (1982)adapté par C. Roffidal",
       "enLyrics": [
-        "Ton amour et ta bonté, Pour Abraham ont tout changé. La puissance de ta main, Dans la mer fit un chemin. À ceux que l’on méprisait, Tu accordas tes bienfaits; Par ta grandeur, tu les as libérés.",
-        "Les années l’ont bien montré, Christ est venu en Son temps, Parmi ces gens aveuglés, Que tu as pourtant aimés. Ta parole, ton divin plan, Pour eux n’étaient que du vent. Tu avais tout accompli, Par ton Fils donnant sa vie.",
+        "Ton amour et ta bonté, \nPour Abraham ont tout changé. \nLa puissance de ta main, \nDans la mer fit un chemin. \nÀ ceux que l’on méprisait, \nTu accordas tes bienfaits; \nPar ta grandeur, tu les as libérés.",
+        "Les années l’ont bien montré, \nChrist est venu en Son temps, \nParmi ces gens aveuglés, \nQue tu as pourtant aimés. \nTa parole, ton divin plan, \nPour eux n’étaient que du vent. \nTu avais tout accompli, \nPar ton Fils donnant sa vie.",
         ""
       ]
     },
     {
       "songTitle": "À TOI LA GLOIRE ",
+      "id": 129,
       "songId": 135,
-      "chorus": "À Toi la gloire, ô Ressuscité! À Toi la victoire, pour l’éternité!",
+      "chorus": "À Toi la gloire, ô Ressuscité! \nÀ Toi la victoire, pour l’éternité!",
       "key": "Mi ♭ majeur",
       "author": "Richard Birch Hoyle; Author: Edmond Budry (1904)",
       "enLyrics": [
-        "À Toi la gloire, O Ressuscité! À Toi la victoire, Pour l’éternité! Brillant de lumière, L’ange est descendu, Il roule la pierre, Du tombeau vaincu.",
-        "Vois-Le paraître; C’est lui, c’est Jésus, Ton Sauveur, ton Maître! Oh! Ne doute plus! Sois dans l’allégresse, Peuple du Seigneur, Et redis sans cesse, Que Christ est vainqueur.",
-        "Craindrais-je encore? Il vit à jamais, Celui que j’adore, le prince de paix; Il est ma victoire, Mon puissant soutien, Ma vie et ma gloire: Non je ne crains rien."
+        "À Toi la gloire, \nO Ressuscité! \nÀ Toi la victoire, \nPour l’éternité! \nBrillant de lumière, \nL’ange est descendu, \nIl roule la pierre, \nDu tombeau vaincu.",
+        "Vois-Le paraître; \nC’est lui, c’est Jésus, \nTon Sauveur, ton \nMaître! Oh! Ne doute plus! \nSois dans l’allégresse, \nPeuple du Seigneur, \nEt redis sans cesse, \nQue Christ est vainqueur.",
+        "Craindrais-je encore? \nIl vit à jamais, \nCelui que j’adore, \nle prince de paix; \nIl est ma victoire, \nMon puissant soutien, \nMa vie et ma gloire: \nNon je ne crains rien."
       ]
     },
     {
       "songTitle": "JE SUIS TIEN, SEIGNEUR",
+      "id": 130,
       "songId": 136,
-      "chorus": "Attire-moi, jusqu'à toi, Seigneur, Je désire ta présence; Protège-moi, Jésus mon Sauveur, Garde moi par ta puissance.",
+      "chorus": "Attire-moi, jusqu'à toi, Seigneur, \nJe désire ta présence; \nProtège-moi, Jésus mon Sauveur, \nGarde moi par ta puissance.",
       "key": "Sol majeur",
       "author": "Fanny Crosby (1875)",
       "enLyrics": [
-        "Je suis tien Seigneur, Et ta douce voix M’a parlé de ton amour; Et de tout mon cœur je veux vivre’ pour toi, Et te servir tout le jour.",
-        "Consacre-moi Père, A ton bon service, Je veux faire’ ta volonté. Par la puissance’ de Ta divine grâce, Garde moi dans ta bonté.",
-        "Une heure passée dans Ton saint parvis, Est un pur délice’, Seigneur. Parler à mon Dieu comme à un ami, Fait, ô Dieu, tout mon bonheur.",
-        "Seigneur, ton amour Sublime et profond, Depasse’ mon entendement; Mais je sais qu’un beau Jour dans ta maison, Je le vivrai pleinement."
+        "Je suis tien Seigneur, \nEt ta douce voix \nM’a parlé de ton amour; \nEt de tout mon cœur je veux vivre’ pour toi, \nEt te servir tout le jour.",
+        "Consacre-moi Père, \nA ton bon service, \nJe veux faire’ ta volonté. \nPar la puissance’ de \nTa divine grâce, \nGarde moi dans ta bonté.",
+        "Une heure passée dans \nTon saint parvis, \nEst un pur délice’, Seigneur. \nParler à mon Dieu comme à un ami, \nFait, ô Dieu, tout mon bonheur.",
+        "Seigneur, ton amour \nSublime et profond, \nDepasse’ mon entendement; \nMais je sais qu’un beau \nJour dans ta maison, \nJe le vivrai pleinement."
       ]
     },
     {
       "songTitle": "CHERCHEZ D’ABORD",
+      "id": 131,
       "songId": 137,
       "chorus": "",
       "key": "Mi ♭ majeur",
       "author": "Karen Lafferty (1971), Maranatha! Music",
       "enLyrics": [
-        "Cherchez d’abord Le royaume de Dieu, et sa justice; Et toutes choses vous seront Données en plus, Allélu! Alléluia!",
-        "L’homme ne vivra pas de pain Seulement, Mais de toute parole, Qui sortira de la bouche de Dieu, Allélu! Alléluia!",
-        "Demandez, et l’on vous donnera; Cherchez, et vous trouverez; Frappez, et l’on vous ouvrira. Allélu! Alléluia!",
-        "Gardez-vous de faire’ Votre aumône’ devant Les hommes, pour en être vus; Autrement vous n’aurez point De récompense De votre Père’ qui est aux cieux."
+        "Cherchez d’abord \nLe royaume de Dieu, et sa justice; \nEt toutes choses vous seront \nDonnées en plus, \nAllélu! Alléluia!",
+        "L’homme ne vivra pas de pain \nSeulement, \nMais de toute parole, \nQui sortira de la bouche de Dieu, \nAllélu! Alléluia!",
+        "Demandez, et l’on vous donnera; \nCherchez, et vous trouverez; \nFrappez, et l’on vous ouvrira. \nAllélu! Alléluia!",
+        "Gardez-vous de faire’ \nVotre aumône’ devant \nLes hommes, pour en être vus; \nAutrement vous n’aurez point \nDe récompense \nDe votre Père’ qui est aux cieux."
       ]
     },
     {
       "songTitle": "QUE C’EST MERVEILLEUX",
+      "id": 132,
       "songId": 138,
       "chorus": "",
       "key": "Mi majeur",
       "author": "Anonyme",
       "enLyrics": [
-        "Que c’est merveilleux, merveilleux! D’abandonner ce monde, et suivre Dieu, Devenir l’ami du Seigneur Jésus, Que c’est merveilleux, merveilleux!",
+        "Que c’est merveilleux, merveilleux! \nD’abandonner ce monde, et suivre Dieu, \nDevenir l’ami du Seigneur Jésus, \nQue c’est merveilleux, merveilleux!",
         "",
         ""
       ]
     },
     {
       "songTitle": "JÉSUS REVIENT, ALLÉLUIA",
+      "id": 133,
       "songId": 139,
       "chorus": "",
       "key": "DO majeur",
       "author": "Anonyme",
       "enLyrics": [
-        "Jésus revient, alléluia! (x2) Seras-tu prêt quand Il viendra? Alléluia, alléluia.",
-        "Seras-tu prêt quand Il viendra? (x2) Si tu es prêt, Il te prendra, Alléluia, alléluia.",
-        "Si tu es prêt, Il te prendra, (x2) Et avec Lui, tu règneras. Alléluia, alléluia.",
-        "Et avec Lui, tu règneras, (x2) Et en Lui tu te réjouiras, Alléluia, alléluia.",
-        "Et en Lui tu te réjouiras, (x2) Et à Ses pieds, tu te tiendras, Alléluia, alléluia.",
-        "Et à Ses pieds, tu te tiendras, (x2) En entonnant alléluia, Alléluia, alléluia."
+        "Jésus revient, alléluia! (x2) \nSeras-tu prêt quand Il viendra? \nAlléluia, alléluia.",
+        "Seras-tu prêt quand Il viendra? (x2) \nSi tu es prêt, Il te prendra, \nAlléluia, alléluia.",
+        "Si tu es prêt, Il te prendra, (x2) \nEt avec Lui, tu règneras. \nAlléluia, alléluia.",
+        "Et avec Lui, tu règneras, (x2) \nEt en Lui tu te réjouiras, \nAlléluia, alléluia.",
+        "Et en Lui tu te réjouiras, (x2) \nEt à Ses pieds, tu te tiendras, \nAlléluia, alléluia.",
+        "Et à Ses pieds, tu te tiendras, (x2) \nEn entonnant alléluia, \nAlléluia, alléluia."
       ]
     },
     {
       "songTitle": "GRÂCE INFINIE DE NOTRE DIEU",
+      "id": 134,
       "songId": 140,
       "chorus": "",
       "key": "Sol majeur",
       "author": "John Newton (1779), Tune: NEW BRITAIN",
       "enLyrics": [
-        "Grâce infinie de notre Dieu, Qui un jour m’a sauvé. J’allais errant de lieu en lieu, Quand Il m’a retrouvé.",
-        "Dans mes épreuves’ et mes labeurs, Suffisante est Sa grâce. Je peux compter sur Sa faveur, À chaque heure qui passe.",
-        "Dans le calme ou dans l’orage, La joie ou la douleur, À toute heure et à tout âge Je regarde au Sauveur.",
-        "Bientôt ce monde passera, Avec ses vanités, Le Fils de Dieu me conduira, Dans Sa félicité.",
-        "Quand nous aurons pendant mille ans, Célébré Ses louanges, Nous pourrons comme au commencement, Lui offrir nos hommages."
+        "Grâce infinie de notre Dieu, \nQui un jour m’a sauvé. \nJ’allais errant de lieu en lieu, \nQuand Il m’a retrouvé.",
+        "Dans mes épreuves’ et mes labeurs, \nSuffisante est Sa grâce. \nJe peux compter sur Sa faveur, \nÀ chaque heure qui passe.",
+        "Dans le calme ou dans l’orage, \nLa joie ou la douleur, \nÀ toute heure et à tout âge \nJe regarde au Sauveur.",
+        "Bientôt ce monde passera, \nAvec ses vanités, \nLe Fils de Dieu me conduira, \nDans Sa félicité.",
+        "Quand nous aurons pendant mille ans, \nCélébré Ses louanges, \nNous pourrons comme au commencement, \nLui offrir nos hommages."
       ]
     },
     {
       "songTitle": "SOIS ADORÉ Ô SEIGNEUR JÉSUS",
+      "id": 136,
       "songId": 141,
-      "chorus": "Sois adoré ô Seigneur Jésus Tu es élevé au-dessus de tout nom Qui peut se comparer à Toi ? Tu es merveilleux ô cher Sauveur !",
+      "chorus": "Sois adoré ô Seigneur Jésus \nTu es élevé au-dessus de tout nom \nQui peut se comparer à Toi ? \nTu es merveilleux ô cher Sauveur !",
       "key": "Fa majeur",
       "author": "Honorée Théodorette ESSOMBA (P et M) (1997)",
       "enLyrics": [
-        "Du matin au soir par toute la terre, Acclamez ce nom, Le puissant Lion de Juda ; Il a gagné toutes les batailles, Sa victoire est éternelle. Alléluia !",
-        "Il est Grand, il est beau, Il est glorieux, L’univers entier le loue et l’adore. Il est Grand, il est beau, Il est glorieux, L’univers entier le loue et l’adore.",
-        "Sois exalté et adoré, Sois acclamé et célébré par des chants, Avec des cris, des cris de joie, Tu en es digne ô Jésus. Sois exalté et adoré, Sois acclamé et célébré par des chants, Avec des cris, des cris de joie, Tu en digne ô Seigneur ! Alléluia !"
+        "Du matin au soir par toute la terre, \nAcclamez ce nom, \nLe puissant Lion de Juda ; \nIl a gagné toutes les batailles, \nSa victoire est éternelle. \nAlléluia !",
+        "Il est Grand, il est beau, Il est glorieux, \nL’univers entier le loue et l’adore. \nSa louange remplit toute la terre, \nEt rend confus tous ses ennemis. \nAlléluia",
+        "Sois exalté et adoré, \nSois acclamé et célébré par des chants, \nAvec des cris, des cris de joie, \nTu en es digne ô Jésus. \nSois exalté et adoré, \nSois acclamé et célébré par des chants, \nAvec des cris, des cris de joie, \nTu en digne ô Seigneur ! \nAlléluia !"
       ]
     },
     {
       "songTitle": "O SEIGNEUR, BENIS LA PAROLE",
+      "id": 139,
       "songId": 142,
       "chorus": "",
       "key": "Do majeur",
       "author": "Henri Lutteroth (1802-1889), A.Bost (1790-1874)",
       "enLyrics": [
-        "O Seigneur, bénis la parole Que nous venons d'ouïr : Ne permets pas qu'elle s'envole De notre souvenir.",
-        "Jaloux de ta sainte influence, Trop souvent le malin Accourt, et ravit la semence Que répandit ta main.",
-        "Trop souvent elle est sans racine En un terrain pierreux ; Le soleil vient : elle décline Sous l'ardeur de ses feux.",
-        "Trop souvent les soucis du monde Ou ses biens sans valeur, Détruisant sa vertu féconde, L'étouffent dans le coeur.",
-        "Ah ! plutôt que ton Evangile S'emparant de nos coeurs, Ces quelques grains en donnent mille, A ta gloire, ô Seigneur !"
+        "O Seigneur, bénis la parole \nQue nous venons d'ouïr : \nNe permets pas qu'elle s'envole \nDe notre souvenir.",
+        "Jaloux de ta sainte influence, \nTrop souvent le malin \nAccourt, et ravit la semence \nQue répandit ta main.",
+        "Trop souvent elle est sans racine \nEn un terrain pierreux ; \nLe soleil vient : elle décline \nSous l'ardeur de ses feux.",
+        "Trop souvent les soucis du monde \nOu ses biens sans valeur, \nDétruisant sa vertu féconde, \nL'étouffent dans le coeur.",
+        "Ah ! plutôt que ton Evangile \nS'emparant de nos coeurs, \nCes quelques grains en donnent mille, \nA ta gloire, ô Seigneur !"
       ]
     },
     {
       "songTitle": "ILS SONT SI NOMBREUX",
+      "id": 145,
       "songId": 143,
-      "chorus": "X 2 Oh oui c’est toi, oh oui c’est moi, L’armée du seigneur Tenons-nous la main, Comme un seul homme, Annonçons l’évangile",
+      "chorus": "X 2 Oh oui c’est toi, oh oui c’est moi, \nL’armée du seigneur \nTenons-nous la main, \nComme un seul homme, \nAnnonçons l’évangile",
       "key": "Sol majeur",
       "author": "Emmanuel Ngompe (2OO9)",
       "enLyrics": [
-        "Ils sont si nombreux, les captif du péché Ils sont attachés, par les liens de la mort Sans espoir dans un monde d’hostilité; Ils ont besoin de quelqu’un qui viens, lutter pour leur cause.",
-        "Ils sont dans l’angoisse, Du lendemain, incertain Ils se souviennent des échecs du passé Clairement les signaux du mal s’annoncent Ils cherchent partout, un abri sure, Pour sauver leur vie.",
-        "Il est temps de quitter Et d’aller en mission; C’est le temps d’aller Dans les contrés du monde; Porter l’espoir à l’humanité déchut ; Leur dire que Jésus les aime; Et qu’il est le sauveur !!!"
+        "Ils sont si nombreux, les captif du péché \nIls sont attachés, par les liens de la mort \nSans espoir dans un monde d’hostilité; \nIls ont besoin de quelqu’un qui viens, lutter \npour leur cause.",
+        "Ils sont dans l’angoisse, \nDu lendemain, incertain \nIls se souviennent des échecs du passé \nClairement les signaux du mal s’annoncent \nIls cherchent partout, un abri sure, \nPour sauver leur vie.",
+        "Il est temps de quitter \nEt d’aller en mission; \nC’est le temps d’aller \nDans les contrés du monde; \nPorter l’espoir à l’humanité déchut ; \nLeur dire que Jésus les aime; \nEt qu’il est le sauveur !!!"
       ]
     },
     {
       "songTitle": "PRÊCHONS CHRIST CRUCIFIÉ",
+      "id": 150,
       "songId": 144,
-      "chorus": "2x Prêchons, prêchons Christ crucifié Il est mort sur la croix et il est ressuscité",
+      "chorus": "2x Prêchons, prêchons Christ crucifié \nIl est mort sur la croix et il est \nressuscité",
       "key": "Do majeur",
       "author": "Solange Kouakap (Shekina Choir 2O16).",
       "enLyrics": [
-        "Peuple de Dieu, le moment est arrivé D’arrêter les discussions Et les fausses doctrines Pour retourner à la source, La parole de Dieu",
-        "Mon cher ami, j’ai une bonne nouvelle Le sang de Jésus a coulé pour toi Vas-tu continuer à sacrifier les animaux ",
-        "Le seigneur Jésus Est unique par sa naissance Il est unique par sa mort, Il est notre sauveur C’est lui l’agneau de Dieu Qui ôte le péché du monde",
-        "La prédication, de la croix est une folie Pour ceux qui périssent Oh oui mes chers frères Puissance de Dieu pour nous qui sommes sauvés"
+        "Peuple de Dieu, le moment est arrivé \nD’arrêter les discussions \nEt les fausses doctrines \nPour retourner à la source, \nLa parole de Dieu",
+        "Mon cher ami, j’ai une bonne nouvelle \nLe sang de Jésus a coulé pour toi \nVas-tu continuer à sacrifier les animaux",
+        "Le seigneur Jésus \nEst unique par sa naissance \nIl est unique par sa mort, \nIl est notre sauveur \nC’est lui l’agneau de Dieu \nQui ôte le péché du monde",
+        "La prédication, de la croix est une folie \nPour ceux qui périssent \nOh oui mes chers frères \nPuissance de Dieu \npour nous qui sommes sauvés"
       ]
     },
     {
       "songTitle": "TU ES ROI",
+      "id": 165,
       "songId": 145,
-      "chorus": "Tu es Roi, Jésus tu es Roi Exalté sois-tu en ce lieu Car tu es Roi",
+      "chorus": "Tu es Roi, Jésus tu es Roi \nExalté sois-tu en ce lieu Car tu es Roi",
       "key": "Si♭ mineur",
       "author": "Kpwan Valerie (Shekina Choir 2O16)",
       "enLyrics": [
-        "Eternel tu es dieu Bénis soit ton nom Exalté sois-tu en ce lieu Car tu es dieu Présence omnipotente Béni soit ton nom Exalté sois-tu en ce lieu Car tu es Dieu",
-        "Jésus-Christ tu es Seigneur Béni soit ton nom Élevé sois-tu en ce lieu car tu es Dieu Admirable et incommensurable, Béni soit ton nom Glorifié sois-tu en ce lieu, Car tu es Roi",
-        "Jésus-Christ tu es Seigneur Béni soit ton nom Élevé sois-tu en ce lieu car tu es Dieu Infiniment Puissant, Béni soit ton nom Honoré sois-tu en ce lieu, Car tu es Roi"
+        "Eternel tu es Dieu \nBénis soit ton nom \nExalté sois-tu en ce lieu \nCar tu es Dieu \nPrésence omnipotente \nBéni soit ton nom \nExalté sois-tu en ce lieu \nCar tu es Dieu",
+        "Jésus-Christ tu es Seigneur \nBéni soit ton nom \nÉlevé sois-tu en ce lieu car tu es Dieu \nAdmirable et incommensurable, \nBéni soit ton nom \nGlorifié sois-tu en ce lieu, \nCar tu es Roi",
+        "Jésus-Christ tu es Seigneur \nBéni soit ton nom \nÉlevé sois-tu en ce lieu car tu es Dieu \nInfiniment Puissant, \nBéni soit ton nom \nHonoré sois-tu en ce lieu, \nCar tu es Roi"
       ]
     },
     {
       "songTitle": "IL ME CONDUIT, DOUCE PENSEE !",
+      "id": 169,
       "songId": 146,
-      "chorus": "Il me conduit, Il me conduit ! Désormais pour Lui je veux vivre ; Brebis fidèle, je veux suivre Le bon Berger qui me conduit.",
+      "chorus": "Il me conduit, Il me conduit ! \nDésormais pour Lui je veux vivre ; \nBrebis fidèle, je veux suivre \nLe bon Berger qui me conduit.",
       "key": "Ré majeur",
       "author": "Ruben Saillens, W. B. Bradbury (1816-1868)",
       "enLyrics": [
-        "Il me conduit, douce pensée ! Repos pour mon âme lassée ! En tous lieux son regard me suit, Et par la main Il me conduit.",
-        "Jésus sur moi veille sans cesse Dans la joie et dans la tristesse, Dans le jour comme dans la nuit, Pas à pas sa main me conduit.",
-        "Comme un rempart, Il me protège, Il me préserve de tout piège ; Loin de moi l'ennemi s'enfuit Quand par la main Christ me conduit.",
-        "Quand mon heure sera sonnée, Mon oeuvre ici-bas terminée, Je dirai, dans la sombre nuit : Je ne crains point, Il me conduit."
+        "Il me conduit, douce pensée ! \nRepos pour mon âme lassée ! \nEn tous lieux son regard me suit, \nEt par la main Il me conduit.",
+        "Jésus sur moi veille sans cesse \nDans la joie et dans la tristesse, \nDans le jour comme dans la nuit, \nPas à pas sa main me conduit.",
+        "Comme un rempart, Il me protège, \nIl me préserve de tout piège ; \nLoin de moi l'ennemi s'enfuit \nQuand par la main Christ me conduit.",
+        "Quand mon heure sera sonnée, \nMon oeuvre ici-bas terminée, \nJe dirai, dans la sombre nuit : \nJe ne crains point, Il me conduit."
       ]
     },
     {
       "songTitle": "C’EST DANS L’EVANGILE",
+      "id": 175,
       "songId": 147,
       "chorus": "Auprès du Seigneur Avec Lui sur la route, Marchons de tout cœur en chantant. Il sauve, Il guérit, puis enlève le doute, Il vit, il est là maintenant.",
       "key": "Mi majeur",
@@ -2010,6 +2048,7 @@
     },
     {
       "songTitle": "JAMAIS DIEU NE DÉLAISSE",
+      "id":186,
       "songId": 148,
       "chorus": "",
       "key": "Ré ♭ majeur.",
@@ -2022,6 +2061,7 @@
     },
     {
       "songTitle": "Ô CONFIE-TOI EN TON SAUVEUR",
+      "id":192,
       "songId": 149,
       "chorus": "",
       "key": "Ré majeur",
@@ -2034,6 +2074,7 @@
     },
     {
       "songTitle": "IL ME FIT REMONTER",
+      "id":194,
       "songId": 150,
       "chorus": "Il me fit remonter du bourbier, Affermit mes pas sur le pilier, M’offrit un chant pour Le glorifier, Un chant de louange, alléluia!",
       "key": "Ré♭ majeur",
@@ -2048,6 +2089,7 @@
     },
     {
       "songTitle": "PETITE VILLE, BETHLÉHEM",
+      "id":198,
       "songId": 151,
       "chorus": "",
       "key": "Fa majeur",

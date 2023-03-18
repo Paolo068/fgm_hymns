@@ -19,3 +19,7 @@ Hymne 38 : J'ai ajouté la dernière strophe manquante sur la version en anglais
 Hymne 45 : J'ai ajouté le chorus dans la version en francais
 
 Hymne 51 : J'ai ajouté le chorus sur la version en français.
+
+Hymne 150: Il n'y a pas de speech dans le fichier JSON
+
+Hymne 165 : Dans la version en francais il y a deux refrains mais 1 seul a ete reporte dans le JSON.
