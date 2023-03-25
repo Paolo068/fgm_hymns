@@ -3316,108 +3316,119 @@
     },
     {
       "songTitle": "DRAW ME CLOSE",
+      "id": 312,
       "songId": 242,
-      "chorus": "You're all I want You're all I've ever needed You're all I want Help me know you are near",
+      "chorus": "You're all I want \nYou're all I've ever needed \nYou're all I want \nHelp me know you are near",
       "key": "A major",
       "author": "Kelly Carpenter (1994)",
       "enLyrics": [
-        "Draw me close to you Never let me go I lay it all down again To hear you say that I'm your friend",
-        "You are my desire No one else will do Cause nothing else can take your place To feel the warmth of your embrace Help me find the way Bring me back to you ",
-        ""
+        "Draw me close to you \nNever let me go \nI lay it all down again \nTo hear you say that I'm your friend",
+        "You are my desire \nNo one else will do \nCause nothing else can take your place \nTo feel the warmth of your embrace \nHelp me find the way \nBring me back to you "
       ]
     },
     {
       "songTitle": "IN HIS TIME",
+      "id": "316a",
       "songId": 243,
       "chorus": "",
       "key": "C major",
       "author": "Maranatha! Music (2OO5)",
       "enLyrics": [
-        "In His time, in His time, He makes all things beautiful, In His time. Lord, please show me every day, As You're teaching me Your way, To do only what You say, In Your time.",
-        "In Your time, in Your time, You make all things beautiful, In Your time. Lord my life to You I bring, May each song I have to sing Be to You a lovely thing In Your time.",
-        "In Your time, in Your time, You make all things beautiful, in Your time. Lord by Your grace and goodness, Help me to live in fullness Of life, and see Your greatness, In Your time."
+        "In His time, in His time, \nHe makes all things beautiful, \nIn His time. \nLord, please show me every day, \nAs You're teaching me Your way, \nTo do only what You say, \nIn Your time.",
+        "In Your time, in Your time, \nYou make all things beautiful, \nIn Your time. \nLord my life to You I bring, \nMay each song I have to sing \nBe to You a lovely thing \nIn Your time.",
+        "In Your time, in Your time, \nYou make all things beautiful, in Your \ntime. \nLord by Your grace and goodness, \nHelp me to live in fullness \nOf life, and see Your greatness, \nIn Your time."
       ]
     },
     {
       "songTitle": "LORD, I LIFT YOUR NAME ON HIGH",
+      "id": 331,
       "songId": 245,
       "chorus": "",
       "key": "G major",
       "author": "Rick Founds (1978) Maranatha ! Praise",
       "enLyrics": [
-        "Lord, I love to sing your praises I'm so glad you're in my life I'm so glad you came to save us",
-        "You came from heaven to earth To show the way From the earth to the cross My debt to pay From the cross to the grave From the grave to the sky Lord, Lord, I lift your name on high",
+        "Lord, I lift your name on high \nLord, I love to sing your praises \nI'm so glad you're in my life \nI'm so glad you came to save us",
+        "You came from heaven to earth \nTo show the way \nFrom the earth to the cross \nMy debt to pay \nFrom the cross to the grave \nFrom the grave to the sky Lord, \nLord, I lift your name on high",
         ""
       ]
     },
     {
       "songTitle": "COUNT YOUR BLESSINGS",
+      "id": 342,
       "songId": 246,
-      "chorus": "Count your blessings, Name them one by one; Count your blessings, See what God hath done! Count your blessings, Name them one by one; And it will surprise you What the Lord hath done.",
+      "chorus": "Count your blessings, \nName them one by one; \nCount your blessings, \nSee what God hath done! \nCount your blessings, \nName them one by one; \nAnd it will surprise you \nWhat the Lord hath done.",
       "key": "D Major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I'VE ANCHORED IN JESUS",
+      "id": 343,
       "songId": 247,
-      "chorus": "I've anchored in Jesus, The storms of life I'll brave, I've anchored in Jesus, I fear no wind or wave, I've anchored in Jesus, For he hath power to save, I've anchored in the rock of ages.",
+      "chorus": "I've anchored in Jesus, \nThe storms of life I'll brave, \nI've anchored in Jesus, \nI fear no wind or wave, \nI've anchored in Jesus, \nFor he hath power to save, \nI've anchored in the rock of ages.",
       "key": "B♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "ASK THE SAVIOR TO HELP YOU",
+      "id": 344,
       "songId": 248,
-      "chorus": "Ask the Savior to help you, Comfort, strengthen and keep you; He is willing to aid you, He will carry you through. ",
+      "chorus": "Ask the Savior to help you, \nComfort, strengthen and keep you; \nHe is willing to aid you, \nHe will carry you through. ",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "A LITTLE TALK",
+      "id": 345,
       "songId": 249,
-      "chorus": "A little talk with Jesus makes it right, all right; A little talk with  Jesus makes it right, all right; In trials of every kind, praise God, I always find A little talk with Jesus makes it right, all right.",
+      "chorus": "A little talk with \nJesus makes it right, all right; \nA little talk with  \nJesus makes it right, all right; \nIn trials of every kind, \npraise God, I always find \nA little talk with \nJesus makes it right, all right.",
       "key": "E♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "CHEER UP YE SAINTS OF GOD",
+      "id": 346,
       "songId": 250,
-      "chorus": "Cheer up ye saints of God, There's nothing to worry about; Nothing to make you feel afraid, Nothing to make you doubt; Remember Jesus saves you; So why not trust him and shout, You'll be sorry you worried at all, tomorrow morning.",
+      "chorus": "Cheer up ye saints of God, \nThere's nothing to worry about; \nNothing to make you feel afraid, \nNothing to make you doubt; \nRemember Jesus saves you; \nSo why not trust him and shout, \nYou'll be sorry you worried at all, tomorrow \nmorning.",
       "key": "B♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "HE’S EVERYTHING TO ME,",
+      "id": 347,
       "songId": 251,
-      "chorus": "He’s everything to me, From sin He sets me free, His peace and love my portion Through all eternity! He’s everything to me,More than I dreamed could be. O praise His name forever! He’s everything to me.",
+      "chorus": "He’s everything to me, \nFrom sin He sets me free, \nHis peace and love my portion \nThrough all eternity! \nHe’s everything to me,More than I dreamed \ncould be. \nO praise His name forever! \nHe’s everything to me.",
       "key": "E♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "DRAW ME NEARER",
+      "id": 348,
       "songId": 252,
-      "chorus": "Draw me nearer, nearer blessed Lord, To the cross where Thou hast died; Draw me nearer, nearer, Nearer blessed Lord, To Thy precious, bleeding side.",
+      "chorus": "Draw me nearer, nearer blessed Lord, \nTo the cross where Thou hast died; \nDraw me nearer, nearer, \nNearer blessed Lord, \nTo Thy precious, bleeding side.",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "HE’S COMING SOON",
+      "id": 349,
       "songId": 253,
-      "chorus": "He’s coming soon, He’s coming soon; With joy we welcome His returning; It may be morn, it may be night or noon— We know He’s coming soon.",
+      "chorus": "He’s coming soon, He’s coming soon; \nWith joy we welcome His returning; \nIt may be morn, it may be night or noon— \nWe know He’s coming soon.",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "DWELLING TOGETHER,",
+      "id": 350,
       "songId": 254,
-      "chorus": "Dwelling together, How happy we shall be, Through all eternity, Dwelling together; My Lord and I.",
+      "chorus": "Dwelling together, \nHow happy we shall be, \nThrough all eternity, \nDwelling together; \nMy Lord and I.",
       "key": "G major",
       "author": "",
       "enLyrics": []
@@ -3426,541 +3437,608 @@
       "songTitle": "EVERY PROMISE IN THE BOOK",
       "id": 351,
       "songId": 255,
-      "chorus": "Every promise in the book is mine Every promise in the book is mine Every chapter, every verse, every line All are blessings of His love divine Every promise in the book is mine",
+      "chorus": "Every promise in the book is mine \nEvery promise in the book is mine \nEvery chapter, every verse, every line \nAll are blessings of His love divine \nEvery promise in the book is mine",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
-      "songTitle": "FOR GOD SO LOVED THE WORLD ",
+      "songTitle": "FOR GOD SO LOVED THE WORLD",
+      "id": 352,
       "songId": 256,
-      "chorus": "For God so loved the world He gave his only son To die on Calvary’s tree From sin to set me free Someday He's coming back What glory it will be Wonderful His love for me",
+      "chorus": "For God so loved the world \nHe gave his only son To die on \nCalvary’s tree From sin to set me free \nSomeday He's coming back \nWhat glory it will be \nWonderful His love for me",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "GIVE ME OIL IN MY LAMP",
+      "id": 353,
       "songId": 257,
-      "chorus": "Give me oil in my lamp, oil in my lamp Oil in my lamp I pray, Give me oil in my lamp, keep me shining in the camp Until the break of day.",
+      "chorus": "Give me oil in my lamp, oil in my lamp \nOil in my lamp I pray, \nGive me oil in my lamp, \nkeep me shining in the camp \nUntil the break of day.",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "FOLLOWING JESUS,",
+      "id": 354,
       "songId": 258,
-      "chorus": "Following Jesus, ever day by day, Nothing can harm me When He leads the way; Sunshine or shadow, whate’er befall, Jesus my Savior is my All in All.",
+      "chorus": "Following Jesus, ever day by day, \nNothing can harm me \nWhen He leads the way; \nSunshine or shadow, whate’er befall, \nJesus my Savior is my All in All.",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "HEAVENLY SUNSHINE",
+      "id": 355,
       "songId": 259,
-      "chorus": "Heavenly sunshine, heavenly sunshine Flooding my soul with glory Divine, Heavenly sunshine, heavenly sunshine Hallelujah! Jesus is mine!",
+      "chorus": "Heavenly sunshine, heavenly sunshine \nFlooding my soul with glory Divine, \nHeavenly sunshine, heavenly sunshine \nHallelujah! Jesus is mine!",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "HE TOOK MY SINS AWAY",
+      "id": 356,
       "songId": 260,
-      "chorus": "He took my sins away, He took my sins away, And keeps me singing every day! I’m so glad He took my sins away. He took my sins away.",
+      "chorus": "He took my sins away, \nHe took my sins away, \nAnd keeps me singing every day! \nI’m so glad He took my sins away. \nHe took my sins away.",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "YESTERDAY, TODAY, FOREVER",
+      "id": 357,
       "songId": 261,
-      "chorus": "Yesterday, today, forever, Jesus is the same, All may change, but Jesus never—glory to His name! Glory to His name! Glory to His name! All may change, but Jesus never—glory to His name!",
+      "chorus": "Yesterday, today, forever, \nJesus is the same, \nAll may change, but Jesus never—glory to \nHis name! \nGlory to His name! Glory to His name! \nAll may change, but Jesus never—glory to \nHis name!",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "IT IS MINE, MINE",
+      "id": 358,
       "songId": 262,
-      "chorus": "It is mine, mine, blessed be His Name! He has given peace, perfect peace to me; It is mine, mine, blessed be His Name! Mine for all eternity!",
+      "chorus": "It is mine, mine, blessed be His Name! \nHe has given peace, perfect peace to me; \nIt is mine, mine, blessed be His Name! \nMine for all eternity!",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "HAVE THY WAY,",
+      "id": 359,
       "songId": 263,
-      "chorus": "Have Thy way, Lord, have Thy way, This with all my heart I say; I’ll obey Thee, come what may; Dear Lord, have Thy way.",
+      "chorus": "Have Thy way, Lord, have Thy way, \nThis with all my heart I say; \nI’ll obey Thee, come what may; \nDear Lord, have Thy way.",
       "key": "Eb Major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "THE B-I-B-L-E",
+      "id": 360,
       "songId": 264,
-      "chorus": "The B-I-B-L-E, yeah that's the book for me I stand alone on the word of God The B-I-B-L-E",
+      "chorus": "The B-I-B-L-E, yeah that's the book for me \nI stand alone on the word of God \nThe B-I-B-L-E",
       "key": "B major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I love Him, I love Him,",
+      "id": 361,
       "songId": 265,
-      "chorus": "I love Him, I love Him, Because He first loved me, And purchased my salvation On Calvary’s tree.",
+      "chorus": "I love Him, I love Him, \nBecause He first loved me, \nAnd purchased my salvation \nOn Calvary’s tree.",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "IF YOU WANT JOY",
+      "id": 362,
       "songId": 266,
-      "chorus": "If You Want Joy, If you want joy, real joy, Wonderful joy, Let Jesus come into your heart. If you want joy, real joy, Wonderful joy, Let Jesus come into your heart. Your sins he’ll wash away (2x) Your life he’ll make it over anew. If you want joy, real joy, Wonderful joy, Let Jesus come into your heart.",
+      "chorus": "If You Want Joy, \nIf you want joy, real joy, Wonderful joy, \nLet Jesus come into your heart. \nIf you want joy, real joy, Wonderful joy, \nLet Jesus come into your heart. \nYour sins he’ll wash away (2x) \nYour life he’ll make it over anew. \nIf you want joy, real joy, Wonderful joy, \nLet Jesus come into your heart.",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I'M SO HAPPY",
+      "id": 363,
       "songId": 267,
-      "chorus": "I'm so happy and here's the reason why Jesus took my burden all away; Now I'm singing as the days go by, Jesus took my burden all away. Once my heart was heavy with a load of sin, Jesus took the load And gave me peace within; Now I'm happy and here's the reason why, Jesus took my burden all away.",
+      "chorus": "I'm so happy and here's the reason why \nJesus took my burden all away; \nNow I'm singing as the days go by, \nJesus took my burden all away. \nOnce my heart was heavy \nwith a load of sin, \nJesus took the load \nAnd gave me peace within; \nNow I'm happy and here's the reason why, \nJesus took my burden all away.",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "IT WILL BE WORTH IT ALL",
+      "id": 364,
       "songId": 268,
-      "chorus": "It will be worth it all when we see Jesus! Life’s trials will seem so small When we see Christ. One glimpse of his dear face, All sorrow will erase. So, bravely run the race? Till we see Christ.",
+      "chorus": "It will be worth it all when we see Jesus! \nLife’s trials will seem so small \nWhen we see Christ. \nOne glimpse of his dear face, \nAll sorrow will erase. \nSo, bravely run the race? \nTill we see Christ.",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I'M GOING TO WORK",
+      "id": 365,
       "songId": 269,
-      "chorus": "I'm going to work and watch and pray I'm going to serve Him everyday I'm going to see His face in glory by and by I'm going to listen to His voice I'm going to make His will my choice I'm going to rise to meet Him in the morning",
+      "chorus": "I'm going to work and watch and pray \nI'm going to serve Him everyday \nI'm going to see \nHis face in glory by and by \nI'm going to listen to His voice \nI'm going to make His will my choice \nI'm going to rise to meet \nHim in the morning",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I LOVE HIM BECAUSE",
+      "id": 366,
       "songId": 270,
-      "chorus": "I love Him because He first loved me, He first loved me, He first loved me; I love Him because He first loved me, And died on the cross of Calvary.",
+      "chorus": "I love Him because He first loved me, \nHe first loved me, He first loved me; \nI love Him because He first loved me, \nAnd died on the cross of Calvary.",
       "key": "F Major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "IT IS JOY UNSPEAKABLE",
+      "id": 367,
       "songId": 271,
-      "chorus": "It is joy unspeakable and full of glory, Full of glory, full of glory; It is joy unspeakable and full of glory, Oh, the half has never yet been told.",
+      "chorus": "It is joy unspeakable and full of glory, \nFull of glory, full of glory; \nIt is joy unspeakable and full of glory, \nOh, the half has never yet been told.",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "IN MY FATHER’S HOUSE",
+      "id": 368,
       "songId": 272,
-      "chorus": "Oh, come and go with me to my Father's house, To my Father's house, To my Father's house. Oh, come and go with Me to my Father's house; Where there’s peace, sweet peace!",
+      "chorus": "Oh, come and go with \nme to my Father's house, \nTo my Father's house, \nTo my Father's house. \nOh, come and go with \nMe to my Father's house; \nWhere there’s peace, sweet peace!",
       "key": "E♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "IN MY HEART THERE",
+      "id": 369,
       "songId": 273,
-      "chorus": "In my heart there rings a melody, There rings a melody With heaven's harmony; In my heart there rings a melody, There rings a melody of love.",
+      "chorus": "In my heart there rings a melody, \nThere rings a melody \nWith heaven's harmony; \nIn my heart there rings a melody, \nThere rings a melody of love.",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I SHALL KNOW HIM,",
+      "id": 370,
       "songId": 274,
-      "chorus": "I shall know Him, I shall know Him, And redeemed by His side I shall stand, I shall know Him, I shall know Him, By the print of the nails in His hands.",
+      "chorus": "I shall know Him, I shall know Him, \nAnd redeemed by His side I shall stand, \nI shall know Him, I shall know Him, \nBy the print of the nails in His hands.",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I'LL TAKE JESUS FOR MINE,",
+      "id": 371,
       "songId": 275,
-      "chorus": "I'll take Jesus for mine, I'll take Jesus for mine, You may have the whole wide world, But I'll take Jesus for mine.",
+      "chorus": "I'll take Jesus for mine, \nI'll take Jesus for mine, \nYou may have the whole wide world, \nBut I'll take Jesus for mine.",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I AM SO GLAD I BELONG",
+      "id": 372,
       "songId": 276,
-      "chorus": "I am So Glad I Belong to Jesus (2x) Halleluiah Praise the Lord Praise the Lord, Amen, Amen! (6X) Halleluiah Praise the Lord",
+      "chorus": "I am So Glad I Belong to Jesus (2x) \nHalleluiah Praise the Lord \nPraise the Lord, Amen, Amen! (6X) \nHalleluiah Praise the Lord",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JESUS IS REAL TO ME",
+      "id": 373,
       "songId": 277,
-      "chorus": "Jesus is real to me, yes, Jesus is real to me. I never will doubt Him For He is so real to me",
+      "chorus": "Jesus is real to me, yes, \nJesus is real to me. \nI never will doubt Him \nFor He is so real to me",
       "key": "A♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JESUS NEVER FAILS",
+      "id": 374,
       "songId": 278,
-      "chorus": "Jesus never fails, Jesus never fails, Heaven and earth may pass away But Jesus never fails",
+      "chorus": "Jesus never fails, \nJesus never fails, \nHeaven and earth may pass away \nBut Jesus never fails",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JESUS IS THE ONE",
+      "id": 375,
       "songId": 279,
-      "chorus": "Jesus is the One, He's the only One, Let Him have His way until the day is done; When He speaks you know, Clouds will have to go, Just because He loves you so.",
+      "chorus": "Jesus is the One, He's the only One, \nLet Him have His way \nuntil the day is done; \nWhen He speaks you know, \nClouds will have to go, \nJust because He loves you so.",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JESUS IS THE ONLY SAVIOR",
+      "id": 376,
       "songId": 280,
-      "chorus": "Loud let the echoes ring Jesus is the mighty Healer Gladly the message bring Jesus is the great baptizer, Glory Hallelujah, sing And we rejoice for He’s our coming King",
+      "chorus": "Jesus is the only Savior \nLoud let the echoes ring \nJesus is the mighty Healer \nGladly the message bring \nJesus is the great baptizer, Glory \nHallelujah, sing \nAnd we rejoice for He’s our coming King",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JESUS BREAKS EVERY FETTER",
+      "id": 377,
       "songId": 281,
-      "chorus": "Jesus Breaks Every Fetter Jesus Breaks Every Fetter Jesus Breaks Every Fetter And He sets me free Jesus died to redeem you, etc I will shout Hallelujah, etc",
+      "chorus": "Jesus Breaks Every Fetter \nJesus Breaks Every Fetter \nJesus Breaks Every Fetter \nAnd He sets me free \nJesus died to redeem you, etc \nI will shout Hallelujah, etc",
       "key": "B ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JESUS GAVE HER WATER",
+      "id": 378,
       "songId": 282,
-      "chorus": "Jesus gave her water that wasn't from the well Jesus gave her water that wasn't from the well She went away singing and came back bringing Others to the water that wasn’t from the well",
+      "chorus": "Jesus gave her water \nthat wasn't from the well \nJesus gave her water \nthat wasn't from the well \nShe went away singing \nand came back bringing \nOthers to the water \nthat wasn’t from the well",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "LORD SEND A REVIVAL",
+      "id": 379,
       "songId": 283,
-      "chorus": "Lord send a revival Lord send a revival Lord send a revival And let it begin in me",
+      "chorus": "Lord send a revival \nLord send a revival \nLord send a revival \nAnd let it begin in me",
       "key": "B ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JOY, JOY, I HAVE FOUND JOY",
+      "id": 380,
       "songId": 284,
-      "chorus": "Joy, joy, I have found joy Joy, joy, I have found joy I’ll sing and shout it Tell others about it Till no one can doubt it That I have found joy",
+      "chorus": "Joy, joy, I have found joy \nJoy, joy, I have found joy \nI’ll sing and shout it \nTell others about it \nTill no one can doubt it \nThat I have found joy",
       "key": "A ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "KEEP ME TRUE",
+      "id": 381,
       "songId": 285,
-      "chorus": "Keep me true. Lord Jesus, Keep me true Keep me true. Lord Jesus, keep me true There's a race that I must run There are victories to be won Give me power, every hour, to be true",
+      "chorus": "Keep me true. Lord Jesus, \nKeep me true Keep me true. \nLord Jesus, keep me true \nThere's a race that I must run \nThere are victories to be won \nGive me power, every hour, to be true",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "LET THE BEAUTY OF JESUS",
+      "id": 382,
       "songId": 286,
-      "chorus": "Let the beauty of Jesus be seen in me, All His wonderful passion and purity; O my Savior divine, All my being refine, Till the beauty of Jesus be seen in me.",
+      "chorus": "Let the beauty of Jesus be seen in me, \nAll His wonderful passion and purity; \nO my Savior divine, All my being refine, \nTill the beauty of Jesus be seen in me.",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "JESUS IS THE SWEETEST",
+      "id": 383,
       "songId": 287,
-      "chorus": "Jesus is the sweetest name I know, And He’s just the same as His lovely name, And that’s the reason why I love Him so; For Jesus is the sweetest name I know.",
+      "chorus": "Jesus is the sweetest name I know, \nAnd He’s just the same as \nHis lovely name, \nAnd that’s the reason why I love Him so; \nFor Jesus is the sweetest name I know.",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "LORD, I BELIEVE ",
+      "id": 384,
       "songId": 288,
-      "chorus": "Lord, I believe, Lord, I believe! Savior, raise my faith in Thee, Till it can move a mountain; Lord, I believe, Lord, I believe! All my doubts are buried in the fountain.",
+      "chorus": "Lord, I believe, Lord, I believe! \nSavior, raise my faith in Thee, \nTill it can move a mountain; \nLord, I believe, Lord, I believe! \nAll my doubts are buried in the fountain.",
       "key": "B ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "SINCE JESUS CAME",
+      "id": 385,
       "songId": 289,
-      "chorus": "Since Jesus came into my heart, Since Jesus came into my heart; Floods of joy o’er my soul Like the sea billows roll, Since Jesus came into my heart.",
+      "chorus": "Since Jesus came into my heart, \nSince Jesus came into my heart; \nFloods of joy o’er my soul \nLike the sea billows roll, \nSince Jesus came into my heart.",
       "key": " B ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "NEVER FAILED ME YET",
+      "id": 386,
       "songId": 290,
-      "chorus": "Never failed me yet, never failed me yet Jesus’ love has never failed me yet There’s one thing I know; Everywhere I go Jesus’ love has never failed me yet.",
+      "chorus": "Never failed me yet, never failed me yet \nJesus’ love has never failed me yet \nThere’s one thing I know; Everywhere I go \nJesus’ love has never failed me yet.",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "MY JESUS, I LOVE THEE",
+      "id": 387,
       "songId": 291,
-      "chorus": "My Jesus, I love Thee, I know Thou art mine; For Thee all the follies of sin I resign; My gracious Redeemer, my Savior art Thou; If ever I loved Thee, my Jesus, ’tis now.",
+      "chorus": "My Jesus, I love Thee, \nI know Thou art mine; \nFor Thee all the follies of sin I resign; \nMy gracious Redeemer, my Savior art Thou; \nIf ever I loved Thee, my Jesus, ’tis now.",
       "key": "A / B major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "O LORD, SEND",
+      "id": 388,
       "songId": 292,
-      "chorus": "O Lord, send the power just now, O Lord, send the power just now; O Lord, send the power just now And baptize every one.",
+      "chorus": "O Lord, send the power just now, \nO Lord, send the power just now; \nO Lord, send the power just now \nAnd baptize every one.",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "ONLY JESUS! ONLY JESUS!",
+      "id": 389,
       "songId": 293,
-      "chorus": "Only Jesus! Only Jesus! Only He can satisfy; Every burden becomes a blessing, When I know my Lord is nigh.",
+      "chorus": "Only Jesus! Only Jesus! \nOnly He can satisfy; \nEvery burden becomes a blessing, \nWhen I know my Lord is nigh.",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "O HOLY GHOST",
+      "id": 390,
       "songId": 294,
-      "chorus": "O Holy Ghost, revival comes from Thee; Send a revival, start the work in me; Thy Word declares Thou wilt supply our need; For blessings now, O Lord, I humbly plead.",
+      "chorus": "O Holy Ghost, revival comes from Thee; \nSend a revival, start the work in me; \nThy Word declares \nThou wilt supply our need; \nFor blessings now, \nO Lord, I humbly plead.",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "OH IT IS JESUS",
+      "id": 391,
       "songId": 295,
-      "chorus": "Oh it is Jesus, oh it is Jesus, Oh it's Jesus in my soul; for I have touched the hem of His garment, And His blood hath made me whole.",
+      "chorus": "Oh it is Jesus, oh it is Jesus, \nOh it's Jesus in my soul; \nfor I have touched the hem of His garment, \nAnd His blood hath made me whole.",
       "key": "A ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "ROLLED AWAY,",
+      "id": 392,
       "songId": 296,
-      "chorus": "Rolled away, rolled away, rolled away Every burden on my heart rolled away Rolled away, rolled away, rolled away Every burden on my heart rolled away All my sin had to go, 'Neath the crimson flow.. Rolled away, rolled away, rolled away Every burden on my heart rolled",
+      "chorus": "Rolled away, rolled away, rolled away \nEvery burden on my heart rolled away \nRolled away, rolled away, rolled away \nEvery burden on my heart rolled away \nAll my sin had to go, \n'Neath the crimson flow.. \nRolled away, rolled away, rolled away \nEvery burden on my heart rolled",
       "key": "B ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "SAFE AM I,",
+      "id": 393,
       "songId": 297,
-      "chorus": "Safe am I, safe am I, In the hollow of His hands, Sheltered o'er, sheltered o'er With His love for evermore No ill can harm me, No foe alarm me, For He keeps both day and night. Safe am I, safe am I, In the hollow of his hands.",
+      "chorus": "Safe am I, safe am I, \nIn the hollow of His hands, \nSheltered o'er, sheltered o'er \nWith His love for evermore \nNo ill can harm me, No foe alarm me, \nFor He keeps both day and night. \nSafe am I, safe am I, \nIn the hollow of his hands.",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "SUNLIGHT, SUNLIGHT",
+      "id": 394,
       "songId": 298,
-      "chorus": "Sunlight, sunlight in my soul today, Sunlight, sunlight all along the way; Since the Savior found me, Took away my sin, I have had the sunlight of His love within.",
+      "chorus": "Sunlight, sunlight in my soul today, \nSunlight, sunlight all along the way; \nSince the Savior found me, \nTook away my sin, \nI have had the sunlight of His love within.",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "WHEN THE SAINTS",
+      "id": 395,
       "songId": 299,
-      "chorus": "When the saints go marching in When the saints go marching in Lord I want to be in that number When the saints go marching in",
+      "chorus": "When the saints go marching in \nWhen the saints go marching in \nLord I want to be in that number \nWhen the saints go marching in",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "THIS OLD WORLD",
+      "id": 396,
       "songId": 300,
-      "chorus": "This old world, can never hold me. Anymore, and I'll be gone. For I've made, my reservations. And I'll have my wedding garments on.",
+      "chorus": "This old world, can never hold me. \nAnymore, and I'll be gone. \nFor I've made, my reservations. \nAnd I'll have my wedding garments on.",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "OH, THIS IS LIKE HEAVEN",
+      "id": 397,
       "songId": 301,
-      "chorus": "Oh, this is like Heaven to me, Yes, this is like Heaven to me; I’ve crossed over Jordan To Canaan’s fair land, And this is like Heaven to me.",
+      "chorus": "Oh, this is like Heaven to me, \nYes, this is like Heaven to me; \nI’ve crossed over Jordan \nTo Canaan’s fair land, \nAnd this is like Heaven to me.",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "THE BEST FRIEND TO HAVE",
+      "id": 398,
       "songId": 302,
-      "chorus": "The best friend to have is Jesus, The best friend to have is Jesus, He will help you when you fall, He will hear you when you call; Oh, the best friend to have is Jesus.",
+      "chorus": "The best friend to have is Jesus, \nThe best friend to have is Jesus, \nHe will help you when you fall, \nHe will hear you when you call; \nOh, the best friend to have is Jesus.",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "VICTORY IN JESUS",
+      "id": 399,
       "songId": 303,
-      "chorus": "Victory in Jesus, My Savior, forever. He sought me and bought me With His redeeming blood; He loved me ere I knew Him And all my love is due Him, He plunged me to victory, Beneath the cleansing flood.",
+      "chorus": "Victory in Jesus, My Savior, forever. \nHe sought me and bought me \nWith His redeeming blood; \nHe loved me ere I knew Him \nAnd all my love is due Him, \nHe plunged me to victory, \nBeneath the cleansing flood.",
       "key": "A major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "TO BE LIKE JESUS",
+      "id": 400,
       "songId": 304,
-      "chorus": "To be like Jesus To be like Jesus All I ask - to be like Him All through life's journey From earth to glory, All I ask - to be like Him.",
+      "chorus": "To be like Jesus \nTo be like Jesus \nAll I ask - to be like Him \nAll through life's journey \nFrom earth to glory, \nAll I ask - to be like Him.",
       "key": "E major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "TIS HEAVEN",
+      "id": 401,
       "songId": 305,
-      "chorus": "‘Tis heaven O hallelujah, yes, 'tis Heav'n, 'Tis Heav'n to know my sins forgiven; On land or sea, what matters where? Where Jesus is, 'Tis Heaven there.",
+      "chorus": "‘Tis heaven \nO hallelujah, yes, 'tis Heav'n, \n'Tis Heav'n to know my sins forgiven; \nOn land or sea, what matters where? \nWhere Jesus is, \n'Tis Heaven there.",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "WHOSOEVER WILL",
+      "id": 402,
       "songId": 306,
-      "chorus": "Whosoever will to the Lord may come, Whosoever will to the Lord may come, Whosoever will to the Lord may come, He'll not turn one away. Jesus (Jesus) Jesus (Jesus) Heals the broken hearted.3x He will set you free.",
+      "chorus": "Whosoever will to the Lord may come, \nWhosoever will to the Lord may come, \nWhosoever will to the Lord may come, \nHe'll not turn one away. \nJesus (Jesus) Jesus (Jesus) \nHeals the broken hearted.3x \nHe will set you free.",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "WE'RE SAVED, SAVED TO TELL",
+      "id": 403,
       "songId": 307,
-      "chorus": "We're Saved, Saved to tell others of the Man of Galilee. Saved, Saved to live Daily for the Christ of Calvary. Saved, Saved to invite You to His salvation free. Thank you, Lord, for saving my soul Thank you, Lord, for making me whole Thank you, Lord, for giving to me Thy great salvation so rich and free We're Saved, Saved, Saved By His blood for all eternity",
+      "chorus": "We're Saved, Saved to tell others of the \nMan of Galilee. \nSaved, Saved to live \nDaily for the Christ of Calvary. \nSaved, Saved to invite \nYou to His salvation free. \nThank you, Lord, for saving my soul \nThank you, Lord, for making me whole \nThank you, Lord, for giving to me \nThy great salvation so rich and free We're \nSaved, Saved, Saved \nBy His blood for all eternity",
       "key": "B ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "THE BIRDS UPON THE TREE",
+      "id": 404,
       "songId": 308,
-      "chorus": "The birds upon the Tree tops sing their song; The angels chant their chorus all day long; The flowers in the garden blend their hue, So why shouldn’t I, Why shouldn’t you praise Him too?",
+      "chorus": "The birds upon the \nTree tops sing their song; \nThe angels chant \ntheir chorus all day long; \nThe flowers in the garden blend their hue, \nSo why shouldn’t I, \nWhy shouldn’t you praise Him too?",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "THE MORE WE PULL TOGETHER",
+      "id": 405,
       "songId": 309,
-      "chorus": "The more we pull together, Together, together The more we pull together For your work is my work, And our work is God’s work The more we pull together, The happier we'll be",
+      "chorus": "The more we pull together, \nTogether, together \nThe more we pull together \nFor your work is my work, \nAnd our work is God’s work \nThe more we pull together, \nThe happier we'll be",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "THIS LITTLE LIGHT OF MINE",
+      "id": 406,
       "songId": 310,
-      "chorus": "This little light of mine, I'm gonna let it shine This little light of mine, I'm gonna let it shine This little light of mine, I'm gonna let it shine Let it shine, shine, shine Let it shine!",
+      "chorus": "This little light of mine, \nI'm gonna let it shine \nThis little light of mine, \nI'm gonna let it shine \nThis little light of mine, \nI'm gonna let it shine \nLet it shine, shine, shine \nLet it shine!",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "WE'RE GOING TO A MANSION",
+      "id": 407,
       "songId": 311,
-      "chorus": "We're going to a mansion On the Happy Day Express The letters on the engine spell J E S U S The guard calls all for heaven We gladly answer Yes We're going to the mansion, On the Happy Day Express",
+      "chorus": "We're going to a mansion \nOn the Happy Day Express \nThe letters on the engine spell J E S U S \nThe guard calls all for heaven \nWe gladly answer Yes \nWe're going to the mansion, \nOn the Happy Day Express",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I HAVE A WONDERFUL TREASURE",
+      "id": 408,
       "songId": 312,
-      "chorus": "I have a wonderful treasure; The gift of God without measure; We will travel together; My Bible and I.",
+      "chorus": "I have a wonderful treasure; \nThe gift of God without measure; \nWe will travel together; \nMy Bible and I.",
       "key": "A major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "SINCE JESUS CAME INTO OUR TOWN",
+      "id": 409,
       "songId": 313,
-      "chorus": "Since Jesus came into our town, The devil's been wearing a frown Many lives have been changed Many homes rearranged, Since Jesus came into our town",
+      "chorus": "Since Jesus came into our town, \nThe devil's been wearing a frown \nMany lives have been changed \nMany homes rearranged, \nSince Jesus came into our town",
       "key": "E major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I WILL MAKE YOU",
+      "id": 410,
       "songId": 314,
-      "chorus": "I will make you fishers of men, Fishers of men, fishers of men. I will make you fishers of men, If you follow Me. If you follow Me (2x) I will make you fishers of men, If you follow Me.",
+      "chorus": "I will make you fishers of men, \nFishers of men, fishers of men. \nI will make you fishers of men, \nIf you follow Me. \nIf you follow Me (2x) \nI will make you fishers of men, \nIf you follow Me.",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "ZACCHAEUS",
+      "id": 411,
       "songId": 315,
-      "chorus": "Zacchaeus was a wee little man And a wee little man was he He climbed up in a sycamore tree the Saviour for to see And as the Savior passed that way He looked up in the tree And said, Zacchaeus, please come down! I'm going to your house for tea",
+      "chorus": "Zacchaeus was a wee little man \nAnd a wee little man was he \nHe climbed up in a sycamore tree \nthe Saviour for to see \nAnd as the Savior passed that way \nHe looked up in the tree \nAnd said, Zacchaeus, please come down! \nI'm going to your house for tea",
       "key": "E ♭ major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "ALL OF MY BURDENS",
+      "id": 412,
       "songId": 316,
-      "chorus": "All of my burdens went rolling away. Rolling away, rolling away. All of my burdens went rolling away. Down at the Saviour's Cross",
+      "chorus": "All of my burdens went rolling away. \nRolling away, rolling away. \nAll of my burdens went rolling away. \nDown at the Saviour's Cross",
       "key": "G major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "WE ARE ABLE TO GO UP",
+      "id": 413,
       "songId": 317,
-      "chorus": "We are able to go up and take the country, And possess the land From Jordan to the sea; And, though giants tall Be there our way to hinder, God will surely give the victory.",
+      "chorus": "We are able to go up and take the country, \nAnd possess the land \nFrom Jordan to the sea; \nAnd, though giants tall \nBe there our way to hinder, \nGod will surely give the victory.",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "I'M WALKING ARM IN ARM",
+      "id": 414,
       "songId": 318,
-      "chorus": "I'm walking arm in arm with Jesus I'm trusting Him to lead the way. I know that if I always cling to Him He'll never let me go astray.",
+      "chorus": "I'm walking arm in arm with Jesus \nI'm trusting Him to lead the way. \nI know that if I always cling to Him \nHe'll never let me go astray.",
       "key": "E major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "RUNNING OVER",
+      "id": 415,
       "songId": 319,
-      "chorus": "Running over, running over My cup is full and running over Since the Lord saved me, I’m as happy as can be My cup is full and running over",
+      "chorus": "Running over, running over \nMy cup is full and running over \nSince the Lord saved me, \nI’m as happy as can be \nMy cup is full and running over",
       "key": "C major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "O, I’M TRAVELLING",
+      "id": 416,
       "songId": 320,
-      "chorus": "O, I’m travelling on the Hallelujah line On the good old Gospel train (choo choo) I’m on the right track, And never will go back To the station of sin again I need no fare I’m riding on a Pass ‘Tis the blood for sinners slain O, I’m travelling on the Hallelujah line On the good old Gospel train (choo choo)",
+      "chorus": "O, I’m travelling on the Hallelujah line \nOn the good old Gospel train (choo choo) \nI’m on the right track, \nAnd never will go back \nTo the station of sin again \nI need no fare I’m riding on a Pass \n‘Tis the blood for sinners slain \nO, I’m travelling on the Hallelujah line \nOn the good old Gospel train (choo choo)",
       "key": "F major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "IT’S THE OLD TIME RELIGION",
+      "id": 417,
       "songId": 321,
-      "chorus": "It’s the old time religion It’s the old time religion It’s the old time religion And it's good enough for me I'm walking arm in arm with Jesus",
+      "chorus": "It’s the old time religion \nIt’s the old time religion \nIt’s the old time religion \nAnd it's good enough for me \nI'm walking arm in arm with Jesus",
       "key": "D major",
       "author": "",
       "enLyrics": []
     },
     {
       "songTitle": "COME, LET US ALL UNITE TO SING",
+      "id": 418,
       "songId": 322,
       "chorus": "God is love! God is love! Come, let us all unite to sing that God is love.",
       "key": "E♭ major",

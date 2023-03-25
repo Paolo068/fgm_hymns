@@ -2935,477 +2935,516 @@
       "key": "Mi♭ majeur",
       "author": "Paul Kyle (1980), Don Moen, Rivers of Joy (1995)",
       "enLyrics": [
-        "Jésus, nous te couronnons, Nous te proclamons Roi. Présent au milieu de nous, Nous t'élevons par nos chants. Nous t'adorons, nous t'exaltons, Viens établir ton trône éternel, Par nos louanges, nous t'invitons. Viens Jésus, prends la place du Roi!",
-        "JESUS, WE ENTHRONE YOU We proclaim you are king Standing here, in the midst of above We raise you with our praise And as we worship fill the throne X3 Come lord Jesus and take your place"
+        "Jésus, nous te couronnons, \nNous te proclamons Roi. \nPrésent au milieu de nous, \nNous t'élevons par nos chants. \nNous t'adorons, nous t'exaltons, \nViens établir ton trône éternel, \nPar nos louanges, nous t'invitons. \nViens Jésus, prends la place du Roi!",
+        "JESUS, WE ENTHRONE YOU \nWe proclaim you are king \nStanding here, in the midst of above \nWe raise you with our praise \nAnd as we worship fill the throne X3 \nCome lord Jesus and take your place"
       ]
     },
     {
       "songTitle": "SAINT, SAINT, SAINT",
       "id": 302,
       "songId": 213,
-      "chorus": "Hosanna, Hosanna, dans les lieux très hauts ! Verse",
+      "chorus": "Hosanna, \nHosanna, dans les lieux très hauts ! Verse",
       "key": "La mineur",
       "author": "Peter Scholtes (199O)",
       "enLyrics": [
-        "Couplet Saint, saint, saint est le Seigneur, Dieu puissant et fort, La terre et les cieux Sont remplis de sa gloire.",
-        "oly, holy, holy Lord God of power and might Heaven and earth are filled with your glory Chorus Hosanna Hosanna In the highest"
+        "Couplet \nSaint, saint, saint est le Seigneur, \nDieu puissant et fort, \nLa terre et les cieux \nSont remplis de sa gloire.",
+        "Holy, holy, holy Lord \nGod of power and might \nHeaven and earth are filled with your glory Chorus \nHosanna \nHosanna In the highest"
       ]
     },
     {
       "songTitle": "JE SUIVRAI MON SEIGNEUR",
+      "id": 303,
       "songId": 214,
       "chorus": "",
       "key": "JE SUIVRAI MON SEIGNEUR",
       "author": "Chris Christensen et Thierry Ostrini (2000)",
       "enLyrics": [
-        "Je suivrai mon Seigneur, et mon Maître Sans jamais m'éloigner de Ses pas Sans que rien ici-bas ne m'arrête Et sans rien que le chant de Sa voix",
-        "Je vivrai de bonheur, et de grâce De l'amour que Son cœur m'a donné Et que rien ici-bas ne l'efface C'est le vœu de mon âme assoiffée",
-        "Un seul instant auprès de Toi Vaut bien les heures et la route Tout, pour autant, Que ce soit Toi Qui m'accompagne, au parvis de Ta joie"
+        "Je suivrai mon Seigneur, et mon Maître \nSans jamais m'éloigner de Ses pas \nSans que rien ici-bas ne m'arrête \nEt sans rien que le chant de Sa voix",
+        "Je vivrai de bonheur, et de grâce \nDe l'amour que Son cœur m'a donné \nEt que rien ici-bas ne l'efface \nC'est le vœu de mon âme assoiffée",
+        "Un seul instant auprès de Toi \nVaut bien les heures et la route \nTout, pour autant, Que ce soit Toi \nQui m'accompagne, au parvis de Ta joie"
       ]
     },
     {
       "songTitle": "DIGNE ES-TU, AGNEAU DE DIEU",
+      "id": 304,
       "songId": 215,
-      "chorus": "Dieu de gloire, Je t'adore, Ton nom s'élève en majesté. De mes lèvres, Je célèbre Ta victoire, ton règne, Ton autorité.",
+      "chorus": "Dieu de gloire, Je t'adore, \nTon nom s'élève en majesté. \nDe mes lèvres, Je célèbre \nTa victoire, ton règne, \nTon autorité.",
       "key": "Ré♭ majeur",
       "author": "Chris Christensen (2000)",
       "enLyrics": [
-        "Digne es-tu, Agneau de Dieu, Digne es-tu, Agneau de Dieu. Tous les anges ensemble acclament La puissance de ton nom. Digne es-tu, Agneau de Dieu. Digne es-tu, Agneau de Dieu. L'univers entier proclame La beauté de ton saint nom."
+        "Digne es-tu, Agneau de Dieu, \nDigne es-tu, Agneau de Dieu. \nTous les anges ensemble acclament \nLa puissance de ton nom. \nDigne es-tu, Agneau de Dieu. \nDigne es-tu, Agneau de Dieu. \nL'univers entier proclame \nLa beauté de ton saint nom."
       ]
     },
     {
       "songTitle": "DANS TES PARVIS",
+      "id": 305,
       "songId": 216,
-      "chorus": "Dans les parvis du Dieu vivant Brille le soleil levant Qui nous remplit de joie devant Les merveilles du Tout Puissant Je sens couler la gloire Je vois tomber tous mes déboires Je sens renaître mes espoirs Je me répands devant mon roi Je suis au cœur de ma victoire Je viens t'adorer dans ce lieu doré Je viens me restaurer Te dire un mot est un bonheur pour moi",
+      "chorus": "Dans les parvis du Dieu vivant \nBrille le soleil levant \nQui nous remplit de joie devant \nLes merveilles du Tout Puissant \nJe sens couler la gloire \nJe vois tomber tous mes déboires \nJe sens renaître mes espoirs \nJe me répands devant mon roi \nJe suis au cœur de ma victoire \nJe viens t'adorer dans ce lieu doré \nJe viens me restaurer \nTe dire un mot est un bonheur pour moi",
       "key": "Mi majeur",
       "author": "Alain Moloto (Adorons l’Eternel)",
       "enLyrics": [
-        "Entre les colonnes, J'avance dans tes parvis Le refrain du cœur céleste me ravit Chargé de louanges au milieu des anges Devant l'ancien des âges Dans les couloirs de la gloire je m'engage",
-        "Rien n'est aussi merveilleux que t'approcher Et m'abreuver au milieu de tes rochers Je viens m'accrocher loin de tout péché Devant la manne cachée Où le torrent de vie ne peut sécher",
-        "Je voudrais célébrer ta magnificence Et venir combler mon cœur dans ta présence Ô c'est plus qu'un rêve que tu réserves A tout ceux qui te servent Je viens Seigneur, puiser dans ta réserve",
-        "Oui je sens couler la vie dans tes parvis Et mon âme ne peut que dire je suis servi Je viens t'adorer dans ce lieu doré Je viens me restaurer Te dire un mot est un bonheur pour moi",
-        "La rosée de ta présence me rassure Et ton amour me libère de mes blessures Je me sens renaître Et tout mon être voudrait reconnaître, En toi Seigneur Jésus le divin maître"
+        "Entre les colonnes, \nJ'avance dans tes parvis \nLe refrain du cœur céleste me ravit \nChargé de louanges au milieu des anges \nDevant l'ancien des âges \nDans les couloirs de la gloire je m'engage",
+        "Rien n'est aussi merveilleux que \nt'approcher \nEt m'abreuver au milieu de tes rochers \nJe viens m'accrocher loin de tout péché \nDevant la manne cachée \nOù le torrent de vie ne peut sécher",
+        "Je voudrais célébrer ta magnificence \nEt venir combler mon cœur dans ta \nprésence \nÔ c'est plus qu'un rêve que tu réserves \nA tout ceux qui te servent \nJe viens Seigneur, puiser dans ta réserve",
+        "Oui je sens couler la vie dans tes parvis \nEt mon âme ne peut que dire je suis servi \nJe viens t'adorer dans ce lieu doré \nJe viens me restaurer \nTe dire un mot est un bonheur pour moi",
+        "La rosée de ta présence me rassure \nEt ton amour me libère de mes blessures \nJe me sens renaître \nEt tout mon être voudrait reconnaître, \nEn toi Seigneur Jésus le divin maître"
       ]
     },
     {
       "songTitle": "JE VEUX N'ETRE QU'A TOI",
+      "id": 306,
       "songId": 217,
-      "chorus": "Rien n'est plus beau que ton Nom Rien n'est plus saint Que le sang du pardon Je veux n'être qu'à toi, Jésus mon Roi.",
+      "chorus": "Rien n'est plus beau que ton Nom \nRien n'est plus saint \nQue le sang du pardon \nJe veux n'être qu'à toi, \nJésus mon Roi.",
       "key": "Do majeur",
       "author": "Chris Christensen et Thierry Ostrini (1997)",
       "enLyrics": [
-        "Reçois de moi le parfum qui t'es dû La beauté de ton Nom en mon âme éperdue Je veux n'être qu'à toi, Jésus je t'aime.",
-        "Reçois du peu que je trouve à donner Tout l'amour que mes yeux n'ont pas su te montrer Je veux n'être qu'à toi, Jésus je t'aime.",
-        "Je ne veux rien que vouloir te louer Adorer ton saint Nom et ta fidélité Je veux n'être qu'à toi, Jésus je t'aime.",
-        "Je veux porter et laver à ta croix Les pensées de mon cœur Dans le cœur de tes voies Je veux n'être qu'à toi, Jésus je t'aime."
+        "Reçois de moi le parfum qui t'es dû \nLa beauté de ton Nom en mon âme éperdue \nJe veux n'être qu'à toi, Jésus je t'aime.",
+        "Reçois du peu que je trouve à donner \nTout l'amour que mes yeux n'ont pas su te \nmontrer \nJe veux n'être qu'à toi, Jésus je t'aime.",
+        "Je ne veux rien que vouloir te louer \nAdorer ton saint Nom et ta fidélité \nJe veux n'être qu'à toi, Jésus je t'aime.",
+        "Je veux porter et laver à ta croix \nLes pensées de mon cœur \nDans le cœur de tes voies \nJe veux n'être qu'à toi, Jésus je t'aime."
       ]
     },
     {
       "songTitle": "REÇOIS L'ADORATION",
+      "id": 307,
       "songId": 218,
-      "chorus": "Reçois l'adoration, Tu es le Roi de gloire, Notre victoire, Digne es-tu Seigneur, Emmanuel.",
+      "chorus": "Reçois l'adoration, \nTu es le Roi de gloire, \nNotre victoire, \nDigne es-tu Seigneur, Emmanuel.",
       "key": "Do majeur",
       "author": "Chris Christensen et Thierry Ostrini (1997)",
       "enLyrics": [
-        "Dieu de lumière élevé dans les cieux, Rempli de grâce et de paix. Environné de louange et de feu, Gardien de l'éternité. Pourquoi quitter ce palais de bonheur Pour un sentier de misère, Par quel amour les chemins de ton cœur Ont su trouver nos prières.",
-        "De cette foi que ton cœur a montré, Je veux puiser mon secours. Sur le chemin que ta vie a tracé Je marcherai chaque jour. Garde mes yeux des attraits de ce monde, Garde-moi près de la croix. En ce lieu saint où mon âme est féconde D'humilité et de joie. Reçois l'adoration, Tu es le Roi de gloire, Notre victoire, Digne es-tu Seigneur, Emmanuel. Emmanuel! Emmanuel! Emmanuel! Emmanuel!"
+        "Dieu de lumière élevé dans les cieux, \nRempli de grâce et de paix. \nEnvironné de louange et de feu, \nGardien de l'éternité. \nPourquoi quitter ce palais de bonheur \nPour un sentier de misère, \nPar quel amour les chemins de ton cœur \nOnt su trouver nos prières.",
+        "De cette foi que ton cœur a montré, \nJe veux puiser mon secours. \nSur le chemin que ta vie a tracé \nJe marcherai chaque jour. \nGarde mes yeux des attraits de ce monde, \nGarde-moi près de la croix. \nEn ce lieu saint où mon âme est féconde \nD'humilité et de joie. \nReçois l'adoration, \nTu es le Roi de gloire, \nNotre victoire, \nDigne es-tu Seigneur, Emmanuel. Emmanuel! Emmanuel! \nEmmanuel! Emmanuel!"
       ]
     },
     {
       "songTitle": "J'AI L'ASSURANCE",
+      "id": 308,
       "songId": 219,
-      "chorus": "C'est mon histoire, c'est là mon chant, Louer mon Sauveur le jour durant. (bis)",
+      "chorus": "C'est mon histoire, c'est là mon chant, \nLouer mon Sauveur le jour durant. (bis)",
       "key": "Ré majeur",
       "author": "Fanny J. Crosby, J.F. Knapp (1872)",
       "enLyrics": [
-        "J'ai l'assurance de mon salut Par la présence du Seigneur Jésus. Son sang m'a lavé, m'a racheté, Et l'Esprit Saint m'a régénéré.",
-        "Parfait repos et parfait bonheur, En toi, mon Sauveur, j'ai la paix du cœur Je veille en attendant ton retour. Je suis comblé, sûr de ton amour!",
-        "C'est mon histoire, c'est là mon chant Louer mon Sauveur le jour durant C'est mon histoire, c'est là mon chant Louer mon Sauveur le jour durant."
+        "J'ai l'assurance de mon salut \nPar la présence du Seigneur Jésus. \nSon sang m'a lavé, m'a racheté, \nEt l'Esprit Saint m'a régénéré.",
+        "Parfait repos et parfait bonheur, \nEn toi, mon Sauveur, j'ai la paix du cœur \nJe veille en attendant ton retour. \nJe suis comblé, sûr de ton amour!",
+        "C'est mon histoire, c'est là mon chant \nLouer mon Sauveur le jour durant \nC'est mon histoire, c'est là mon chant \nLouer mon Sauveur le jour durant."
       ]
     },
     {
       "songTitle": "SI LA MER SE DECHAINE",
+      "id": 309,
       "songId": 220,
-      "chorus": "Il n'a pas dit que tu coulerais Il n'a pas dit que tu sombrerais Il a dit : Allons de l'autre bord, Allons de l'autre bord.",
+      "chorus": "Il n'a pas dit que tu coulerais \nIl n'a pas dit que tu sombrerais \nIl a dit : Allons de l'autre bord, \nAllons de l'autre bord.",
       "key": "Si♭ mineur",
       "author": "Hosanna (2O11)",
       "enLyrics": [
-        "Si la mer se déchaîne, Si le vent souffle fort, Si la barque t'entraîne N'aie pas peur de la mort. (bis)",
-        "Si ton cœur est en peine, Si ton corps est souffrant Crois en Jésus il t'aime,Il te donne sa paix. (bis)",
-        "Si un jour sur ta route, Tu rencontres le mal, Ne sois pas dans le doute, Dieu aime ses enfants. (bis)"
+        "Si la mer se déchaîne, \nSi le vent souffle fort, \nSi la barque t'entraîne \nN'aie pas peur de la mort. (bis)",
+        "Si ton cœur est en peine, \nSi ton corps est souffrant \nCrois en Jésus il t'aime, \nIl te donne sa paix. (bis)",
+        "Si un jour sur ta route, \nTu rencontres le mal, \nNe sois pas dans le doute, \nDieu aime ses enfants. (bis)"
       ]
     },
     {
       "songTitle": "CAR DIEU L'A EXALTE",
+      "id": 310,
       "songId": 221,
       "chorus": "",
       "key": "La mineur",
       "author": "Austin Martin (1984)",
       "enLyrics": [
-        "Car Dieu l'a exalté Au plus haut des cieux, Il lui a donné Le nom le plus élevé. Et tout genou fléchira, Toute langue confessera Que Jésus-Christ est Roi, À la gloire du Père, Alléluia !"
+        "Car Dieu l'a exalté \nAu plus haut des cieux, \nIl lui a donné \nLe nom le plus élevé. \nEt tout genou fléchira, \nToute langue confessera \nQue Jésus-Christ est Roi, \nÀ la gloire du Père, \nAlléluia !"
       ]
     },
     {
       "songTitle": "CAR TU ES DIEU",
+      "id": 311,
       "songId": 222,
-      "chorus": "Dieu de gloire, Dieu de gloire, Dieu de gloire, tu es Roi. Dieu de gloire, Dieu de gloire, Dieu de gloire, tu es Roi.",
+      "chorus": "Dieu de gloire, Dieu de gloire, \nDieu de gloire, tu es Roi. \nDieu de gloire, Dieu de gloire, \nDieu de gloire, tu es Roi.",
       "key": "Fa majeur",
       "author": "Pete Jr. Sanchez (1977)",
       "enLyrics": [
-        "Car tu es Dieu au-dessus de la terre, Tu établis ton trône dans les cieux. Car tu es Dieu au-dessus de la terre, Tu es le Roi ; tu es le seul Dieu !"
+        "Car tu es Dieu au-dessus de la terre, \nTu établis ton trône dans les cieux. \nCar tu es Dieu au-dessus de la terre, \nTu es le Roi ; tu es le seul Dieu !"
       ]
     },
     {
       "songTitle": "ATTIRE-MOI A TOI",
+      "id": 312,
       "songId": 223,
-      "chorus": "Tu es tout pour moi Sans Toi je ne peux vivre Tu es tout pour moi Garde-moi près de Toi",
+      "chorus": "Tu es tout pour moi \nSans Toi je ne peux vivre \nTu es tout pour moi \nGarde-moi près de Toi",
       "key": "ATTIRE-MOI A TOI",
       "author": "Kelly Carpenter (1994)",
       "enLyrics": [
-        "Attire-moi à Toi Ne me laisse pas Je veux tout abandonner Et restaurer notre amitié",
-        "Tu es mon désir Je ne veux que Toi Rien ne peut Te remplacer Dans Tes bras je suis rassuré Montre-moi la voie Qui me ramène à Toi",
-        ""
+        "Attire-moi à Toi \nNe me laisse pas \nJe veux tout abandonner \nEt restaurer notre amitié",
+        "Tu es mon désir \nJe ne veux que Toi \nRien ne peut Te remplacer \nDans Tes bras je suis rassuré \nMontre-moi la voie \nQui me ramène à Toi"
       ]
     },
     {
       "songTitle": "AU-DESSUS DES PUISSANCES",
+      "id": 313,
       "songId": 224,
-      "chorus": "Crucifié, seul, abandonné, Tu as souffert, méprisé, rejeté: Telle une rose Foulée sous nos pieds, Tu m'as sauvé, tu m'as aimé, Par-dessus tout.",
+      "chorus": "Crucifié, seul, abandonné, \nTu as souffert, méprisé, rejeté: \nTelle une rose \nFoulée sous nos pieds, \nTu m'as sauvé, tu m'as aimé, \nPar-dessus tout.",
       "key": "La majeur",
       "author": "Lenny Leblanc (1999)",
       "enLyrics": [
-        "Au-dessus des puissances, Au-dessus des rois, Au-dessus de la nature et de la création. Au-dessus de tous les plans Des hommes sages, Bien avant le monde, tu existais.",
-        "Au-dessus des royaumes, Au-dessus des trônes, Au-dessus des merveilles Que ce monde a connues, Par-dessus tous les trésors de la terre, Rien ne peut mesurer ta valeur."
+        "Au-dessus des puissances, \nAu-dessus des rois, \nAu-dessus de la nature et de la création. Au-dessus de tous les plans \nDes hommes sages, \nBien avant le monde, tu existais.",
+        "Au-dessus des royaumes, \nAu-dessus des trônes, \nAu-dessus des merveilles \nQue ce monde a connues, \nPar-dessus tous les trésors de la terre, \nRien ne peut mesurer ta valeur."
       ]
     },
     {
       "songTitle": "VENEZ CHANTONS",
+      "id": 314,
       "songId": 225,
-      "chorus": "Adorons l'Eternel Adorons l'Éternel Adorons l'Eternel Adorons l'Éternel Adorons l'Éternel",
+      "chorus": "Adorons l'Eternel Adorons l'Éternel \nAdorons l'Eternel Adorons l'Éternel \nAdorons l'Éternel",
       "key": "La majeur",
       "author": "Auteur : Inconnu Editeur, Katoto Luhembe Antoine",
       "enLyrics": [
-        "Venez chantons pour le Roi des rois. Acclamons-le notre sauveur. Entrons dans ses portes avec des cris de joie. Des danses au Roi de gloire.",
-        "Le sauveur de l'humanité, Le Roi qui mérite nos louanges. Unis dans la fraternité, Nous venons lui rendre nos hommages.",
-        "Venez chantons pour le Roi des rois. Acclamons-le notre sauveur. Entrons dans ses portes avec des cris de joie. Des danses au Roi de gloire."
+        "Venez chantons pour le Roi des rois. \nAcclamons-le notre sauveur. \nEntrons dans ses portes \navec des cris de joie. \nDes danses au Roi de gloire.",
+        "Le sauveur de l'humanité, \nLe Roi qui mérite nos louanges. \nUnis dans la fraternité, \nNous venons lui rendre nos hommages.",
+        "Venez chantons pour le Roi des rois. \nAcclamons-le notre sauveur. \nEntrons dans ses portes \navec des cris de joie. \nDes danses au Roi de gloire."
       ]
     },
     {
       "songTitle": "DIEU, TU ES GRAND",
+      "id": 315,
       "songId": 226,
       "chorus": "",
       "key": "La majeur",
       "author": "Steve Mc Ewan (1985)",
       "enLyrics": [
-        "Dieu, tu es grand Et digne de louanges Dans la cité de Dieu, la ville sainte Joie de toute la terre",
-        "Dieu, tu es grand Toi qui nous donne la victoire Tu nous aides à vaincre l'ennemi Nous plions le genou",
-        "Seigneur nous voulons élever Ton nom Et nous te disons merci Pour ce que tu fais dans nos vies",
-        "Seigneur, ton amour ne tarit jamais Tu es le Dieu d'éternité Tu règnes sur la terre et dans les cieux"
+        "Dieu, tu es grand \nEt digne de louanges \nDans la cité de Dieu, la ville sainte \nJoie de toute la terre",
+        "Dieu, tu es grand \nToi qui nous donne la victoire \nTu nous aides à vaincre l'ennemi \nNous plions le genou",
+        "Seigneur nous voulons élever \nTon nom \nEt nous te disons merci \nPour ce que tu fais dans nos vies",
+        "Seigneur, ton amour ne tarit jamais \nTu es le Dieu d'éternité \nTu règnes sur la terre et dans les cieux"
       ]
     },
     {
       "songTitle": "EN SON TEMPS",
+      "id": "316a",
       "songId": 227,
       "chorus": "",
       "key": "Do majeur",
       "author": "Maranatha! Music (2OO5)",
       "enLyrics": [
-        "En Son temps, en Son temps Ce que Dieu fait est parfait, En Son temps. Seigneur Jésus je te prie, Montre-moi que dans ma vie, Tu fais tout ce que tu dis, En Ton temps.",
-        "En Ton temps, en Ton temps, Ce que Tu fais est parfait En Ton temps. Seigneur, prends toute ma vie, En Ton temps, en Ton temps, Ce que Tu fais est parfait En Ton temps. Seigneur, prends toute ma vie,",
-        "En Ton temps, en Ton temps, Ce que Tu fais est parfait en Ton temps. Seigneur, je veux par Ta grâce, Ne marcher que sur Ta trace, Afin d’admirer Ta face, En Ton temps."
+        "En Son temps, en Son temps \nCe que Dieu fait est parfait, \nEn Son temps. \nSeigneur Jésus je te prie, \nMontre-moi que dans ma vie, \nTu fais tout ce que tu dis, \nEn Ton temps.",
+        "En Ton temps, en Ton temps, \nCe que Tu fais est parfait \nEn Ton temps. \nSeigneur, prends toute ma vie \nQu’elle soit dès aujourd’hui, \nLa plus belle des mélodies, \nEn Ton temps.",
+        "En Ton temps, en Ton temps, \nCe que Tu fais est parfait en Ton \ntemps. \nSeigneur, je veux par Ta grâce, \nNe marcher que sur Ta trace, \nAfin d’admirer Ta face, \nEn Ton temps."
       ]
     },
     {
       "songTitle": "TU PEUX NAITRE DE NOUVEAU",
+      "id": "316b",
       "songId": 228,
       "chorus": "Et repartir à zéro, X2 Bis Avec Jésus pour berger.",
       "key": "Sol majeur",
       "author": "Colette Bergèse (1979) Claude Fraysse",
       "enLyrics": [
-        "Tu peux naître de nouveau, Tu peux tout recommencer, Balayer ta vie passée,",
-        "Tu peux boire de cette eau, Source de la pureté, Source de la vérité.",
-        "Tu peux être pardonné, Pour tous tes péchés passés Car Jésus a tout payé."
+        "Tu peux naître de nouveau, \nTu peux tout recommencer, \nBalayer ta vie passée,",
+        "Tu peux boire de cette eau, \nSource de la pureté, \nSource de la vérité.",
+        "Tu peux être pardonné, \nPour tous tes péchés passés \nCar Jésus a tout payé."
       ]
     },
     {
       "songTitle": "PURIFIE MON CŒUR",
+      "id": 317,
       "songId": 229,
-      "chorus": "Feu du fondeur, Je n'ai qu'un désir : Être saint, être saint, Mis à part pour toi, Seigneur. Oui je choisis, d'être saint, Mis à part pour toi, mon seul maître Et prêt à t'obéir.",
+      "chorus": "Feu du fondeur, Je n'ai qu'un désir : \nÊtre saint, être saint, \nMis à part pour toi, Seigneur. \nOui je choisis, d'être saint, \nMis à part pour toi, mon seul maître \nEt prêt à t'obéir.",
       "key": "Ré majeur",
       "author": "Brian Doerksen (199O)",
       "enLyrics": [
-        "Purifie mon cœur, Rends-moi aussi pur que l'or et l'argent, Purifie mon cœur, Rends-moi aussi pur que l'or.",
-        "Purifie mon cœur, Ôte ma souillure et sanctifie-moi. Purifie mon cœur, Lave mes péchés cachés."
+        "Purifie mon cœur, \nRends-moi aussi pur que l'or et l'argent, \nPurifie mon cœur, Rends-moi aussi pur que l'or.",
+        "Purifie mon cœur, \nÔte ma souillure et sanctifie-moi. \nPurifie mon cœur, Lave mes péchés cachés."
       ]
     },
     {
       "songTitle": "GARDE MOI O SEIGNEUR",
+      "id": 318,
       "songId": 230,
       "chorus": "",
       "key": "Mi♭ majeur",
       "author": "Auteur inconnu",
       "enLyrics": [
-        "Garde moi o Seigneur fidèle à toi (2x) J’ai un prix à remporter Des victoires à gagner O Seigneur, garde-moi fidèle à toi"
+        "Garde moi o Seigneur fidèle à toi (2x) \nJ’ai un prix à remporter \nDes victoires à gagner \nO Seigneur, garde-moi fidèle à toi"
       ]
     },
     {
       "songTitle": "IL EST LE DIEU DE MON SALUT",
+      "id": "319a",
       "songId": 231,
       "chorus": "",
       "key": "Mi♭ majeur",
       "author": "Danie Hurtrel (1985)",
       "enLyrics": [
-        "Il est le Dieu de mon Salut Il est le Dieu de ma délivrance Un Dieu d’amour Un dieu d’espérance. Alléluia Alléluia (2x)"
+        "Il est le Dieu de mon Salut \nIl est le Dieu de ma délivrance \nUn Dieu d’amour \nUn dieu d’espérance. \nAlléluia Alléluia (2x)"
       ]
     },
     {
       "songTitle": "O TOI QUI DIS",
+      "id": "319b",
       "songId": 232,
-      "chorus": "O toi qui dis que Jésus-Christ n’est pas vivant Viens donc goûter à la joie qu’IL donne. Et toi qui aimes ce qui ne te nourrit pas Viens à Jésus et tu n’auras plus faim",
+      "chorus": "O toi qui dis que Jésus-Christ n’est pas vivant \nViens donc goûter à la joie qu’IL donne. \nEt toi qui aimes ce qui ne te nourrit pas \nViens à Jésus et tu n’auras plus faim",
       "key": "Mi majeur",
       "author": "Emmanuel R. Bayiha Années 80-90",
       "enLyrics": [
-        "O toi qui te livres aux plaisirs de la terre Ne sais-tu pas que c’est contre son Esprit Jésus est venu te libérer de tout cela Pour que ta joie soit parfaite en lui",
-        "O toi qui te fies à ton intelligence Ne sais-tu pas qu’Il te veut à Lui tout seul Jésus est venu te libérer de cette folie Pour que ta joie soit parfaite en lui",
-        "O toi qui cherches à plaire aux hommes de la terre Ne sais-tu pas qu’Il te veut à lui tout seul A Jésus donne toute la place dans ton cœur Pour que ta joie soit parfaite en Lui",
-        "O toi qui cherches à te sauver par ta force Ne sais-tu pas que tu ne le pourras pas Jésus-Christ a tout accompli sur la croix pour toi Pour que ta joie soit parfaite en Lui"
+        "O toi qui te livres aux plaisirs de la terre \nNe sais-tu pas que c’est contre son Esprit \nJésus est venu te libérer de tout cela \nPour que ta joie soit parfaite en lui",
+        "O toi qui te fies à ton intelligence \nNe sais-tu pas qu’Il te veut à Lui tout seul \nJésus est venu te libérer de cette folie \nPour que ta joie soit parfaite en lui",
+        "O toi qui cherches à plaire aux hommes de la terre \nNe sais-tu pas qu’Il te veut à lui tout seul \nA Jésus donne toute la place dans ton cœur \nPour que ta joie soit parfaite en Lui",
+        "O toi qui cherches à te sauver par ta force \nNe sais-tu pas que tu ne le pourras pas \nJésus-Christ a tout accompli sur la croix pour toi \nPour que ta joie soit parfaite en Lui"
       ]
     },
     {
       "songTitle": "SANS PAREIL",
+      "id": 320,
       "songId": 233,
-      "chorus": "Alors à qui pourrais-je le comparer? Le prince de vie Jésus est sans pareil, Personne et rien ne peut nous séparer de lui Jésus Christ est sans pareil !",
+      "chorus": "Alors à qui pourrais-je le comparer? \nLe prince de vie Jésus est sans pareil, \nPersonne et rien ne \npeut nous séparer de lui! \nJésus Christ est sans pareil",
       "key": "Mi majeur",
       "author": "Adorons L'Eternel : Alain Moloto",
       "enLyrics": [
-        "Jésus le gardien de mon âme C'est lui le seul bien qui me calme Il chasse le lien qui me réclame Il me soutient, essuie mes larmes Je fais mon plein avec sa flamme",
-        "Il est la source de mes grâces Je me ressource sur ses traces. Jésus secourt ceux de sa race, Qui accourent devant sa face, Car son recours est efficace",
-        "Jésus la merveille que j'adore, Lui qui ne sommeille, ni ne dort Il ensoleille tout mon décor, Et me réveille quand je m'endors, Sans pareil dans son apport.",
-        "Le seul ami qui me comprend Surtout quand l'ennemi me surprend Le seul qui peut me dire je t'aime Quand près de moi on Crie blasphème Sa parole me rend ferme",
-        "Quand devant l'épreuve je succombe Pendant que l'épreuve creuse ma tombe Jésus me tend ses mains d'amour Il me dit Prends le vrai secours Sans pareil dans son apport."
+        "Jésus le gardien de mon âme \nC'est lui le seul bien qui me calme \nIl chasse le lien qui me réclame \nIl me soutient, essuie mes larmes \nJe fais mon plein avec sa flamme",
+        "Il est la source de mes grâces \nJe me ressource sur ses traces. \nJésus secourt ceux de sa race, \nQui accourent devant sa face, \nCar son recours est efficace",
+        "Jésus la merveille que j'adore, \nLui qui ne sommeille, ni ne dort \nIl ensoleille tout mon décor, \nEt me réveille quand je m'endors, \nSans pareil dans son apport.",
+        "Le seul ami qui me comprend \nSurtout quand l'ennemi me surprend \nLe seul qui peut me dire je t'aime \nQuand près de moi on \nCrie blasphème \nSa parole me rend ferme",
+        "Quand devant l'épreuve je succombe \nPendant que l'épreuve creuse ma tombe \nJésus me tend ses mains d'amour \nIl me dit Prends le vrai secours \nSans pareil dans son apport."
       ]
     },
     {
       "songTitle": "JE N'AI QUE TOI",
+      "id": 321,
       "songId": 234,
-      "chorus": "Dieu tu es Le soutien de mon cœur, Mon héritage et mon plus grand bien. Oh ! oui Dieu, tu es Le soutien de mon cœur, Près de toi, je me sens bien.",
+      "chorus": "Dieu tu es \nLe soutien de mon cœur, \nMon héritage et mon plus grand bien. \nOh ! oui Dieu, tu es \nLe soutien de mon cœur, \nPrès de toi, je me sens bien.",
       "key": "Mi majeur",
       "author": "Billy Sprague ; David Durham (1982)",
       "enLyrics": [
-        "Je n'ai que toi, que toi dans le ciel, Je ne désire rien D'autre que toi sur la terre. Si je suis faible ou même si je tombe, Dieu est le soutien de mon cœur.",
-        "Quand mon cœur Etait plein d'amertume, Je perdais la raison Et je n'y voyais plus rien, Mais Dieu s'approcha Pour me saisir la main, Dieu est le soutien de mon cœur."
+        "Je n'ai que toi, que toi dans le ciel, \nJe ne désire rien \nD'autre que toi sur la terre. \nSi je suis faible ou même si je tombe, \nDieu est le soutien de mon cœur.",
+        "Quand mon cœur \nEtait plein d'amertume, \nJe perdais la raison \nEt je n'y voyais plus rien, \nMais Dieu s'approcha \nPour me saisir la main, \nDieu est le soutien de mon cœur."
       ]
     },
     {
       "songTitle": "JESUS EST SEIGNEUR",
+      "id": 322,
       "songId": 235,
-      "chorus": "Jésus est Seigneur, Jésus est Seigneur, Jésus est Seigneur, Jésus est Seigneur De cette nation.",
+      "chorus": "Jésus est Seigneur, Jésus est Seigneur, \nJésus est Seigneur, Jésus est Seigneur \nDe cette nation.",
       "key": "La majeur",
       "author": "Ramon Pink - Jesus Christ Is Lord (1987)",
       "enLyrics": [
-        "Son trône est fondé sur la justice, Son trône est fondé sur l'équité, Et son sang a vaincu l'ennemi de nos âmes, Il est le puissant libérateur ! Jésus est Seigneur....."
+        "Son trône est fondé sur la justice, \nSon trône est fondé sur l'équité, \nEt son sang a vaincu l'ennemi de nos âmes, \nIl est le puissant libérateur ! \nJésus est Seigneur....."
       ]
     },
     {
       "songTitle": "LES CIEUX PROCLAMENT",
+      "id": 323,
       "songId": 236,
-      "chorus": "À jamais il sera L'Agneau sur le trône, Je fléchis les genoux Pour l'adorer, lui seul.",
+      "chorus": "À jamais il sera L'Agneau sur le trône, \nJe fléchis les genoux \nPour l'adorer, lui seul.",
       "key": "La majeur",
       "author": "Noël et Tricia Richards (1987)",
       "enLyrics": [
-        "Les cieux proclament La gloire du ressuscité. Rien n'est égal à la beauté du Seigneur.",
-        "Je veux chanter La gloire du ressuscité. L'Agneau immolé Nous a rachetés pour Dieu."
+        "Les cieux proclament \nLa gloire du ressuscité. \nRien n'est égal à la beauté du Seigneur.",
+        "Je veux chanter La gloire du ressuscité. \nL'Agneau immolé \nNous a rachetés pour Dieu."
       ]
     },
     {
       "songTitle": "SEIGNEUR, NOTRE DIEU",
+      "id": 324,
       "songId": 237,
-      "chorus": "Nous te bénissons, Dieu tout-puissant, Tu es vivant et tu reviens. Nous te bénissons, Dieu tout-puissant, Ton règne est éternel.",
+      "chorus": "Nous te bénissons, \nDieu tout-puissant, \nTu es vivant et tu reviens. \nNous te bénissons, Dieu tout-puissant, \nTon règne est éternel.",
       "key": "Ré♭ majeur",
       "author": "Bob Fitts (1985)",
       "enLyrics": [
-        "Seigneur, notre Dieu, tu es glorieux, Nous t'adorons et nous t'aimons. Que ton règne s'établisse sur la terre, Que tes œuvres proclament ta grandeur."
+        "Seigneur, notre Dieu, tu es glorieux, \nNous t'adorons et nous t'aimons. \nQue ton règne s'établisse sur la terre, \nQue tes œuvres proclament ta grandeur."
       ]
     },
     {
       "songTitle": "NOUS VENONS DANS TA PRESENCE",
+      "id": 325,
       "songId": 238,
-      "chorus": "Tu es le créateur puissant, l'Agneau ressuscité Toi seul a pu triompher De la mort et du péché, Tu as délivré Ton peuple, Pour la vraie liberté. Je veux suivre Tes pas, Chaque jour être avec toi.",
+      "chorus": "Tu es le créateur puissant, \nl'Agneau ressuscité \nToi seul a pu triompher \nDe la mort et du péché, \nTu as délivré Ton peuple, \nPour la vraie liberté. \nJe veux suivre Tes pas, \nChaque jour être avec toi.",
       "key": "Mi majeur",
       "author": "Robert Eastwood (1995)",
       "enLyrics": [
-        "Nous venons dans ta présence, Pour chanter Tes louanges Et notre reconnaissance, De ce que tu as accompli. Tu nous as donné ta vie, Ton amour et Ta joie, Et la louange envahit Nos cœurs passionnés de Toi."
+        "Nous venons dans ta présence, \nPour chanter Tes louanges \nEt notre reconnaissance, \nDe ce que tu as accompli. \nTu nous as donné ta vie, \nTon amour et Ta joie, \nEt la louange envahit \nNos cœurs passionnés de Toi."
       ]
     },
     {
       "songTitle": "ALLELUIA, ALLELUIA",
+      "id": 326,
       "songId": 239,
-      "chorus": "Alléluia, alléluia, Gloire à Dieu le Seigneur Tout puissant Alléluia, alléluia, Gloire à Dieu le Seigneur Tout puissant",
+      "chorus": "Alléluia, alléluia, \nGloire à Dieu le Seigneur Tout puissant \nAlléluia, alléluia, \nGloire à Dieu le Seigneur Tout puissant",
       "key": "Si♭ majeur",
       "author": "Michael Whitaker Smith (1990)",
       "enLyrics": [
-        "Alléluia. Tu es saint, trois fois saint, Dieu tout puissant. Eternel. Louange à l'agneau, Louange à l'agneau, Car toi seul est saint, trois fois saint. Dieu tout puissant. Eternel. Louange à l'Agneau X2, Amen",
-        "Alleluia. Holy, holy are you Lord God Almighty. Worthy is the Lamb, worthy is the Lamb. For you are holy; holy Are you Lord God Almighty. Worthy is the Lamb, x2. Amen."
+        "Alléluia. \nTu es saint, trois fois saint, \nDieu tout puissant. Eternel. \nLouange à l'agneau, Louange à l'agneau, \nCar toi seul est saint, trois fois saint. \nDieu tout puissant. Eternel. \nLouange à l'Agneau X2, Amen",
+        "Alleluia, allelluia,  \nFor the Lord God almighty reigns.  \nAlleluia, alleluia,  \nFor the Lord God almighty reigns. ",
+        "Alleluia. Holy, holy are you Lord God \nAlmighty. \nWorthy is the Lamb, worthy is the Lamb. \nFor you are holy; holy \nAre you Lord God Almighty. \nWorthy is the Lamb, x2. Amen."
       ]
     },
     {
       "songTitle": "O SEIGNEUR, SOIS GLORIFIE",
+      "id": 327,
       "songId": 240,
       "chorus": "",
       "key": "Si♭ majeur",
       "author": "Auteur inconnu",
       "enLyrics": [
-        "O Seigneur (3x), sois glorifié Que ceux qui te cherchent se réjouissent en toi Que ceux qui aiment ton Salut Disent continuellement (bis) Seigneur sois glorifié (3x) Sois glorifié",
-        "",
-        ""
+        "O Seigneur (3x), sois glorifié \nQue ceux qui te cherchent se réjouissent en \ntoi \nQue ceux qui aiment ton Salut Disent \ncontinuellement (bis) \nSeigneur sois glorifié (3x) Sois glorifié"
       ]
     },
     {
       "songTitle": "PAR TON SANG VERS TOI",
+      "id": 328,
       "songId": 241,
       "chorus": "",
       "key": "Fa majeur",
       "author": "Chris Christensen et Thierry Ostrini (1994)",
       "enLyrics": [
-        "Par ton sang vers toi, j’avance ceint de ta puissance Fort de ta présence à chaque pas. En ton sang, ma délivrance, le sceau de mon alliance Ma vie, ma révérence devant toi Ni mes craintes ni mes doutes ne détournerons ma foi De ta grâce sur ma route et de ton amour pour moi."
+        "Par ton sang vers toi, \nj’avance ceint de ta puissance \nFort de ta présence à chaque pas. \nEn ton sang, ma délivrance, \nle sceau de mon alliance \nMa vie, ma révérence devant toi \nNi mes craintes ni mes doutes ne \ndétournerons ma foi \nDe ta grâce sur ma route \net de ton amour pour moi."
       ]
     },
     {
       "songTitle": "POUR CET IMMENSE BONHEUR",
+      "id": 329,
       "songId": 242,
       "chorus": "",
       "key": "Ré majeur",
       "author": "Josiane de Worm (1971)",
       "enLyrics": [
-        "Pour cet immense bonheur, alléluia Que tu as mis dans mon cœur, alléluia Je veux te chanter, Seigneur, alléluia Oui, Jésus est mon Sauveur, alléluia !",
-        "Je le redirai encore, alléluia Que pour moi, Jésus est mort, alléluia Voilà pourquoi je l'adore, alléluia Lui seul est tout mon trésor, alléluia !",
-        "Que chaque jour, à chaque heure, alléluia En moi, tu aies ta demeure, alléluia Que ma vie soit une fleur, alléluia Un parfum pour toi, Seigneur, alléluia !"
+        "Pour cet immense bonheur, alléluia \nQue tu as mis dans mon cœur, alléluia \nJe veux te chanter, Seigneur, alléluia \nOui, Jésus est mon Sauveur, alléluia !",
+        "Je le redirai encore, alléluia \nQue pour moi, Jésus est mort, alléluia \nVoilà pourquoi je l'adore, alléluia \nLui seul est tout mon trésor, alléluia !",
+        "Que chaque jour, à chaque heure, alléluia \nEn moi, tu aies ta demeure, alléluia \nQue ma vie soit une fleur, alléluia \nUn parfum pour toi, Seigneur, alléluia !"
       ]
     },
     {
       "songTitle": "LIBRES DE NOS CHAINES",
+      "id": 330,
       "songId": 243,
-      "chorus": "Alléluia !Que ton règne vienne, Maranatha ! Viens, Jésus, règne en moi.",
+      "chorus": "Alléluia !Que ton règne vienne, \nMaranatha ! \nViens, Jésus, règne en moi.",
       "key": "Sol majeur",
       "author": "Chris Christensen et Thierry Ostrini (1995)",
       "enLyrics": [
-        "Libres de nos chaînes, Nous marchons vers toi. Ta main souveraine, affermit nos pas. Armée de lumière Couronnée d'éclat, Soyons sur la terre Messagers de joie.",
-        "Proclamons sa grâce au creux de la nuit, Recherchons sa face au cœur de sa vie. Célébrons sa gloire, Bannissons la peur, Chantons sa victoire, Jésus est vainqueur."
+        "Libres de nos chaînes, \nNous marchons vers toi. \nTa main souveraine, affermit nos pas. \nArmée de lumière Couronnée d'éclat, \nSoyons sur la terre Messagers de joie.",
+        "Proclamons sa grâce au creux de la nuit, \nRecherchons sa face au cœur de sa vie. \nCélébrons sa gloire, Bannissons la peur, \nChantons sa victoire, Jésus est vainqueur."
       ]
     },
     {
       "songTitle": "SEIGNEUR, J'ELEVE TON NOM",
+      "id": 331,
       "songId": 244,
       "chorus": "",
       "key": "Sol majeur",
       "author": "Rick Founds (1978) Maranatha ! Praise",
       "enLyrics": [
-        "Oh Seigneur, j'élève ton nom Oh Seigneur je chante tes louanges Merci d’être dans ma vie Merci de m’avoir sauvé",
-        "Tu vins du ciel sur la terre Pour montrer le chemin De la terre à la croix Pour payer ma dette De la croix jusqu’au tombeau Du tombeau pour le ciel Oh Seigneur j'élève ton nom"
+        "Oh Seigneur, j'élève ton nom \nOh Seigneur je chante tes louanges \nMerci d’être dans ma vie \nMerci de m’avoir sauvé",
+        "Tu vins du ciel sur la terre \nPour montrer le chemin \nDe la terre à la croix \nPour payer ma dette \nDe la croix jusqu’au tombeau \nDu tombeau pour le ciel \nOh Seigneur j'élève ton nom"
       ]
     },
     {
       "songTitle": "TOUT L’HONNEUR",
+      "id": 332,
       "songId": 245,
       "chorus": "",
       "key": "Ré mineur",
       "author": "Chris Falson – Ron Kenoly (1990)",
       "enLyrics": [
-        "Tout l'honneur, la gloire, le pouvoir à toi x4 Saint-Père, nous t'adorons précieux Jésus mon sauveur Saint-Esprit, nous attendons x3 Pour ton feu x2 Tout l'honneur, la gloire, le pouvoir à toi",
-        "All honor, All glory, All power To You (x4) Holy Father we worship You Precious Jesus our Saviour Holy spirit we wait on You x3 For fire x2"
+        "Tout l'honneur, \nla gloire, le pouvoir à toi x4 \nSaint-Père, nous t'adorons \nprécieux Jésus mon sauveur \nSaint-Esprit, nous attendons x3 \nPour ton feu x2 \nTout l'honneur, \nla gloire, le pouvoir à toi",
+        "All honor, All glory, All power \nTo You (x4) \nHoly Father we worship You \nPrecious Jesus our Saviour \nHoly spirit we wait on You x3 \nFor fire x2"
       ]
     },
     {
       "songTitle": "VIENS ADORER LE SEIGNEUR",
+      "id": 333,
       "songId": 246,
       "chorus": "",
       "key": "Do majeur",
       "author": "Mady Ramos",
       "enLyrics": [
-        "Viens adorer le Seigneur, Viens adorer le Seigneur Et que ton cœur soit comme un océan d'amour. Oh ! Viens adorer le Seigneur."
+        "Viens adorer le Seigneur, \nViens adorer le Seigneur \nEt que ton cœur soit comme un océan \nd'amour. \nOh ! Viens adorer le Seigneur."
       ]
     },
     {
       "songTitle": "TON AMOUR, TA PUISSANCE",
+      "id": 334,
       "songId": 247,
-      "chorus": "Ton amour, ta puissance, Ta présence dans ma vie ! Ton amour, ta puissance, Ta présence dans ma vie !",
+      "chorus": "Ton amour, ta puissance, \nTa présence dans ma vie ! \nTon amour, ta puissance, \nTa présence dans ma vie !",
       "key": "Ré mineur",
       "author": "Jude del Hierro (1978)",
       "enLyrics": [
-        "Et je veux t'adorer de tout mon cœur, Et je veux t'adorer de toute mon âme, Et je veux t'adorer de toute ma force Car tu es mon Dieu, Tu es mon Dieu."
+        "Et je veux t'adorer de tout mon cœur, \nEt je veux t'adorer de toute mon âme, \nEt je veux t'adorer de toute ma force \nCar tu es mon Dieu, \nTu es mon Dieu."
       ]
     },
     {
       "songTitle": "VENEZ CHANTER DE JOIE AU SEIGNEUR",
+      "id": 335,
       "songId": 248,
-      "chorus": "Venez chanter de joie au Seigneur. Et criez, Il est le rocher, Lui seul pourra nous sauver.",
+      "chorus": "Venez chanter de joie au Seigneur. \nEt criez, Il est le rocher, \nLui seul pourra nous sauver.",
       "key": "Sol majeur",
       "author": "Brent Chambers (1978)",
       "enLyrics": [
-        "Venez chanter de joie au Seigneur. Venez chanter de joie au Seigneur. Venez chanter de joie au Seigneur. Venez chanter de joie au Seigneur.",
-        "Allons avec des louanges vers lui, Que nos instruments le glorifient Car le Seigneur est un grand Dieu, Il règne sur terre et dans les cieux.",
-        "Prosternons-nous devant lui Le grand Roi, Adorons notre Dieu à genoux Car nous sommes à lui et il est à nous, La source de notre joie."
+        "Venez chanter de joie au Seigneur. \nVenez chanter de joie au Seigneur. \nVenez chanter de joie au Seigneur. \nVenez chanter de joie au Seigneur.",
+        "Allons avec des louanges vers lui, \nQue nos instruments le glorifient \nCar le Seigneur est un grand Dieu, \nIl règne sur terre et dans les cieux.",
+        "Prosternons-nous devant lui \nLe grand Roi, \nAdorons notre Dieu à genoux \nCar nous sommes à lui et il est à nous, \nLa source de notre joie."
       ]
     },
     {
       "songTitle": "MON PLUS CHER DESIR,",
+      "id": 336,
       "songId": 249,
-      "chorus": "Je te donne mon cœur, Je te donne mon âme Et je vis pour toi seul Chaque instant de ma vie Jusqu'à la fin de mes jours, Ô Seigneur, règne en moi",
+      "chorus": "Je te donne mon cœur, Je te donne mon \nâme \nEt je vis pour toi seul \nChaque instant de ma vie \nJusqu'à la fin de mes jours, \nÔ Seigneur, règne en moi",
       "key": "Mi♭ majeur",
       "author": "Reuben Morgan (1995)",
       "enLyrics": [
-        "Mon plus cher désir, c'est t'honorer Oui de tout mon cœur, je t'adore Tout ce qui est en moi te glorifie Tout ce que j'adore est en toi."
+        "Mon plus cher désir, c'est t'honorer \nOui de tout mon cœur, je t'adore \nTout ce qui est en moi te glorifie \nTout ce que j'adore est en toi."
       ]
     },
     {
       "songTitle": "JE SAIS QU'IL M'A SECOURU,",
+      "id": 337,
       "songId": 250,
-      "chorus": "",
+      "chorus": "Mon Rédempteur vit (4X)",
       "key": "Mi majeur",
       "author": "Reuben Morgan (1998)",
       "enLyrics": [
-        "Je sais qu'il m'a secouru, Son sang a couvert mes fautes, Je le crois, oui je crois.",
-        "Je sais qu'il m'a secouru, Son sang a couvert mes fautes, Je le crois, oui je crois.",
-        "Tu prends mon fardeau, Et tu l'emportes; Alors je danse sur les sommets, Je vois venir ton règne."
+        "Je sais qu'il m'a secouru, \nSon sang a couvert mes fautes, \nJe le crois, oui je crois.",
+        "Il a enlevé ma honte,  \nJe suis guéri en son nom, \nJe le crois, oui je crois. \nJe veux proclamer : \nJésus a vaincu la mort.",
+        "Tu prends mon fardeau, Et tu l'emportes; \nAlors je danse sur les sommets, \nJe vois venir ton règne."
       ]
     },
     {
       "songTitle": "JE M’ENGAGE",
+      "id": 338,
       "songId": 251,
-      "chorus": "Je m’engage selon ta parole A prêcher l’évangile Je m’engage selon ta parole A être la lumière du monde Je m’engage selon ta parole A être le sel de la terre Je m’engage selon ta parole A célébrer Jésus ",
+      "chorus": "Je m’engage selon ta parole \nA prêcher l’évangile \nJe m’engage selon ta parole \nA être la lumière du monde \nJe m’engage selon ta parole \nA être le sel de la terre \nJe m’engage selon ta parole \nA célébrer Jésus ",
       "key": "Mi majeur",
       "author": "Seraphine Thipavi (2OO6)",
       "enLyrics": [
-        "Je m’engage (x6) Je m’engage à te louer Je m’engage Je m’engage à t’élever Je m’engage Je m’engage à t’honorer Je m’engage Je m’engage (x8)",
-        "Je ne veux pas m’arrêter Sur le chemin qui mène au ciel Mais toujours avoir les regards fixés vers Jésus-Christ mon Roi Qui m’a sauvé, qui m’a lavé Et qui m’a délivré Je m’engage (x3)",
-        "Alléluia o alléluia ooo(x2) Yaya yesu (x4) Bwana yesu(x4)"
+        "Je m’engage (x6) \nJe m’engage à te louer Je m’engage \nJe m’engage à t’élever Je m’engage \nJe m’engage à t’honorer Je m’engage \nJe m’engage (x8)",
+        "Je ne veux pas m’arrêter \nSur le chemin qui mène au ciel \nMais toujours avoir les regards fixés vers \nJésus-Christ mon Roi \nQui m’a sauvé, qui m’a lavé \nEt qui m’a délivré Je m’engage (x3)",
+        "Alléluia o alléluia ooo(x2) \nYaya yesu (x4) \nBwana yesu(x4)"
       ]
     },
     {
       "songTitle": "MELODIE VENUE DU CIEL",
+      "id": 339,
       "songId": 252,
-      "chorus": "×2 Saint ô Eternel, Dieu de l'univers Digne de louange, Honneur et gloire A l'Agneau de Dieu Assis sur le trône Il règne à jamais.",
+      "chorus": "×2 Saint ô Eternel, Dieu de l'univers \nDigne de louange, Honneur et gloire \nA l'Agneau de Dieu \nAssis sur le trône \nIl règne à jamais Gloire à l'Agneau alléluia tu règnes \nà jamais",
       "key": "Fa mineur",
       "author": "Marcel Boungou (2004)",
       "enLyrics": [
-        "Mélodie venue du ciel Un chant doux et merveilleux Tous les anges en harmonie D'une seule voix célèbrent ton nom. Ta puissance et ta grandeur Ta gloire remplissent l'univers Ton éclat et ta splendeur Ta beauté sont incomparables."
+        "Mélodie venue du ciel \nUn chant doux et merveilleux \nTous les anges en harmonie \nD'une seule voix célèbrent ton nom. \nTa puissance et ta grandeur \nTa gloire remplissent l'univers \nTon éclat et ta splendeur \nTa beauté sont incomparables."
       ]
     },
     {
       "songTitle": "JUSTE BESOIN",
+      "id": 340,
       "songId": 253,
       "chorus": "",
       "key": "Ré majeur",
       "author": "Nathanaël Thipavi (2010)",
       "enLyrics": [
-        "J’ai juste besoin que tu me parles J’ai juste besoin que tu me dises un mot J’ai juste besoin de t’entendre O Jésus je me sens Si bien tout près de toi",
-        "Parle-moi, dis-moi un mot Fais luire sur moi ta face Parle-moi, dis-moi un mot O Jésus je me sens si bien Tout près de toi",
-        "J’ai juste besoin que tu me parles J’ai juste besoin que tu me dises un mot J’ai juste besoin de t’entendre O Jésus je me sens Si bien tout près de toi",
-        "Parle-moi, dis-moi un mot Fais luire sur moi ta face Parle-moi, je veux t’écouter O Jésus je me sens Si bien tout près de toi"
+        "J’ai juste besoin que tu me parles \nJ’ai juste besoin que tu me dises un mot \nJ’ai juste besoin de t’entendre \nO Jésus je me sens \nSi bien tout près de toi",
+        "Parle-moi, dis-moi un mot \nFais luire sur moi ta face \nParle-moi, dis-moi un mot \nO Jésus je me sens si bien \nTout près de toi",
+        "J’ai juste besoin que tu me parles \nJ’ai juste besoin que tu me dises un mot \nJ’ai juste besoin de t’entendre \nO Jésus je me sens \nSi bien tout près de toi",
+        "Parle-moi, dis-moi un mot \nFais luire sur moi ta face \nParle-moi, je veux t’écouter \nO Jésus je me sens \nSi bien tout près de toi"
       ]
     },
     {
       "songTitle": "POUSSONS DES CRIS DE JOIE",
+      "id": 418,
       "songId": 254,
       "chorus": "Dieu nous aime. (bis) Poussons des cris de joie en accord. Que Dieu nous aime",
       "key": "Mi ♭ majeur",
@@ -3418,6 +3457,7 @@
     },
     {
       "songTitle": "JESUS EST MON DIVIN BERGER",
+      "id": 420,
       "songId": 255,
       "chorus": "",
       "key": "Fa majeur",
@@ -3432,6 +3472,7 @@
     },
     {
       "songTitle": "O L’AGNEAU DE DIEU SANGLANT,",
+      "id": 421,
       "songId": 256,
       "chorus": "Lieu de grâce Golgotha, Lieu de grâce Golgotha, Où mon Sauveur mourut pour moi : Lieu de grâce Golgotha !",
       "key": "Fa majeur",
@@ -3445,6 +3486,7 @@
     },
     {
       "songTitle": "POURQUOI DONC ATTENDRE",
+      "id": 422,
       "songId": 257,
       "chorus": "Pourquoi ? Pourquoi ? Ne viens-tu pas aujourd’hui ? Pourquoi ? Pourquoi ? Ne veux-tu donc pas de Lui ?",
       "key": "La majeur",
@@ -3458,6 +3500,7 @@
     },
     {
       "songTitle": "CŒURS FATIGUES ET LASSES DU PECHE",
+      "id": 423,
       "songId": 258,
       "chorus": "venez à lui, venez à lui ; Venez à Jésus, Venez à Jésus aujourd’hui!",
       "key": "DO majeur",
@@ -3470,6 +3513,7 @@
     },
     {
       "songTitle": "DIS, SAIS-TU QUE JESUS-CHRIST SEUL PURIFI?",
+      "id": 424,
       "songId": 259,
       "chorus": "Oh ! veux-tu, oh ! veux-tu Que son sang coule sur ton cœur ? Seul il peut ôter du péché la souillure, De la neige donner la blancheur.",
       "key": "La ♭ majeur",
@@ -3482,6 +3526,7 @@
     },
     {
       "songTitle": "SOURCE DE GRACE",
+      "id": 425,
       "songId": 260,
       "chorus": "Oui, je puis croire, Oui, je veux croire Que Jésus-Christ est mort pour moi! Sa mort sanglante et triomphante Me rend libre par la foi.",
       "key": "Sol majeur",
@@ -3495,6 +3540,7 @@
     },
     {
       "songTitle": "LONGTEMPS J’ERRAIS LOIN DE TOI,",
+      "id":426,
       "songId": 261,
       "chorus": "Je reviens, je reviens, Pour ne plus errer Je reviens, je reviens, Je reviens, mon Dieu.",
       "key": "La ♭ majeur",
@@ -3508,6 +3554,7 @@
     },
     {
       "songTitle": "JE SUIS JEUNE ET DELIVRE",
+      "id":427,
       "songId": 262,
       "chorus": "Oui, d’être jeune, C’est merveilleux C’est mieux encor d’être sauvé ; Pourtant, voici le mieux de tout : Jeune et sauvé de tous péchés,",
       "key": "Fa majeur",
@@ -3520,6 +3567,7 @@
     },
     {
       "songTitle": "DAVANTAGE DE JESUS-CHRIST !",
+      "id":428,
       "songId": 263,
       "chorus": "Oui, davantage de Christ ! Oui, davantage de Christ ! Davantage de son salut, Davantage de son Esprit !",
       "key": "Sol majeur",
@@ -3533,6 +3581,7 @@
     },
     {
       "songTitle": "ENTENDS-TU LE CRI SUR LA MER RUGISSANTE ?",
+      "id":429,
       "songId": 264,
       "chorus": "Fais briller à tous le feu : Le message du salut. Fais briller à tous le feu Pour sauver les naufragés !",
       "key": "Sol majeur",
@@ -3546,6 +3595,7 @@
     },
     {
       "songTitle": "DES QUE L’AUBE DEPOSE",
+      "id":430,
       "songId": 265,
       "chorus": "",
       "key": "Fa majeur",
