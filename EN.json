@@ -4040,316 +4040,339 @@
       "songTitle": "COME, LET US ALL UNITE TO SING",
       "id": 418,
       "songId": 322,
-      "chorus": "God is love! God is love! Come, let us all unite to sing that God is love.",
+      "chorus": "God is love! God is love! \nCome, let us all unite to sing that God is \nlove.",
       "key": "E♭ major",
       "author": "Howard Kingsbury (1886)",
       "enLyrics": [
-        "Come, let us all unite to sing, God is love. Let heav’n and earth their praises bring, God is love. Let ev'ry soul from sin awake, let ev’ry heart sweet music make, and sing with us for Jesus’ sake, for God is love.",
-        "O tell to earth’s remotest bound, God is love. In Christ we have redemption found, God is love. His blood has washed our sins away, his Spirit turned our night to day, and now we can rejoice to say that God is love.",
-        "What though our mortal flesh shall fail, God is love! Through Christ we shall o’er death prevail, God is love! While endless ages roll along, we’ll triumph with the heav’nly throng and this shall be our sweetest song, that God is love!"
+        "Come, let us all unite to sing, \nGod is love. \nLet heav’n and earth their praises bring, \nGod is love. \nLet ev'ry soul from sin awake, \nlet ev’ry heart sweet music make, \nand sing with us for Jesus’ sake, \nfor God is love.",
+        "O tell to earth’s remotest bound, \nGod is love. \nIn Christ we have redemption found, \nGod is love. \nHis blood has washed our sins away, \nhis Spirit turned our night to day, \nand now we can rejoice to say \nthat God is love.",
+        "What though our mortal flesh shall fail, \nGod is love! \nThrough Christ we shall o’er death prevail, \nGod is love! \nWhile endless ages roll along, \nwe’ll triumph with the heav’nly throng \nand this shall be our sweetest song, \nthat God is love!"
       ]
     },
     {
       "songTitle": "FAIREST LORD JESUS",
+      "id": 419,
       "songId": 323,
       "chorus": "",
       "key": "F major",
       "author": "Anonyùous, Schleisische Volkslieder (1842)",
       "enLyrics": [
-        "Fairest Lord Jesus, Ruler of all nature, O thou of God and man the Son, Thee will I cherish, Thee will I honor, Thou, my soul's glory, joy, and crown.",
-        "Fair are the meadows, Fairer still the woodlands, Robed in the blooming garb of spring: Jesus is fairer, Jesus is purer Who makes the woeful heart to sing.",
-        "Fair is the sunshine, Fairer still the moonlight, And all the twinkling starry host: Jesus shines brighter, Jesus shines purer Than all the angels heaven can boast.",
-        "Beautiful Savior! Lord of all the nations! Son of God and Son of Man! Glory and honor, Praise, adoration, Now and forevermore be thine."
+        "Fairest Lord Jesus, \nRuler of all nature, \nO thou of God and man the Son, \nThee will I cherish, \nThee will I honor, \nThou, my soul's glory, joy, and crown.",
+        "Fair are the meadows, \nFairer still the woodlands, \nRobed in the blooming garb of spring: \nJesus is fairer, \nJesus is purer \nWho makes the woeful heart to sing.",
+        "Fair is the sunshine, \nFairer still the moonlight, \nAnd all the twinkling starry host: \nJesus shines brighter, \nJesus shines purer \nThan all the angels heaven can boast.",
+        "Beautiful Savior! \nLord of all the nations! \nSon of God and Son of Man! \nGlory and honor, \nPraise, adoration, \nNow and forevermore be thine."
       ]
     },
     {
       "songTitle": "THE LORD IS MY SHEPHERD",
+      "id": 420,
       "songId": 324,
       "chorus": "",
       "key": "F major",
       "author": "Rous (1650), F. H. Barthelemon, R. Simpson (1833)",
       "enLyrics": [
-        "The Lord’s my Shepherd, I’ll not want; He makes me down to lie In pastures green; He leadeth me The quiet waters by.",
-        "My soul He doth restore again, And me to walk doth make Within the paths of righteousness, E’en for His own name’s sake.",
-        "Yea, though I walk in death’s dark vale, Yet will I fear no ill; For Thou art with me, and Thy rod And staff me comfort still.",
-        "My table Thou hast furnished In presence of my foes; My head Thou dost with oil anoint, And my cup overflows.",
-        "Goodness and mercy all my life Shall surely follow me, And in God’s house forevermore My dwelling-place shall be."
+        "The Lord’s my Shepherd, I’ll not want; \nHe makes me down to lie \nIn pastures green; He leadeth me \nThe quiet waters by.",
+        "My soul He doth restore again, \nAnd me to walk doth make \nWithin the paths of righteousness, \nE’en for His own name’s sake.",
+        "Yea, though I walk in death’s dark vale, \nYet will I fear no ill; \nFor Thou art with me, and Thy rod \nAnd staff me comfort still.",
+        "My table Thou hast furnished \nIn presence of my foes; \nMy head Thou dost with oil anoint, \nAnd my cup overflows.",
+        "Goodness and mercy all my life \nShall surely follow me, \nAnd in God’s house forevermore \nMy dwelling-place shall be."
       ]
     },
     {
       "songTitle": "O THOU BLEEDING LAMB OF GOD,",
+      "id": 421,
       "songId": 325,
-      "chorus": "Wonderful place of Calvary! Wonderful place of Calvary, Where my Saviour died for me, Wonderful place of Calvary!",
+      "chorus": "Wonderful place of Calvary! \nWonderful place of Calvary, \nWhere my Saviour died for me, \nWonderful place of Calvary!",
       "key": "F major",
       "author": "Eliza E. Hewitt (1897)",
       "enLyrics": [
-        "Suffering on the rugged cross, Bearing sin and shame for me, Dying in great agony!",
-        "When with thorns men crowned Thee head And Thy precious blood they shed; When they nailed Thee to the tree Thou didst die for them and me",
-        "Only love has field Thy life, Never evil, hatred, strife. Loving, serving was Thy aim To the utmost: death and shame.",
-        "Jesus, what Thou didst for me Is a gift, so great and free; Take my life and let it be Thy reward for Calvary!"
+        "Suffering on the rugged cross, \nBearing sin and shame for me, \nDying in great agony!",
+        "When with thorns men crowned Thee head \nAnd Thy precious blood they shed; \nWhen they nailed Thee to the tree \nThou didst die for them and me",
+        "Only love has field Thy life, \nNever evil, hatred, strife. \nLoving, serving was Thy aim \nTo the utmost: death and shame.",
+        "Jesus, what Thou didst for me \nIs a gift, so great and free; \nTake my life and let it be \nThy reward for Calvary!"
       ]
     },
     {
       "songTitle": "WHY DO YOU WAIT, DEAR BROTHER",
+      "id": 422,
       "songId": 326,
-      "chorus": "Why not? why not? Why not come to Him now? Why not? why not? Why not come to Him now?",
+      "chorus": "Why not? why not? \nWhy not come to Him now? \nWhy not? why not? \nWhy not come to Him now?",
       "key": "A major",
       "author": "George Frederick Root (1878)",
       "enLyrics": [
-        "Why do you wait, dear brother, Oh, why do you tarry so long? Your Savior is waiting to give you A place in His sanctified throng.",
-        "What do you hope, dear brother, To gain by a further delay? There’s no one to save you but Jesus, There’s no other way but His way.",
-        "Do you not feel, dear brother, His Spirit now striving within? Oh, why not accept His salvation, And throw off your burden of sin?",
-        "Why do your wait, dear brother? The harvest is passing away; Your Savior is longing to bless you, There are danger and death in delay."
+        "Why do you wait, dear brother, \nOh, why do you tarry so long? \nYour Savior is waiting to give you \nA place in His sanctified throng.",
+        "What do you hope, dear brother, \nTo gain by a further delay? \nThere’s no one to save you but Jesus, \nThere’s no other way but His way.",
+        "Do you not feel, dear brother, \nHis Spirit now striving within? \nOh, why not accept His salvation, \nAnd throw off your burden of sin?",
+        "Why do your wait, dear brother? \nThe harvest is passing away; \nYour Savior is longing to bless you, \nThere are danger and death in delay."
       ]
     },
     {
-      "songTitle": "JESUS IS TENDERLY CALLINGTHEE HOME",
+      "songTitle": "JESUS IS TENDERLY CALLING THEE HOME",
+      "id": 423,
       "songId": 327,
-      "chorus": "Calling to-day, calling to-day! Jesus is calling, Is tenderly calling",
+      "chorus": "Calling to-day, calling to-day! \nJesus is calling, Is tenderly calling",
       "key": "C major",
       "author": "F. J. Crosby (1820-1915), G. C. Stebbins, (1846-1945)",
       "enLyrics": [
-        "Calling to-day, Calling to-day! Why from the sunshine of love wilt thouroam, Farther and farther away?",
-        "Jesus is calling the weary to rest – Calling to-day, calling to-day! Bring Him thy burden and thou shalt be blest: He will not turn thee away.",
-        "Jesus is waiting, oh, come to Him now – Waiting to-day, waiting to-day! Come thy sin, at His feet lowly bow; Come and no longer delay!",
-        "Jesus is pleading; oh list to His voice - Hear Him to-day, hear Him to-day! They who believe on His name shall rejoice; Quickly arise and away!"
+        "Calling to-day, Calling to-day! \nWhy from the sunshine of love wilt thouroam, \nFarther and farther away?",
+        "Jesus is calling the weary to rest – \nCalling to-day, calling to-day! \nBring Him thy burden and thou shalt be blest: \nHe will not turn thee away.",
+        "Jesus is waiting, oh, come to Him now – \nWaiting to-day, waiting to-day! \nCome thy sin, at His feet lowly bow; \nCome and no longer delay!",
+        "Jesus is pleading; oh list to His voice - \nHear Him to-day, hear Him to-day! \nThey who believe on His name shall rejoice; \nQuickly arise and away!"
       ]
     },
     {
       "songTitle": "HAVE YOU BEEN TO JESUS FOR THE CLEANSING POWER?",
+      "id": 424,
       "songId": 328,
-      "chorus": "Are you washed in the blood? In the soul-cleasing blood of the Lamb? Are your garments spotless?. Are they washed in the blood of the Lamb?",
+      "chorus": "Are you washed in the blood? \nIn the soul-cleasing blood of the Lamb? \nAre your garments spotless?. \nAre they washed in the blood of the Lamb?",
       "key": "A ♭ major",
       "author": "E. A. Hoffman (1878)",
       "enLyrics": [
-        "Are you washed in the blood of the Lamb?. Do you fully trust in His grace this hour? Are you washed in the blood of the Lamb? There’s wonderful power in the blood.",
-        "Are you walking daily by the Saviour's side? Are you washed in the blood of the Lamb?. Do you rest each moment in the Crucified? Are you washed in the blood of the Lamb?",
-        "When the Bridegroom cometh will your robes be white? Pure and white in the bloom of the Lamb?. Will your soul be ready for the mansions bright?; And be washed in the blood of the lamb?."
+        "Are you washed in the blood of the Lamb?. \nDo you fully trust in His grace this hour? \nAre you washed in the blood of the Lamb? \nThere’s wonderful power in the blood.",
+        "Are you walking daily by the Saviour's side? \nAre you washed in the blood of the Lamb?. \nDo you rest each moment in the Crucified? \nAre you washed in the blood of the Lamb?",
+        "When the Bridegroom cometh will your \nrobes be white? \nPure and white in the bloom of the Lamb?. \nWill your soul be ready for the mansions \nbright?; \nAnd be washed in the blood of the lamb?."
       ]
     },
     {
       "songTitle": "THERE IS A FOUNTAIN FILLED",
+      "id": 425,
       "songId": 329,
-      "chorus": "The dying thief rejoiced to see that fountain in his day; And there may I, though vile as he, Wash all my sins away.",
+      "chorus": "The dying thief rejoiced to see that \nfountain in his day; \nAnd there may I, though vile as he, \nWash all my sins away.",
       "key": "G major",
       "author": "William Cowper (1772)",
       "enLyrics": [
-        "There is a fountain filled with blood Drawn from Emmanuel’s veins, And sinners plunged beneath that flood Lose all their guilty stains.",
-        "I do believe, I will believe, That Jesus died for me! – That on the cross He shed His blood, For sin to set me free.",
-        "Dear dying lamb, Thy precious blood, Shall never lose its power, Till all the ransomed church of God Be save to sin no more.",
-        "E’er since by faith I saw the stream Thy flowing wounds supply, Redeeming love has been my theme, And shall be till I die.,"
+        "There is a fountain filled with blood \nDrawn from Emmanuel’s veins, \nAnd sinners plunged beneath that flood \nLose all their guilty stains.",
+        "I do believe, I will believe, \nThat Jesus died for me! – \nThat on the cross He shed His blood, \nFor sin to set me free.",
+        "Dear dying lamb, Thy precious blood, \nShall never lose its power, \nTill all the ransomed church of God \nBe save to sin no more.",
+        "E’er since by faith I saw the stream \nThy flowing wounds supply, \nRedeeming love has been my theme, \nAnd shall be till I die.,"
       ]
     },
     {
       "songTitle": "I’VE WANDERED FAR AWAY FROM GOD,",
+      "id": 426,
       "songId": 330,
-      "chorus": "Coming home, coming home, Never more to roam; The paths of sin too long I’ve trod, Lord I’m coming home.",
+      "chorus": "Coming home, coming home, \nNever more to roam; \nThe paths of sin too long I’ve trod, \nLord I’m coming home.",
       "key": "A♭ major",
       "author": "William J. Kirkpatrick (1892)",
       "enLyrics": [
-        "Now I’m coming home; The paths of sin too long I’ve trod, Lord, I’m coming home.",
-        "I’ve wasted many precious years, Now I’m coming home; I now repent with bitter tears, Lord, I’m coming home.",
-        "I’ve tired of sin and straying, Lord, Now I’m coming home; I’ll trust Thy love, believe Thy Word, Lord, I’m coming home.",
-        "My soul is sick, my heart is sore, Now I’m coming home; My strength renew, my hope restore, Lord, I’m coming home."
+        "Now I’m coming home; \nThe paths of sin too long I’ve trod, \nLord, I’m coming home.",
+        "I’ve wasted many precious years, \nNow I’m coming home; \nI now repent with bitter tears, \nLord, I’m coming home.",
+        "I’ve tired of sin and straying, Lord, \nNow I’m coming home; \nI’ll trust Thy love, believe Thy Word, \nLord, I’m coming home.",
+        "My soul is sick, my heart is sore, \nNow I’m coming home; \nMy strength renew, my hope restore, \nLord, I’m coming home."
       ]
     },
     {
       "songTitle": "I AM SAVED AND I AM FREE",
+      "id": 427,
       "songId": 331,
-      "chorus": "Jesus is everything to me, My joy, my life, my victory. He changed my life and set me free; Yes, He is everything to me.",
+      "chorus": "Jesus is everything to me, \nMy joy, my life, my victory. \nHe changed my life and set me free; \nYes, He is everything to me.",
       "key": "F major",
       "author": "Unknown",
       "enLyrics": [
-        "From the devil’s slavery And with joy I now follow the Lord. Narrow is the road of life, Full of suffering, pain and strife But my Lord walks with me all the time.",
-        "I am saved and I am free, this I know. My surety Is God’s Spirit that dwells in my heart. If the tempter tempts with doubt Conqu’ring him in faith I’ll shout, “God is true and His Word never lies.”",
-        "I am saved and I am free, Guarded for eternity; Nothing ever can turn me from God. Strong and mighty is the foe, But whatever He may do, Christ confounded His works on the cross.",
-        "I am saved and I am free; Whosoever longs to be Just like me, Christ is ready for him. Jesus died to save from hell Every sinner, you as well; Only come, give your heart now to Him."
+        "From the devil’s slavery \nAnd with joy I now follow the Lord. \nNarrow is the road of life, \nFull of suffering, pain and strife \nBut my Lord walks with me all the time.",
+        "I am saved and I am free, this I know. \nMy surety \nIs God’s Spirit that dwells in my heart. \nIf the tempter tempts with doubt \nConqu’ring him in faith I’ll shout, \n“God is true and His Word never lies.”",
+        "I am saved and I am free, \nGuarded for eternity; \nNothing ever can turn me from God. \nStrong and mighty is the foe, \nBut whatever He may do, \nChrist confounded His works on the cross.",
+        "I am saved and I am free; \nWhosoever longs to be \nJust like me, Christ is ready for him. \nJesus died to save from hell \nEvery sinner, you as well; \nOnly come, give your heart now to Him."
       ]
     },
     {
       "songTitle": "MORE ABOUT JESUS WOULD I KNOW,",
+      "id": 428,
       "songId": 332,
-      "chorus": "More, more about Jesus; More, more about Jesus; More of His saving fullness see, More of His love who died for me.",
+      "chorus": "More, more about Jesus; \nMore, more about Jesus; \nMore of His saving fullness see, \nMore of His love who died for me.",
       "key": "G major",
       "author": "E. E. Hewitt (1887), John R. Sweney, pub.1887)",
       "enLyrics": [
-        "More of His grace to others show; More of His saving fullness see, More of His love who died for me.",
-        "More about Jesus let me learn, More of His holy will discern; Spirit of God, my teacher be, Showing the things of Christ to me.",
-        "More about Jesus; in His Word Holding communion with my Lord, Hearing his voice in every line, Making each faithful saying mine.",
-        "More about Jesus; on His throne, Riches in glory all His own; More of His kingdoms sure increase; More of His coming – Prince of Peace."
+        "More of His grace to others show; \nMore of His saving fullness see, \nMore of His love who died for me.",
+        "More about Jesus let me learn, \nMore of His holy will discern; \nSpirit of God, my teacher be, \nShowing the things of Christ to me.",
+        "More about Jesus; in His Word \nHolding communion with my Lord, \nHearing his voice in every line, \nMaking each faithful saying mine.",
+        "More about Jesus; on His throne, \nRiches in glory all His own; \nMore of His kingdoms sure increase; \nMore of His coming – Prince of Peace."
       ]
     },
     {
       "songTitle": "THERE A CALL COMES RINGING O’ER THE RESTLESS WAVES,",
+      "id": 429,
       "songId": 333,
-      "chorus": "Oh, send the light, The blessed Gospel light! Let it shine from shore to shore! Send the light, the blessed Gospel light! Let it shine forevermore!",
+      "chorus": "Oh, send the light, \nThe blessed Gospel light! \nLet it shine from shore to shore! \nSend the light, the blessed Gospel light! \nLet it shine forevermore!",
       "key": "G major",
       "author": "Chas. H. Gabriel (1890)",
       "enLyrics": [
-        "“Send the light, send the light!” There are souls to rescue, There are souls to save, “Send the light, send the light!”",
-        "We have heard the Macedonian call to-day, “Send the light, send the light!” And our grateful off’ rings At the cross we lay. “Send the light, send the light!”",
-        "May the grace of Jesus on to all abound. “Send the light, send the light!” And a Christ-like spirit Ev’ry where be found, “Send the light, send the light!”",
-        "Let us not grow weary In the work of love. “Send the light, send the light!” While we gather jewels For our crown above. “Send the light, send the light!”"
+        "“Send the light, send the light!” \nThere are souls to rescue, \nThere are souls to save, \n“Send the light, send the light!”",
+        "We have heard the Macedonian call to-day, \n“Send the light, send the light!” \nAnd our grateful off’ rings \nAt the crossn we lay. \n“Send the light, send the light!”",
+        "May the grace of Jesus on to all abound. \n“Send the light, send the light!” \nAnd a Christ-like spirit \nEv’ry where be found, \n“Send the light, send the light!”",
+        "Let us not grow weary \nIn the work of love. \n“Send the light, send the light!” \nWhile we gather jewels \nFor our crown above. \n“Send the light, send the light!”"
       ]
     },
     {
       "songTitle": "WORK, FOR THE NIGHT IS COMING!",
+      "id": 430,
       "songId": 334,
       "chorus": "",
       "key": "F major",
       "author": "Anna L. Coghill (1854), Lowell Mason (1864)",
       "enLyrics": [
-        "Work thro’ the morning hours; Work while the dew is sparkling; Work ‘mid springing flow’rs. Work while the day grows brighter, Under the glowing sun; Work, for the night is coming, When man’s work is done.",
-        "Work, for the night is coming! Work thro’ the sunny noon; Fill brightest hours with labour; Rest comes sure and soon: Give ev’ry flying minute Something to keep in store; Work, for the night is coming, When man works no more.",
-        "Work, for the night is coming! Under the sunset skies, While their bright tints are glowing, Work, day-light flies; Work till the last beam fadeth, Fadeth to shine no more; Work while the night is dark’ning, When man’s work is o’er."
+        "Work thro’ the morning hours; \nWork while the dew is sparkling; \nWork ‘mid springing flow’rs. \nWork while the day grows brighter, \nUnder the glowing sun; \nWork, for the night is coming, \nWhen man’s work is done.",
+        "Work, for the night is coming! \nWork thro’ the sunny noon; \nFill brightest hours with labour; \nRest comes sure and soon: \nGive ev’ry flying minute \nSomething to keep in store; \nWork, for the night is coming, \nWhen man works no more.",
+        "Work, for the night is coming! \nUnder the sunset skies, \nWhile their bright tints are glowing, \nWork, day-light flies; \nWork till the last beam fadeth, \nFadeth to shine no more; \nWork while the night is dark’ning, \nWhen man’s work is o’er."
       ]
     },
     {
       "songTitle": "BANNERS OF VIC’TRY SHALL GO BEFORE US",
+      "id": 431,
       "songId": 335,
-      "chorus": "Jesus, our Lord, To Thee we give honour and glory! Jesus, our Lord, To Thee we give all our life.",
+      "chorus": "Jesus, our Lord, \nTo Thee we give honour and glory! \nJesus, our Lord, \nTo Thee we give all our life.",
       "key": "E♭ major",
       "author": "Unknown",
       "enLyrics": [
-        "To lea our way through the night. Jesus is with us, Fighting at our side Revealing His power and might.",
-        "Take up the weapons! The Spirit upon us, We shall conquer Satan’s domain. Bravely go onward, Fight with your whole heart, Soon will Satan’s army be slain.",
-        "Jesus is with us. Never He fails us, Remain true in suff’ring and pain Him we shall follow, Never forsake Him, Till surely as a King He will reign."
+        "To lea our way through the night. \nJesus is with us, \nFighting at our side \nRevealing His power and might.",
+        "Take up the weapons! \nThe Spirit upon us, \nWe shall conquer Satan’s domain. \nBravely go onward, \nFight with your whole heart, \nSoon will Satan’s army be slain.",
+        "Jesus is with us. \nNever He fails us, \nRemain true in suff’ring and pain \nHim we shall follow, \nNever forsake Him, \nTill surely as a King He will reign."
       ]
     },
     {
       "songTitle": "IN THY NAME , OH BLESSED SAVIOUR,",
+      "id": 432,
       "songId": 336,
-      "chorus": "Lift the flood-gates, Lift the flood-gates, Let the tide sweeping in; Blessed tide of full salvation, Washing, cleansing, from all sin.",
+      "chorus": "Lift the flood-gates, \nLift the flood-gates, \nLet the tide sweeping in; \nBlessed tide of full salvation, \nWashing, cleansing, from all sin.",
       "key": "A ♭ major",
       "author": "Mrs. C. H. Morris (19O8)",
       "enLyrics": [
-        "Gathered in this sacred place; Here we seek a Father’s blessing, Plead and pray for needed grace; From the ocean of Thy fullness, Boundless, fathomless and free, Let a tidal wave come sweeping, Setting hearts at liberty.",
-        "Lift the flood-gates, let salvation In tremendous currents flow, To the uttermost fulfilling Thy blest mission here below; Until myriads of sinners, Born on love’s resistless tide, Shall be swept into the kingdom, And believers sanctified.",
-        "It is coming, we believe it, Thou dost hear and answer prayer; It is coming, we shall see it, Thine almighty arm made bare; Tides of power, tides of glory, Holy tides of perfect love, Satisfying, overflowing, Coming on us from above."
+        "Gathered in this sacred place; \nHere we seek a Father’s blessing, \nPlead and pray for needed grace; \nFrom the ocean of Thy fullness, \nBoundless, fathomless and free, \nLet a tidal wave come sweeping, \nSetting hearts at liberty.",
+        "Lift the flood-gates, let salvation \nIn tremendous currents flow, \nTo the uttermost fulfilling \nThy blest mission here below; \nUntil myriads of sinners, \nBorn on love’s resistless tide, \nShall be swept into the kingdom, \nAnd believers sanctified.",
+        "It is coming, we believe it, \nThou dost hear and answer prayer; \nIt is coming, we shall see it, \nThine almighty arm made bare; \nTides of power, tides of glory, \nHoly tides of perfect love, \nSatisfying, overflowing, \nComing on us from above."
       ]
     },
     {
       "songTitle": "THEY WERE IN AN UPER CHAMBER",
+      "id": 433,
       "songId": 337,
-      "chorus": "O Lord, send the power just now, (x3) And baptize every one.",
+      "chorus": "O Lord, send the power just now, (x3) \nAnd baptize every one.",
       "key": "F major",
       "author": "Charles D. Tillman, (1895)",
       "enLyrics": [
-        "They were in an upper chamber, They were all with one accord, When the Holy Ghost descended As was promised by the Lord.",
-        "Yes, the pow’r from Heav’n descended With the sound of rushing wind; Tongues of fire came down upon them, As the Lord said He would send. [Refrain]",
-        "Yes, this old-time pow’r was given To our fathers who were true; This is promised to believers, And we all may have it too"
+        "They were in an upper chamber, \nThey were all with one accord, \nWhen the Holy Ghost descended \nAs was promised by the Lord.",
+        "Yes, the pow’r from Heav’n descended \nWith the sound of rushing wind; \nTongues of fire came down upon them, \nAs the Lord said He would send. [Refrain]",
+        "Yes, this old-time pow’r was given \nTo our fathers who were true; \nThis is promised to believers, \nAnd we all may have it too"
       ]
     },
     {
       "songTitle": "OH COME, ALL YE FAITHFUL,",
+      "id": 434,
       "songId": 338,
-      "chorus": "O come, let us adore Him! O come, let us adore Him! O come, let us adore Him, Christ, the Lord!",
+      "chorus": "O come, let us adore Him! \nO come, let us adore Him! \nO come, let us adore Him, \nChrist, the Lord!",
       "key": "F major",
       "author": "John Francis Wade (1743); Frederick Oakeley (1841)",
       "enLyrics": [
-        "Joyful and triumphant, O come ye, o come ye to Bethlehem! Come and behold Him, Born the king of angels!",
-        "Sing, choirs of angels, Sing in exultation! O sing, all ye bright hosts Of heav’n above. Glory to God, All glory in the highest.",
-        "Yea, Lord, we greet Thee, Born this happy morning; O Jesus, to Thee be all glory giv’n. Word of the Father, Now in flesh appearing."
+        "Joyful and triumphant, \nO come ye, o come ye to Bethlehem! \nCome and behold Him, \nBorn the king of angels!",
+        "Sing, choirs of angels, \nSing in exultation! \nO sing, all ye bright hosts \nOf heav’n above. \nGlory to God, \nAll glory in the highest.",
+        "Yea, Lord, we greet Thee, \nBorn this happy morning; \nO Jesus, to Thee be all glory giv’n. \nWord of the Father, \nNow in flesh appearing."
       ]
     },
     {
       "songTitle": "SILENT NIGHT! HOLY NIGHT!",
+      "id": 435,
       "songId": 339,
       "chorus": "",
       "key": "B ♭ major",
       "author": "Joseph Mohr (1818); Translator: Jane M. C.(1863), Tune: STILLE NACHT",
       "enLyrics": [
-        "All is calm, all is bright Round the virgin mother and child, Holy infant, so tender and mild. Sleep in heavenly peace, Sleep in heavenly peace!",
-        "Silent night! Holy night! Shepherds quake at the sight. Glories stream from heaven afar; Heav’nly hosts sing Allelujah. Christ the Saviour is born! Christ the Saviour is born!",
-        "Silent night! Holy night! Son of God, love’s pure light Radiant beams from Thy holy face, With the dawn of redeeming grace, Jesus, Lord, at Thy birth! Jesus, Lord, at Thy birth!"
+        "All is calm, all is bright \nRound the virgin mother and child, \nHoly infant, so tender and mild. \nSleep in heavenly peace, \nSleep in heavenly peace!",
+        "Silent night! Holy night! \nShepherds quake at the sight. \nGlories stream from heaven afar; \nHeav’nly hosts sing Allelujah. \nChrist the Saviour is born! \nChrist the Saviour is born!",
+        "Silent night! Holy night! \nSon of God, love’s pure light \nRadiant beams from Thy holy face, \nWith the dawn of redeeming grace, \nJesus, Lord, at Thy birth! \nJesus, Lord, at Thy birth!"
       ]
     },
     {
       "songTitle": "O FOR A THOUSAND TONGUES TO SING",
+      "id": 436,
       "songId": 340,
       "chorus": "",
       "key": "G major",
       "author": "Ch. Wesley (1739), C. G. Gläser (1828) L. Mason (1839)",
       "enLyrics": [
-        "My great redeemer’s praise, (2x) The glories of my God and King, The triumph of, The triumph of His grace.(3x)",
-        "Jesus! The name that charms our fear That bids our sorrows cease, (2x) ‘Tis music in the sinner’s ears, ‘Tis life and health, ‘Tis life and health and peace. (3x)",
-        "He breaks the power of canceled sin, He sets the prisoner free; (2x) His blood can make the foulest clean; His blood availed, His blood availed for me. (3x)",
-        "Hear Him ye deaf; His praise, ye dumb, Your loosened tongues employ; (2x) Ye blind, behold your Saviour come; And leap, ye lame, And leap, ye lame, for joy. (3x)"
+        "My great redeemer’s praise, (2x) \nThe glories of my God and King, \nThe triumph of, The triumph of His grace.(3x)",
+        "Jesus! The name that charms our fear \nThat bids our sorrows cease, (2x) \n‘Tis music in the sinner’s ears, \n‘Tis life and health, \n‘Tis life and health and peace. (3x)",
+        "He breaks the power of canceled sin, \nHe sets the prisoner free; (2x) \nHis blood can make the foulest clean; \nHis blood availed, \nHis blood availed for me. (3x)",
+        "Hear Him ye deaf; His praise, ye dumb, \nYour loosened tongues employ; (2x) \nYe blind, behold your Saviour come; \nAnd leap, ye lame, \nAnd leap, ye lame, for joy. (3x)"
       ]
     },
     {
       "songTitle": "GOD SENT HIS SON, THEY CALLED HIM JESUS,",
+      "id": "437a",
       "songId": 341,
-      "chorus": "Because He lives I can face tomorrow Because He lives all fear is gone; Because I know He holds the future. And life is worth the living just Because He lives.",
+      "chorus": "Because He lives I can face tomorrow \nBecause He lives all fear is gone; \nBecause I know He holds the future. \nAnd life is worth the living just \nBecause He lives.",
       "key": "A ♭ major",
       "author": "Gloria Gaither (1971); Bill Gaither (1971)",
       "enLyrics": [
-        "He came to love, heal and forgive; He lived and died to buy my pardon, An empty grave is there to prove My Saviour lives.",
-        "How sweet to hold a new-born baby, And feel the pride and joy He gives; But greater still the calm assurance, This child can face uncertain days Because He lives.",
-        "And then one day I’ll cross the river, I’ll fight life’s final war with pain; And then as death gives way to vict’ry, I’ll see the lights of glory and I’ll know He live"
+        "He came to love, heal and forgive; \nHe lived and died to buy my pardon, \nAn empty grave is there to prove \nMy Saviour lives.",
+        "How sweet to hold a new-born baby, \nAnd feel the pride and joy He gives; \nBut greater still the calm assurance, \nThis child can face uncertain days \nBecause He lives.",
+        "And then one day I’ll cross the river, \nI’ll fight life’s final war with pain; \nAnd then as death gives way to vict’ry, \nI’ll see the lights of glory and I’ll know He \nlive"
       ]
     },
     {
       "songTitle": "THERE IS A REDEEMER,",
+      "id": 438,
       "songId": 342,
-      "chorus": "Thank you, oh, my Father, For giving us Your own Son, And leaving your Spirit Till the work on earth is done.",
+      "chorus": "Thank you, oh, my Father, \nFor giving us Your own Son, \nAnd leaving your Spirit \nTill the work on earth is done.",
       "key": "C major",
       "author": "Keith Gordon Green ( 1953 - 1982)",
       "enLyrics": [
-        "Jesus, God’s own Son; Precious Lamb of God, Messiah, Holy One",
-        "Jesus, my redeemer, Name above all names; Precious Lamb of God, Messiah, O for sinners slain.",
-        "When I stand in glory, I will see His face, There I’ll serve my King forever In that holy place."
+        "Jesus, God’s own Son; \nPrecious Lamb of God, Messiah, \nHoly One",
+        "Jesus, my redeemer, \nName above all names; \nPrecious Lamb of God, Messiah, \nO for sinners slain.",
+        "When I stand in glory, \nI will see His face, \nThere I’ll serve my King forever \nIn that holy place."
       ]
     },
     {
       "songTitle": "YES CHRIST IS THERE",
+      "id":"440b",
       "songId": 343,
-      "chorus": "Yes Christ is there, ready to defend me, And fight for me, He will never leave me. (x2)",
+      "chorus": "Yes Christ is there, ready to defend me, \nAnd fight for me, \nHe will never leave me. (x2)",
       "key": "",
       "author": "Unknown author",
       "enLyrics": [
-        "Beelzebub, the ruler of all evil spirits, Had sent his fiery And great chief to devour me. That enormous dragon Was extremely angry, In great wrath he was set At once to swallow me.",
-        "He waged war against me, He was so determined; If not the blood of Christ, I’d have been swept away; To fight the wroth dragon, One must be committed, And not love his life but, Be watchful everyday.",
-        "The Lord Almighty kept Watch over my defence, With a two-edgèd sword, He armed my feeble hand. By His powerful help I obtained deliverance, I wounded the dragonthat ran off so sudden.",
-        "Blessed be foreverThe author of my victory, My dear Emmanuel, My shield and my rescuer! Grant me Lord, from now On to live for your glory, You who in the fight Have been my Deliverer."
+        "Beelzebub, the ruler of all evil spirits, \nHad sent his fiery \nAnd great chief to devour me. \nThat enormous dragon \nWas extremely angry, \nIn great wrath he was set \nAt once to swallow me.",
+        "He waged war against me, \nHe was so determined; \nIf not the blood of Christ, \nI’d have been swept away; \nTo fight the wroth dragon, \nOne must be committed, \nAnd not love his life but, \nBe watchful everyday.",
+        "The Lord Almighty kept \nWatch over my defence, \nWith a two-edgèd sword, \nHe armed my feeble hand. \nBy His powerful help \nI obtained deliverance, \nI wounded the dragonthat ran off so sudden.",
+        "Blessed be forever The author of my victory, \nMy dear Emmanuel, \nMy shield and my rescuer! \nGrant me Lord, from now \nOn to live for your glory, \nYou who in the fight \nHave been my Deliverer."
       ]
     },
     {
       "songTitle": "NO LONGER SLAVES",
+      "id":441,
       "songId": 344,
-      "chorus": "I'm no longer a slave to fear I am a child of God I'm no longer a slave to fear I am a child of God",
+      "chorus": "I'm no longer a slave to fear \nI am a child of God \nI'm no longer a slave to fear \nI am a child of God",
       "key": "B ♭ major",
       "author": "J. D.Helser, M. Helser, Joel Case, B. M. Johnson (2O14)",
       "enLyrics": [
-        "You unravel me with a melody You surround me with a song Of deliverance from my enemies 'Til all my fears are gone",
-        "From my mother's womb You have chosen me Love has called my name I've been born again to a family Your blood flows through my veins Chorus…",
-        "You split the sea So I could walk right through it My fears are drowned in perfect love You rescued me, And I will stand and sing I am a child of God Chorus…"
+        "You unravel me with a melody \nYou surround me with a song \nOf deliverance from my enemies \n'Til all my fears are gone",
+        "From my mother's womb \nYou have chosen me \nLove has called my name \nI've been born again to a family \nYour blood flows through my veins \nChorus…",
+        "You split the sea \nSo I could walk right through it \nMy fears are drowned in perfect love \nYou rescued me, And I will stand and sing \nI am a child of God \nChorus…"
       ]
     },
     {
       "songTitle": "MY HEART IS FULL OF JOY",
+      "id":443,
       "songId": 345,
       "chorus": "",
       "key": "E major",
       "author": "H. A. César Malan (1832)",
       "enLyrics": [
-        "My heart is full of joy and gladness, Longing for You, my Redeemer! Give heed to me Lord in Your goodness, For I am a wretched sinner, You alone Lord, are my happiness And I’ll trust in You forever.",
-        "On the way to heaven I’m gladly Following Your footsteps my King. When I am tired, You strengthen me, When I am down, You make me sing; And in danger, You hold me firmly, For You are caring and loving.",
-        "Your light, Lord, is before me by day, And I find rest in You by night. In the morning You show me the way, And you lead me by Your great might. And as I kneel before You to pray, You give me vict’ry in the fight.",
-        "I will soon leave this earth by Your grace, For you’ve promised to take me home. I look forward to seeing Your face, To receiving a warm welcome. And I am sure I will win the race, If the grave shuts itself on me"
+        "My heart is full of joy and gladness, \nLonging for You, my Redeemer! \nGive heed to me Lord in Your goodness, \nFor I am a wretched sinner, \nYou alone Lord, are my happiness \nAnd I’ll trust in You forever.",
+        "On the way to heaven I’m gladly \nFollowing Your footsteps my King. \nWhen I am tired, You strengthen me, \nWhen I am down, You make me sing; \nAnd in danger, You hold me firmly, \nFor You are caring and loving.",
+        "Your light, Lord, is before me by day, \nAnd I find rest in You by night. \nIn the morning You show me the way, \nAnd you lead me by Your great might. \nAnd as I kneel before You to pray, \nYou give me vict’ry in the fight.",
+        "I will soon leave this earth by Your grace, \nFor you’ve promised to take me home. \nI look forward to seeing Your face, \nTo receiving a warm welcome. \nAnd I am sure I will win the race, \nIf the grave shuts itself on me"
       ]
     },
     {
       "songTitle": "I AM THE GOD THAT HEALETH THEE",
       "id": 447,
       "songId": 346,
-      "chorus": "You sent Your word And You healed My disease x2 You are the Lord My healer",
+      "chorus": "You sent Your word \nAnd You healed My disease x2 \nYou are the Lord \nMy healer",
       "key": "E ♭ major to F major",
       "author": "Don Moen Give Thanks (1986)",
       "enLyrics": [
-        "I am the God that Healeth thee I am the Lord Your healer I sent My word And I healed your disease I am the Lord Your healer",
-        "You are the God that Healeth me You are the Lord My healer",
-        "You sent Your word And You healed my disease You are the Lord My healer"
+        "I am the God that \nHealeth thee \nI am the Lord \nYour healer \nI sent My word \nAnd I healed your disease \nI am the Lord \nYour healer",
+        "You are the God that \nHealeth me \nYou are the Lord \nMy healer",
+        "You sent Your word \nAnd You healed my disease \nYou are the Lord \nMy healer"
       ]
     }
   ]
